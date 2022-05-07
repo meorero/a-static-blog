@@ -245,9 +245,9 @@
     <category term="Noam" scheme="http://www.a-static.blog/categories/Noam/"/>
     
     
-    <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
-    
     <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
+    
+    <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
     
   </entry>
   
@@ -524,11 +524,11 @@
     <category term="Noam" scheme="http://www.a-static.blog/categories/Noam/"/>
     
     
+    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
+    
     <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
     
     <category term="Movie" scheme="http://www.a-static.blog/tags/Movie/"/>
-    
-    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
     
   </entry>
   
@@ -572,9 +572,9 @@
     <category term="Noam Maurer" scheme="http://www.a-static.blog/categories/Noam-Maurer/"/>
     
     
-    <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
-    
     <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
+    
+    <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
     
   </entry>
   
