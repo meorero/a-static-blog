@@ -52,8 +52,18 @@
     <updated>2022-04-11T20:14:00.099Z</updated>
     
     
-    <summary type="html">אז גם אנחנו כמו רבים עברנו את זה. שבוע בידוד משפחתי, שרדנו. https://youtu.be/.
-מנסה RTL בלי תג. אלא עם Direction.</summary>
+    <summary type="html">&lt;div dir=&#39;rtl&#39;&gt;אז גם אנחנו כמו רבים עברנו את זה.
+שבוע בידוד משפחתי, שרדנו
+
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    posi</summary>
     
     
     
@@ -72,11 +82,18 @@
     <updated>2022-02-11T13:07:44.084Z</updated>
     
     
-    <summary type="html">נועם בן 8, סרטון יום הולדת
-
-https://youtu.be/hXskP1elxn8
-
- .</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;נועם בן 8, סרטון יום הולדת&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/hXskP1elxn8&quot;&gt;https://youtu.be/hXskP1elxn8&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+  &lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container</summary>
     
     
     
@@ -93,11 +110,16 @@ https://youtu.be/hXskP1elxn8
     <updated>2022-02-11T17:53:03.747Z</updated>
     
     
-    <summary type="html">ברור שיש סרטון בשביל שלו, לכבוד יום הולדתו, שלו בן 5.
-
-ערכתי סרטון עם תמונות - וברקע השיר “בוא לריו”. בבקשה לראות עד הסוף.
-
-.</summary>
+    <summary type="html">&lt;p&gt;ברור שיש סרטון בשביל שלו, לכבוד יום הולדתו,  שלו בן 5.&lt;/p&gt;
+&lt;p&gt;ערכתי סרטון עם תמונות - וברקע השיר “בוא לריו”.   בבקשה לראות עד הסוף.&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container if</summary>
     
     
     
@@ -114,13 +136,12 @@ https://youtu.be/hXskP1elxn8
     <updated>2022-02-12T19:11:45.334Z</updated>
     
     
-    <summary type="html">עינב בת חמש. הכנתי לה סרטון עם תמונות- ברקע: השיר זו ילדותי השנייה. 
-
-ואיתך יום נוסף אבקש, אנחנו כבר בני חמש.
-
-https://www.youtube.com/embed/hl39csjnCLU&quot;
-
-.</summary>
+    <summary type="html">&lt;p&gt;עינב בת חמש. הכנתי לה סרטון עם תמונות- ברקע: השיר זו ילדותי השנייה. &lt;/p&gt;
+&lt;p&gt;ואיתך יום נוסף אבקש, אנחנו כבר בני חמש.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/embed/hl39csjnCLU&amp;quot;&quot;&gt;https://www.youtube.com/embed/hl39csjnCLU&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    paddin</summary>
     
     
     
@@ -137,9 +158,10 @@ https://www.youtube.com/embed/hl39csjnCLU&quot;
     <updated>2022-02-11T17:32:39.713Z</updated>
     
     
-    <summary type="html">סרטון לכבוד יום הולדתו של נועם. נועם בן 7! ביוטיוב: https://youtu.be/ZZH0d9g3Eqc כאן: [embed]https://youtu.be/ZZH0d9g3Eqc\[/embed\]
-
-.</summary>
+    <summary type="html">&lt;p&gt;סרטון לכבוד יום הולדתו של נועם. נועם בן 7! ביוטיוב: &lt;a href=&quot;https://youtu.be/ZZH0d9g3Eqc&quot;&gt;https://youtu.be/ZZH0d9g3Eqc&lt;/a&gt; כאן: [embed]&lt;a href=&quot;https://youtu.be/ZZH0d9g3Eqc/[/embed/]&quot;&gt;https://youtu.be/ZZH0d9g3Eqc\[/embed\]&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bot</summary>
     
     
     
@@ -156,9 +178,15 @@ https://www.youtube.com/embed/hl39csjnCLU&quot;
     <updated>2022-02-11T17:33:20.449Z</updated>
     
     
-    <summary type="html">עינב בת 4 - סרטון יום הולדת. https://youtu.be/GprreQoGxR4
-
-.</summary>
+    <summary type="html">&lt;p&gt;עינב בת 4 - סרטון יום הולדת. &lt;a href=&quot;https://youtu.be/GprreQoGxR4&quot;&gt;https://youtu.be/GprreQoGxR4&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, </summary>
     
     
     
@@ -175,9 +203,15 @@ https://www.youtube.com/embed/hl39csjnCLU&quot;
     <updated>2022-02-12T19:13:01.661Z</updated>
     
     
-    <summary type="html">סרטון יום הולדת 4 - שלו https://youtu.be/gl1NuACn03Y
-
-.</summary>
+    <summary type="html">&lt;p&gt;סרטון יום הולדת 4 - שלו &lt;a href=&quot;https://youtu.be/gl1NuACn03Y&quot;&gt;https://youtu.be/gl1NuACn03Y&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embe</summary>
     
     
     
@@ -194,13 +228,15 @@ https://www.youtube.com/embed/hl39csjnCLU&quot;
     <updated>2022-02-11T17:28:53.679Z</updated>
     
     
-    <summary type="html">נועם בן שש.
-
-לבקשתו - השיר ברקע הוא שירו של עילי בוטנר “מכתב לאחי” ששר קובי אפללו.
-
-https://youtu.be/XSJQZNljfoc
-
-.</summary>
+    <summary type="html">&lt;p&gt;נועם בן שש.&lt;/p&gt;
+&lt;p&gt;לבקשתו - השיר ברקע הוא שירו של עילי בוטנר “מכתב לאחי” ששר קובי אפללו.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/XSJQZNljfoc&quot;&gt;https://youtu.be/XSJQZNljfoc&lt;/a&gt;&lt;/p&gt;
+  &lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-</summary>
     
     
     
@@ -209,9 +245,9 @@ https://youtu.be/XSJQZNljfoc
     <category term="Noam" scheme="http://www.a-static.blog/categories/Noam/"/>
     
     
-    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
-    
     <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
+    
+    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
     
   </entry>
   
@@ -223,9 +259,19 @@ https://youtu.be/XSJQZNljfoc
     <updated>2022-02-11T17:54:50.841Z</updated>
     
     
-    <summary type="html">שלו - סרטון יום הולדת 3.
-
-.</summary>
+    <summary type="html">&lt;p&gt;שלו - סרטון יום הולדת 3.&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+  </summary>
     
     
     
@@ -246,9 +292,18 @@ https://youtu.be/XSJQZNljfoc
     <updated>2022-02-11T17:55:50.000Z</updated>
     
     
-    <summary type="html">עינב - סרטון לכבוד יום הולדת 3. 
-
-.</summary>
+    <summary type="html">&lt;p&gt;עינב - סרטון לכבוד יום הולדת 3. &lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    lef</summary>
     
     
     
@@ -269,9 +324,15 @@ https://youtu.be/XSJQZNljfoc
     <updated>2022-02-12T19:15:19.013Z</updated>
     
     
-    <summary type="html">נועם היום בן חמש! זה מאוד משמח ומרגש, נועם חכם ויודע כל כך הרבה דברים! כמיטב המסורת הכנתי סרטון יום הולדת, עם תמונות מהשנה האחרונה. 
-
-.</summary>
+    <summary type="html">&lt;p&gt;נועם היום בן חמש! זה מאוד משמח ומרגש, נועם חכם ויודע כל כך הרבה דברים! כמיטב המסורת הכנתי סרטון יום הולדת, עם תמונות מהשנה האחרונה. &lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container i</summary>
     
     
     
@@ -292,11 +353,16 @@ https://youtu.be/XSJQZNljfoc
     <updated>2022-02-12T13:43:36.403Z</updated>
     
     
-    <summary type="html">שלו בן שנתיים. הנה הסרטון שלו. שיהיה חופשי ומאושר!
-
-https://youtu.be/DlGFfapVUkU
-
-.</summary>
+    <summary type="html">&lt;p&gt;שלו בן שנתיים.  הנה הסרטון שלו. שיהיה חופשי ומאושר!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/DlGFfapVUkU&quot;&gt;https://youtu.be/DlGFfapVUkU&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container ifr</summary>
     
     
     
@@ -317,11 +383,16 @@ https://youtu.be/DlGFfapVUkU
     <updated>2022-02-12T19:23:28.758Z</updated>
     
     
-    <summary type="html">עינב בת שנתיים. הנה הסרטון שלה. הילדה הכי יפה בגן.
-
-https://youtu.be/lk_PPEZEEBM
-
-.</summary>
+    <summary type="html">&lt;p&gt;עינב בת שנתיים. הנה הסרטון שלה. הילדה &lt;strong&gt;הכי יפה בגן&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/lk_PPEZEEBM&quot;&gt;https://youtu.be/lk_PPEZEEBM&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .emb</summary>
     
     
     
@@ -342,15 +413,10 @@ https://youtu.be/lk_PPEZEEBM
     <updated>2022-02-12T19:27:27.518Z</updated>
     
     
-    <summary type="html">ביום שבת האחרון התכנסנו למסיבת יום הולדת שנה לעינב ולשלו, בגינה שמול הבית שלנו. הכנות של מספר שבועות הגיעו לאירוע של כיף שהיה ממש נחמד.
-
-להלן סרטון שמסכם את האירוע שהיה לטעמי מוצלח.
-
-ממש כיף. שנזכה לחגוג עוד שנה בבראות ואושר . 
-
-https://www.youtube.com/embed/psX71q62rOc
-
-.</summary>
+    <summary type="html">&lt;p&gt;ביום שבת האחרון התכנסנו למסיבת יום הולדת שנה לעינב ולשלו, בגינה שמול הבית שלנו. הכנות של מספר שבועות הגיעו לאירוע של כיף שהיה ממש נחמד.&lt;/p&gt;
+&lt;p&gt;להלן סרטון שמסכם את האירוע שהיה לטעמי מוצלח.&lt;/p&gt;
+&lt;p&gt;ממש כיף. שנזכה לחגוג עוד שנה בבראות ואושר .  &lt;/p&gt;
+&lt;p</summary>
     
     
     
@@ -375,15 +441,15 @@ https://www.youtube.com/embed/psX71q62rOc
     <updated>2022-02-12T19:30:25.622Z</updated>
     
     
-    <summary type="html">מתנות קטנות / רמי קליינשטיין :)
-
-הסרטון של עינב - יום הולדת שנה: https://youtu.be/LrAQ3ddkugc : 
-
-. 
-
-הסרטון של שלו - יום הולדת שנה: https://youtu.be/vyfh3kneCmg 
-
-.</summary>
+    <summary type="html">&lt;p&gt;מתנות קטנות &amp;#x2F; רמי קליינשטיין :)&lt;/p&gt;
+&lt;p&gt;הסרטון של עינב - יום הולדת שנה:    &lt;a href=&quot;https://youtu.be/LrAQ3ddkugc&quot;&gt;https://youtu.be/LrAQ3ddkugc&lt;/a&gt; : &lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }</summary>
     
     
     
@@ -408,16 +474,16 @@ https://www.youtube.com/embed/psX71q62rOc
     <updated>2022-02-12T13:43:18.915Z</updated>
     
     
-    <summary type="html">נועם מדקלם - עשר מכות מצריים - 2017 אפריל 03 (בפעוטון של חגית):
-
-https://youtu.be/yKWJ09oVBJ0 
-
-וסרטון עם תמונות שלנו - על רקע השיר “חגיגת אביב” (שוקולד, מנטה, מסטיק):
-
-https://youtu.be/0O0Kp19O6Ys
-
-.
-.</summary>
+    <summary type="html">&lt;p&gt;נועם מדקלם - עשר מכות מצריים - 2017 אפריל 03 (בפעוטון של חגית):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/yKWJ09oVBJ0&quot;&gt;https://youtu.be/yKWJ09oVBJ0&lt;/a&gt;   &lt;/p&gt;
+&lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embe</summary>
     
     
     
@@ -444,13 +510,12 @@ https://youtu.be/0O0Kp19O6Ys
     <updated>2022-02-11T17:27:25.184Z</updated>
     
     
-    <summary type="html">מעלה כאן בבלוג - באיחור - סרטון שהעלתי מזמן ביוטיוב.
-
-“נועם מאורר בן 3 שלוש - ארץ חדשה” - סרטון יום ההלודת של נועם לגיל שלוש!
-
-לנועם בני הגדול. בזכותך גיליתי “ארץ חדשה”.
-
-https://youtu.be/WTJhRxAGAOo</summary>
+    <summary type="html">&lt;p&gt;מעלה כאן בבלוג - באיחור - סרטון שהעלתי מזמן ביוטיוב.&lt;/p&gt;
+&lt;p&gt;“נועם מאורר בן 3 שלוש - ארץ חדשה” - סרטון יום ההלודת של נועם לגיל שלוש!&lt;/p&gt;
+&lt;p&gt;לנועם בני הגדול. בזכותך גיליתי “ארץ חדשה”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/WTJhRxAGAOo&quot;&gt;https://youtu.be/WTJhRxAGAOo&lt;/a&gt;&lt;/p&gt;
+  &lt;style&gt;.embed-container {
+    </summary>
     
     
     
@@ -459,11 +524,11 @@ https://youtu.be/WTJhRxAGAOo</summary>
     <category term="Noam" scheme="http://www.a-static.blog/categories/Noam/"/>
     
     
-    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
-    
     <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
     
     <category term="Movie" scheme="http://www.a-static.blog/tags/Movie/"/>
+    
+    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
     
   </entry>
   
@@ -475,15 +540,10 @@ https://youtu.be/WTJhRxAGAOo</summary>
     <updated>2022-02-11T12:55:51.205Z</updated>
     
     
-    <summary type="html">שאלה: איך להחליף את ה- Return הרגיל, ב- Shift+Return ב- MS-Word?
-
-מיד התשובה, אבל לפני כן הסיבה: זה שימושי בהעתקת והדבקת שורות קוד אל תוך מסמך Word, ולמנוע מרווחי שורה מיותרים.
-
-תשובה:
-
-1. פותחים את תיבת ה- חפש-החלף, ה- “Find and Replace“ (אפשר ע”י הקיצור Ctrl+H). 
-
-2. ב- “Find What” (מה שמחפשים) לכ</summary>
+    <summary type="html">&lt;p&gt;&lt;strong&gt;שאלה&lt;/strong&gt;: איך להחליף את ה- Return הרגיל, ב- Shift+Return ב- MS-Word?&lt;/p&gt;
+&lt;p&gt;מיד התשובה, אבל לפני כן הסיבה: זה שימושי בהעתקת והדבקת שורות קוד אל תוך מסמך Word, ולמנוע מרווחי שורה מיותרים.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;תשובה&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;1. פותחים את תיבת ה- חפש-החלף, ה- “&lt;strong&gt;Find and Replace</summary>
     
     
     
@@ -500,22 +560,21 @@ https://youtu.be/WTJhRxAGAOo</summary>
     <updated>2022-02-11T13:05:10.762Z</updated>
     
     
-    <summary type="html">לקח קצת זמן, אבל הנה הסרטון… הסרטון ביוטיוב:
-
-https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b
-
-הסרטון ב- Tumblr: 
-
-http://meorero.tumblr.com/post/136103753903/סרטון-ליום-הולדת-שנתיים-של-נועם</summary>
+    <summary type="html">&lt;p&gt;לקח קצת זמן, אבל הנה הסרטון… הסרטון ביוטיוב:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b&quot;&gt;https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b&lt;/a&gt;&lt;/p&gt;
+  &lt;style&gt;.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    heigh</summary>
     
     
     
     <category term="Noam Maurer" scheme="http://www.a-static.blog/categories/Noam-Maurer/"/>
     
     
-    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
-    
     <category term="Birthday" scheme="http://www.a-static.blog/tags/Birthday/"/>
+    
+    <category term="Noam" scheme="http://www.a-static.blog/tags/Noam/"/>
     
   </entry>
   

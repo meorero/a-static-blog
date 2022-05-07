@@ -18,6 +18,19 @@
       </tags>
   </entry>
   <entry>
+    <title>A Guide to earning an income from a Free and Open Source project</title>
+    <url>/2008/06/30/a-guide-to-earning-an-income-from-a-free-and-open-source-project/</url>
+    <content><![CDATA[<p>Here’s something I’ve just seen: John’s guide to earning an income from a Free and Open Source project (intended for the independent developer) <a href="http://www.damnsmalllinux.org/income-guide/" title="A Guide to earning an income from a Free and Open Source project">A Guide to earning an income from a Free and Open Source project</a> (Link: <a href="http://www.damnsmalllinux.org/income-guide/">http://www.damnsmalllinux.org/income-guide/</a> ) First seen on <a href="http://linmagazine.co.il/" title="Linmagazine">Linmagazine</a> : “<a href="http://linmagazine.co.il/node/view/47788" title="איך להתפרנס מפיתוח תוכנה בקוד פתוח">איך להתפרנס מפיתוח תוכנה בקוד פתוח</a>“, posted by <a href="http://linmagazine.co.il/ajaxian">ajaxian</a>.</p>
+]]></content>
+      <categories>
+        <category>Free / Open Source</category>
+      </categories>
+      <tags>
+        <tag>Free / Open Source</tag>
+        <tag>Free Open Source software</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>An other (Hebrew) blog I used to write</title>
     <url>/2008/04/15/an-other-hebrew-blog-i-used-to-write/</url>
     <content><![CDATA[<p>An other Hebrew blog I used to write is called “<a href="http://www.i-zm.info/blogers/bloger.phtml?id=26#">Free &#x2F; Open Source in the Information Science world</a>“. or in the official Hebrew title: “ <a href="http://www.i-zm.info/blogers/bloger.phtml?id=26#">קוד חופשי&#x2F;פתוח בעולם המידענות</a>“. Since May 2005 until today I wrote 34 <a href="http://www.i-zm.info/data/bloger_articles.phtml?id=26">posts</a>, maily about F&#x2F;O.S.S aspects that can be interesting for librarians. It is less personal than I plan for this current blog, that you read now. Maybe I’ll post also there from time to time… when I’ll have news, and of course - time…</p>
@@ -28,8 +41,8 @@
       </categories>
       <tags>
         <tag>Blog</tag>
-        <tag>Blogging</tag>
         <tag>Free / Open Source</tag>
+        <tag>Blogging</tag>
       </tags>
   </entry>
   <entry>
@@ -47,19 +60,6 @@
       </categories>
       <tags>
         <tag>ASMI אסמ&quot;י</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A Guide to earning an income from a Free and Open Source project</title>
-    <url>/2008/06/30/a-guide-to-earning-an-income-from-a-free-and-open-source-project/</url>
-    <content><![CDATA[<p>Here’s something I’ve just seen: John’s guide to earning an income from a Free and Open Source project (intended for the independent developer) <a href="http://www.damnsmalllinux.org/income-guide/" title="A Guide to earning an income from a Free and Open Source project">A Guide to earning an income from a Free and Open Source project</a> (Link: <a href="http://www.damnsmalllinux.org/income-guide/">http://www.damnsmalllinux.org/income-guide/</a> ) First seen on <a href="http://linmagazine.co.il/" title="Linmagazine">Linmagazine</a> : “<a href="http://linmagazine.co.il/node/view/47788" title="איך להתפרנס מפיתוח תוכנה בקוד פתוח">איך להתפרנס מפיתוח תוכנה בקוד פתוח</a>“, posted by <a href="http://linmagazine.co.il/ajaxian">ajaxian</a>.</p>
-]]></content>
-      <categories>
-        <category>Free / Open Source</category>
-      </categories>
-      <tags>
-        <tag>Free / Open Source</tag>
-        <tag>Free Open Source software</tag>
       </tags>
   </entry>
   <entry>
@@ -117,6 +117,31 @@
       </tags>
   </entry>
   <entry>
+    <title>Blog Day 2008</title>
+    <url>/2008/09/01/blog-day-2008/</url>
+    <content><![CDATA[<p>The <a href="http://www.blogday.org/">Blog Day 2008</a> was yesterday. So here I write about few of my favorite Blogs:</p>
+<p>אתמול היה “יום הבלוג”, ה- <a href="http://www.blogday.org/">Blog Day 2008</a>.</p>
+<p>להלן כמה בלוגים לשם פירגון:</p>
+<ul>
+<li><p>ליאור קפלן: <a href="http://kaplanopensource.wordpress.com/">תוכנה חופשית בעברית</a> : <a href="http://kaplanopensource.wordpress.com/">מיומנו של חבר בקהילת התוכנה החופשית בישראל</a> אצל ליאור קראתי על ה- <a href="http://www.blogday.org/">Blog Day 2008</a>. This is where I’ve read about the Blog Day 2008.</p>
+</li>
+<li><p>SML: <a href="http://linmagazine.co.il/sml">הבלוג של SML</a>, ב- <a href="http://linmagazine.co.il/">Linmagazine</a>.</p>
+</li>
+<li><p>דורון אופק : <a href="http://ofek.biz/blog/">חופש הדיבור</a> : <a href="http://ofek.biz/blog/">החופש להגיד את כל מה שבא לכם &#x2F; המקום בו לא סותמים את הפה לאף אחד …</a> הבלוג של דורון אופק - Doron Ofek</p>
+</li>
+<li><p>ועוד אחד באנגלית, של דרו ליוויין (Dru Lavigne), גורואית של BSD: <a href="http://it.toolbox.com/blogs/bsd-guru">A Year in the Life of a BSD Guru</a> The Blog of Dru Lavigne, a real BSD “Guru”.</p>
+</li>
+<li><p>יגאל חמיש: <a href="http://www.notes.co.il/yigal/">מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע</a> הבלוג של יגאל חמיש Yigal Chamish</p>
+</li>
+<li><p>לאה אהרונוביץ : <a href="http://www.notes.co.il/lea/">פריצת דיסק</a> Lea Aharonovitch</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Bibnet.org: מאגר מאמרים מבוסס קוד פתוח</title>
     <url>/2011/03/28/bibnet-org-open-source-based-articles-db/</url>
     <content><![CDATA[<p>המלצה על מאמר שראיתי היום: “בניית מאגר מאמרים משותף על בסיס מרכיבים בקוד פתוח”. <strong>מקור &#x2F; הפנייה</strong>:</p>
@@ -150,31 +175,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Blog Day 2008</title>
-    <url>/2008/09/01/blog-day-2008/</url>
-    <content><![CDATA[<p>The <a href="http://www.blogday.org/">Blog Day 2008</a> was yesterday. So here I write about few of my favorite Blogs:</p>
-<p>אתמול היה “יום הבלוג”, ה- <a href="http://www.blogday.org/">Blog Day 2008</a>.</p>
-<p>להלן כמה בלוגים לשם פירגון:</p>
-<ul>
-<li><p>ליאור קפלן: <a href="http://kaplanopensource.wordpress.com/">תוכנה חופשית בעברית</a> : <a href="http://kaplanopensource.wordpress.com/">מיומנו של חבר בקהילת התוכנה החופשית בישראל</a> אצל ליאור קראתי על ה- <a href="http://www.blogday.org/">Blog Day 2008</a>. This is where I’ve read about the Blog Day 2008.</p>
-</li>
-<li><p>SML: <a href="http://linmagazine.co.il/sml">הבלוג של SML</a>, ב- <a href="http://linmagazine.co.il/">Linmagazine</a>.</p>
-</li>
-<li><p>דורון אופק : <a href="http://ofek.biz/blog/">חופש הדיבור</a> : <a href="http://ofek.biz/blog/">החופש להגיד את כל מה שבא לכם &#x2F; המקום בו לא סותמים את הפה לאף אחד …</a> הבלוג של דורון אופק - Doron Ofek</p>
-</li>
-<li><p>ועוד אחד באנגלית, של דרו ליוויין (Dru Lavigne), גורואית של BSD: <a href="http://it.toolbox.com/blogs/bsd-guru">A Year in the Life of a BSD Guru</a> The Blog of Dru Lavigne, a real BSD “Guru”.</p>
-</li>
-<li><p>יגאל חמיש: <a href="http://www.notes.co.il/yigal/">מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע</a> הבלוג של יגאל חמיש Yigal Chamish</p>
-</li>
-<li><p>לאה אהרונוביץ : <a href="http://www.notes.co.il/lea/">פריצת דיסק</a> Lea Aharonovitch</p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
     <title>הבלוגוספירה כמרקחה: בלוגרים נגד חוק המאגר הביומטרי</title>
     <url>/2009/07/27/bloggers-anti-biometric-db-la/</url>
     <content><![CDATA[<p>הבלוגוספירה כמרקחה: בלוגרים נגד חוק המאגר הביומטרי. באתר של גל מור, הועלה פוסט שכתב אפי פוקס בנושא ההצעה לחוק המאגר הביומטרי (עדיין ב- <a href="http://209.85.135.132/search?q=cache:NUHiP9nM8IsJ:www.holesinthenet.co.il/2009/07/24/%D7%97%D7%A9%D7%99%D7%A4%D7%94-%D7%9E%D7%93%D7%95%D7%A2-%D7%97%D7%91%D7%A8-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA-%D7%A9%D7%98%D7%A8%D7%99%D7%AA-%D7%9B%D7%94-%D7%9C%D7%94%D7%95%D7%98-%D7%9C%D7%A7%D7%93%D7%9D/+%D7%97%D7%A9%D7%99%D7%A4%D7%94-%D7%9E%D7%93%D7%95%D7%A2-%D7%97%D7%91%D7%A8-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA-%D7%A9%D7%98%D7%A8%D7%99%D7%AA-%D7%9B%D7%94-%D7%9C%D7%94%D7%95%D7%98-%D7%9C%D7%A7%D7%93%D7%9D&cd=1&hl=en&ct=clnk">cache של גוגל</a>). בפוסט הועלו חשדות ושאלות נוקבות בדבר טוהר כוונותיו של ח”כ מאיר שטרית, הדוחף את חוק המאגר הביומטרי. הפוסט הוסר - לדברי גל: בגלל איום בתביעה מצד רותי שטרית, רעייתו של הח”כ. להלן מספר פוסטים נבחרים בנושא: <a href="http://www.notes.co.il/shooky/index.asp" title="שוקי גלילי 101">שוקי גלילי  101</a> : “<a href="http://www.notes.co.il/shooky/58887.asp" title="שוקי גלילי 101: מי מאיים על גל מור">מי מאיים על גל מור</a>“ רחביה ברמן בבלוג “<a href="http://www.notes.co.il/berman/index.asp" title="רדיקל מקלדת">רדיקל מקלדת</a>“:  “<a href="http://www.notes.co.il/berman/58895.asp?p=0" title="רחביה ברמן - רדיקל מקלדת:  הפוסט של אפי פוקס - כי פה זה ציון ואנחנו לא מפחדים">הפוסט של אפי פוקס - כי פה זה ציון ואנחנו לא מפחדים</a>“ <a href="http://ofek.biz/blog/" title="דורון אופק">דורון אופק</a> בבלוג שלו “<a href="http://ofek.biz/blog/" title="דורון אופק - חופש הדיבור">חופש הדיבור</a>“ עוקב רבות אחרי הנושא, למשל ראו: “[מי מאיים על גל מור ? (או: ה”שכונה” של הבלוגרים )](<a href="http://ofek.biz/blog/archives/1216">http://ofek.biz/blog/archives/1216</a> “ מי מאיים על גל מור ? (או: ה”שכונה” של הבלוגרים )”)”</p>
@@ -192,32 +192,21 @@
       </tags>
   </entry>
   <entry>
-    <title>EeePC. אפשר גם עם לינוקס</title>
-    <url>/2008/11/10/eee-pc-linux/</url>
-    <content><![CDATA[<p>ידיעה ב- Ynet: <a href="http://www.ynet.co.il/articles/1,7340,L-3619868,00.html">בגלל לינוקס: מיקרוסופט מפסידה בשוק הניידים</a>. לי יש EeePC עם Mandriva 2009.0 ושולחן עבודה KDE 4, והיה לי עליו Mandriva 2008.1. הוא לא מהיר כמו PC שולחני, כנראה בעיקר בגלל ה- KDE 4, אבל עובד. בימים אלו אני מנסה עליו מערכות BSD שונות.</p>
-<p>[caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”116” caption&#x3D;”EeePC. אפשר גם עם לינוקס “][391[&#x2F;caption]</p>
+    <title>Blogs And Information Professions</title>
+    <url>/2009/05/11/blogs-and-information-professions/</url>
+    <content><![CDATA[<p>להלן קישור למצגת “<a href="http://www.slideshare.net/krinat/blogs-and-information-professions-1409456" title="Blogs and Information Professions">בלוגים ומקצועות המידע</a>“ של רינת קורבט, שניתנה בכנס טלדן INFO2009 . מעניין - אם כי לא ראיתי ב”לייב”.</p>
+<p>נדלה מתוך <a href="http://libonly.wordpress.com/2009/05/10/rinat/">הפוסט הזה</a> בבלוג: <a href="http://libonly.wordpress.com/">LibOnly : בלוג לספרנים&#x2F;מידענים בלבד</a> של אלכסיי גוניקשטיין.</p>
 ]]></content>
       <categories>
-        <category>Asus Eee PC</category>
-        <category>Linux</category>
-        <category>BSD</category>
-        <category>Mandriva</category>
-        <category>Eee</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Coming Tuesday, June 17th: Firefox 3</title>
-    <url>/2008/06/14/coming-tuesday-june-17th-firefox-3/</url>
-    <content><![CDATA[<p><a href="http://developer.mozilla.org/devnews/index.php/2008/06/11/coming-tuesday-june-17th-firefox-3/" title="Firefox 3">Coming Tuesday, June 17th: Firefox 3</a> Firefox 3 this upcoming Tuesday, June 17th …. <strong>Yeahhh</strong> <a href="http://www.spreadfirefox.com/worldrecord">get ready to download Firefox 3</a></p>
-]]></content>
-      <categories>
-        <category>Mozilla / Firefox / Gecko</category>
+        <category>Blog</category>
+        <category>Bloggers</category>
+        <category>Conferences</category>
+        <category>Librarians</category>
       </categories>
       <tags>
-        <tag>Firefox</tag>
-        <tag>Firefox 3</tag>
-        <tag>Mozilla</tag>
-        <tag>Mozilla Firefox</tag>
+        <tag>Blogging</tag>
+        <tag>Weblogs</tag>
+        <tag>Librarians</tag>
       </tags>
   </entry>
   <entry>
@@ -238,22 +227,18 @@
       </tags>
   </entry>
   <entry>
-    <title>Blogs And Information Professions</title>
-    <url>/2009/05/11/blogs-and-information-professions/</url>
-    <content><![CDATA[<p>להלן קישור למצגת “<a href="http://www.slideshare.net/krinat/blogs-and-information-professions-1409456" title="Blogs and Information Professions">בלוגים ומקצועות המידע</a>“ של רינת קורבט, שניתנה בכנס טלדן INFO2009 . מעניין - אם כי לא ראיתי ב”לייב”.</p>
-<p>נדלה מתוך <a href="http://libonly.wordpress.com/2009/05/10/rinat/">הפוסט הזה</a> בבלוג: <a href="http://libonly.wordpress.com/">LibOnly : בלוג לספרנים&#x2F;מידענים בלבד</a> של אלכסיי גוניקשטיין.</p>
+    <title>EeePC. אפשר גם עם לינוקס</title>
+    <url>/2008/11/10/eee-pc-linux/</url>
+    <content><![CDATA[<p>ידיעה ב- Ynet: <a href="http://www.ynet.co.il/articles/1,7340,L-3619868,00.html">בגלל לינוקס: מיקרוסופט מפסידה בשוק הניידים</a>. לי יש EeePC עם Mandriva 2009.0 ושולחן עבודה KDE 4, והיה לי עליו Mandriva 2008.1. הוא לא מהיר כמו PC שולחני, כנראה בעיקר בגלל ה- KDE 4, אבל עובד. בימים אלו אני מנסה עליו מערכות BSD שונות.</p>
+<p>[caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”116” caption&#x3D;”EeePC. אפשר גם עם לינוקס “][391[&#x2F;caption]</p>
 ]]></content>
       <categories>
-        <category>Blog</category>
-        <category>Conferences</category>
-        <category>Bloggers</category>
-        <category>Librarians</category>
+        <category>Asus Eee PC</category>
+        <category>Linux</category>
+        <category>BSD</category>
+        <category>Mandriva</category>
+        <category>Eee</category>
       </categories>
-      <tags>
-        <tag>Blogging</tag>
-        <tag>Weblogs</tag>
-        <tag>Librarians</tag>
-      </tags>
   </entry>
   <entry>
     <title>ComputerWorld: עשר מערכות ההפעלה הגרועות בהיסטוריה</title>
@@ -279,6 +264,90 @@
         <category>Free / Open Source</category>
         <category>History</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Coming Tuesday, June 17th: Firefox 3</title>
+    <url>/2008/06/14/coming-tuesday-june-17th-firefox-3/</url>
+    <content><![CDATA[<p><a href="http://developer.mozilla.org/devnews/index.php/2008/06/11/coming-tuesday-june-17th-firefox-3/" title="Firefox 3">Coming Tuesday, June 17th: Firefox 3</a> Firefox 3 this upcoming Tuesday, June 17th …. <strong>Yeahhh</strong> <a href="http://www.spreadfirefox.com/worldrecord">get ready to download Firefox 3</a></p>
+]]></content>
+      <categories>
+        <category>Mozilla / Firefox / Gecko</category>
+      </categories>
+      <tags>
+        <tag>Firefox</tag>
+        <tag>Firefox 3</tag>
+        <tag>Mozilla</tag>
+        <tag>Mozilla Firefox</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>סרטון ממסיבת יום ההולדת של עינב ושלו</title>
+    <url>/2017/07/12/einav-shalev-birthday-party-movie/</url>
+    <content><![CDATA[<p>ביום שבת האחרון התכנסנו למסיבת יום הולדת שנה לעינב ולשלו, בגינה שמול הבית שלנו. הכנות של מספר שבועות הגיעו לאירוע של כיף שהיה ממש נחמד.</p>
+<p>להלן סרטון שמסכם את האירוע שהיה לטעמי מוצלח.</p>
+<p>ממש כיף. שנזכה לחגוג עוד שנה בבראות ואושר .  </p>
+<p><a href="https://www.youtube.com/embed/psX71q62rOc">https://www.youtube.com/embed/psX71q62rOc</a></p>
+<style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/psX71q62rOc" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+<p>.
+  </p>
+]]></content>
+      <categories>
+        <category>Einav</category>
+        <category>Shalev</category>
+      </categories>
+      <tags>
+        <tag>Birthday</tag>
+        <tag>Einav</tag>
+        <tag>Shalev</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Einav 2 years old - a birthday presentation</title>
+    <url>/2018/07/11/einav-2-years-old-a-birthday-presentation/</url>
+    <content><![CDATA[<p>עינב בת שנתיים. הנה הסרטון שלה. הילדה <strong>הכי יפה בגן</strong>.</p>
+<p><a href="https://youtu.be/lk_PPEZEEBM">https://youtu.be/lk_PPEZEEBM</a></p>
+<style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/lk_PPEZEEBM" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>  
+<p>.  </p>
+]]></content>
+      <categories>
+        <category>Einav</category>
+      </categories>
+      <tags>
+        <tag>Birthday</tag>
+        <tag>Einav</tag>
+      </tags>
   </entry>
   <entry>
     <title>עינב ושלו בני שנה - סרטונים ליום הולדת</title>
@@ -335,104 +404,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Einav 2 years old - a birthday presentation</title>
-    <url>/2018/07/11/einav-2-years-old-a-birthday-presentation/</url>
-    <content><![CDATA[<p>עינב בת שנתיים. הנה הסרטון שלה. הילדה <strong>הכי יפה בגן</strong>.</p>
-<p><a href="https://youtu.be/lk_PPEZEEBM">https://youtu.be/lk_PPEZEEBM</a></p>
-<style>.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe, .embed-container object, .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  </style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/lk_PPEZEEBM" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>  
-<p>.  </p>
-]]></content>
-      <categories>
-        <category>Einav</category>
-      </categories>
-      <tags>
-        <tag>Birthday</tag>
-        <tag>Einav</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>סרטון ממסיבת יום ההולדת של עינב ושלו</title>
-    <url>/2017/07/12/einav-shalev-birthday-party-movie/</url>
-    <content><![CDATA[<p>ביום שבת האחרון התכנסנו למסיבת יום הולדת שנה לעינב ולשלו, בגינה שמול הבית שלנו. הכנות של מספר שבועות הגיעו לאירוע של כיף שהיה ממש נחמד.</p>
-<p>להלן סרטון שמסכם את האירוע שהיה לטעמי מוצלח.</p>
-<p>ממש כיף. שנזכה לחגוג עוד שנה בבראות ואושר .  </p>
-<p><a href="https://www.youtube.com/embed/psX71q62rOc">https://www.youtube.com/embed/psX71q62rOc</a></p>
-<style>.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe, .embed-container object, .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  </style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/psX71q62rOc" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
-<p>.
-  </p>
-]]></content>
-      <categories>
-        <category>Einav</category>
-        <category>Shalev</category>
-      </categories>
-      <tags>
-        <tag>Birthday</tag>
-        <tag>Einav</tag>
-        <tag>Shalev</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>עינב - יום הולדת 5 - סרטון</title>
-    <url>/2021/07/05/einv-birthay-5-clip/</url>
-    <content><![CDATA[<p>עינב בת חמש. הכנתי לה סרטון עם תמונות- ברקע: השיר זו ילדותי השנייה. </p>
-<p>ואיתך יום נוסף אבקש, אנחנו כבר בני חמש.</p>
-<p><a href="https://www.youtube.com/embed/hl39csjnCLU&quot;">https://www.youtube.com/embed/hl39csjnCLU&quot;</a></p>
-<style>.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe, .embed-container object, .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  </style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/hl39csjnCLU" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>  
-<p>.  </p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
     <title>עברנו קורונה פוסט קורונה</title>
     <url>/2022/02/13/ended-covid19-feb-2022/</url>
     <content><![CDATA[<div dir='rtl'>אז גם אנחנו כמו רבים עברנו את זה.
@@ -468,6 +439,35 @@ https://youtu.be/</div>
       </tags>
   </entry>
   <entry>
+    <title>עינב - יום הולדת 5 - סרטון</title>
+    <url>/2021/07/05/einv-birthay-5-clip/</url>
+    <content><![CDATA[<p>עינב בת חמש. הכנתי לה סרטון עם תמונות- ברקע: השיר זו ילדותי השנייה. </p>
+<p>ואיתך יום נוסף אבקש, אנחנו כבר בני חמש.</p>
+<p><a href="https://www.youtube.com/embed/hl39csjnCLU&quot;">https://www.youtube.com/embed/hl39csjnCLU&quot;</a></p>
+<style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/hl39csjnCLU" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>  
+<p>.  </p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Final 2008 issue of \&quot;Library Technology Reports\&quot;</title>
     <url>/2008/11/26/final-2008-issue-of-library-technology-reports/</url>
     <content><![CDATA[<p>יצא לאור גליון חדש של ה- “<a href="http://www.techsource.ala.org/ltr/open-source-integrated-library-systems.html">Library Technology Reports</a>“ תחת הכותרת: “<a href="http://www.techsource.ala.org/ltr/open-source-integrated-library-systems.html">Open Source Integrated Library Systems</a>.”</p>
@@ -488,23 +488,6 @@ https://youtu.be/</div>
         <tag>Free / Open Source</tag>
         <tag>Free Open Source software</tag>
         <tag>Free /Open Source in Libraries</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Flock is leaving Mozilla, Moving To Google Chrome</title>
-    <url>/2009/03/04/flock-leaving-mozilla-moving-to-google-chrome/</url>
-    <content><![CDATA[<p>מבזק שפורסם ב- <a href="http://it.themarker.com/tmit/home" title="Flock: עוזב את פיירפוקס, עובר לכרום ">TheMarker</a> - <a href="http://it.themarker.com/tmit/home" title="Flock: עוזב את פיירפוקס, עובר לכרום ">IT</a> עם הפנייה:</p>
-<p><a href="http://www.techcrunch.com/2009/03/02/flock-ditching-firefox-moving-to-google-chrome/" title="Flock Ditching Firefox, Moving To Google Chrome">Flock: עוזב את פיירפוקס, עובר לכרום</a> (<a href="http://www.techcrunch.com/2009/03/02/flock-ditching-firefox-moving-to-google-chrome/" title="TechCrunch">TechCrunch</a>) .</p>
-<p>מעניין.</p>
-<p>[caption id&#x3D;”attachment_287” align&#x3D;”alignnone” width&#x3D;”210” caption&#x3D;”Flock Logo”]578[&#x2F;caption]</p>
-]]></content>
-      <categories>
-        <category>Mozilla / Firefox / Gecko</category>
-      </categories>
-      <tags>
-        <tag>Mozilla</tag>
-        <tag>Mozilla Firefox</tag>
-        <tag>Flock</tag>
       </tags>
   </entry>
   <entry>
@@ -552,6 +535,23 @@ https://youtu.be/</div>
       </tags>
   </entry>
   <entry>
+    <title>Flock is leaving Mozilla, Moving To Google Chrome</title>
+    <url>/2009/03/04/flock-leaving-mozilla-moving-to-google-chrome/</url>
+    <content><![CDATA[<p>מבזק שפורסם ב- <a href="http://it.themarker.com/tmit/home" title="Flock: עוזב את פיירפוקס, עובר לכרום ">TheMarker</a> - <a href="http://it.themarker.com/tmit/home" title="Flock: עוזב את פיירפוקס, עובר לכרום ">IT</a> עם הפנייה:</p>
+<p><a href="http://www.techcrunch.com/2009/03/02/flock-ditching-firefox-moving-to-google-chrome/" title="Flock Ditching Firefox, Moving To Google Chrome">Flock: עוזב את פיירפוקס, עובר לכרום</a> (<a href="http://www.techcrunch.com/2009/03/02/flock-ditching-firefox-moving-to-google-chrome/" title="TechCrunch">TechCrunch</a>) .</p>
+<p>מעניין.</p>
+<p>[caption id&#x3D;”attachment_287” align&#x3D;”alignnone” width&#x3D;”210” caption&#x3D;”Flock Logo”]578[&#x2F;caption]</p>
+]]></content>
+      <categories>
+        <category>Mozilla / Firefox / Gecko</category>
+      </categories>
+      <tags>
+        <tag>Mozilla</tag>
+        <tag>Mozilla Firefox</tag>
+        <tag>Flock</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Flock - דפדפן קהילתי</title>
     <url>/2008/09/16/flock-community-web-broser/</url>
     <content><![CDATA[<p>רק כדי לאזן את הפוסט הקודם (על <a href="http://meorero.wordpress.com/2008/09/03/google-launches-internet-browser/" title="Google launches internet browser">הדפדפן “כרום” של גוגל</a>) - הדפדפנים העדיפים עלי הם עדיין מביססי Nozilla ו- Gecko. אז הנה - הפניה לדפדפן הקהילתי - חברתי ושמו “פלוק” (Flock).</p>
@@ -576,6 +576,27 @@ https://youtu.be/</div>
       </tags>
   </entry>
   <entry>
+    <title>Google launches internet browser</title>
+    <url>/2008/09/03/google-launches-internet-browser/</url>
+    <content><![CDATA[<p>זה בטח הולך להיות נדון לעייפה בהמון מקומות.</p>
+<p>בכל זאת הייתי חייב לכתוב את זה גם פה.</p>
+<p>להלן כמה קישורים:</p>
+<p>Eric Jennings: <a href="http://ericjennings.wordpress.com/2008/09/01/googles-new-venture-web-browser/" title="web browser">Google’s new venture: web browser</a></p>
+<p>BBC News: <a href="http://news.bbc.co.uk/2/hi/technology/7593106.stm" title="Google launches internet browser">Google launches internet browser</a></p>
+<p>Google: <a href="http://www.google.com/chrome" title="Google Chrome - Download a new browser ">Google Chrome - Download a new browser</a></p>
+<p>לינמגזין: <a href="http://linmagazine.co.il/desktop/2008/08/03/google-chrome-review" title="Google Chrome (וידאו)">סקירה: Google Chrome (וידאו).</a> מתוך הבלוג של usharf .</p>
+<p>הארץ, קפטן אינטרנט: <a href="http://www.haaretz.co.il/captain/spages/1017847.html">חוקר ישראלי מצא פירצה בכרום</a></p>
+<p>והנה תמונות:</p>
+<p>לוגו:</p>
+<p>[caption id&#x3D;”attachment_122” align&#x3D;”alignnone” width&#x3D;”196” caption&#x3D;”Google Chrome Logo”][877[&#x2F;caption]</p>
+<p>תצוגה:</p>
+<p>[caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”440” caption&#x3D;”Google Chrome”]1122[&#x2F;caption]</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+  </entry>
+  <entry>
     <title>From scratch: re-installing Ubuntu 8.04</title>
     <url>/2008/04/27/from-scrach-re-installing-ubuntu-804/</url>
     <content><![CDATA[<p>What a pity… after trying the alternate ubuntu CD of 8.04 I almost lost my “Home” directory. For Ms-Windows guys: it is somehow like your local “C:” drive, or - if tobe more precise - like the “My Documents and settings”. I was lucky enough to have two things: 1) A backup of all important documents; and: 2) Mandriva 2008.1 Gnome CD that I tried “exposed” it - It showed me the lost “&#x2F;home” directories - so I could take a second backup. It is a separate partition - which is in the Ms-Windows world a logical disk &#x2F; hard drive. So … I was so happy with what Mandriva showed me that I really think to go back to this lovely Linux distribution. I still have good memories from it, when it was still called “Mandrake”. But for the meantime - and since my “&#x2F;home” was no really gone I re-install Ubuntu 8.04 from scratch. [826 I told the installer - of course - to use the same &#x2F;sda7 partition for “&#x2F;home” without formatting it.</p>
@@ -592,21 +613,15 @@ https://youtu.be/</div>
       </tags>
   </entry>
   <entry>
-    <title>Google launches internet browser</title>
-    <url>/2008/09/03/google-launches-internet-browser/</url>
-    <content><![CDATA[<p>זה בטח הולך להיות נדון לעייפה בהמון מקומות.</p>
-<p>בכל זאת הייתי חייב לכתוב את זה גם פה.</p>
-<p>להלן כמה קישורים:</p>
-<p>Eric Jennings: <a href="http://ericjennings.wordpress.com/2008/09/01/googles-new-venture-web-browser/" title="web browser">Google’s new venture: web browser</a></p>
-<p>BBC News: <a href="http://news.bbc.co.uk/2/hi/technology/7593106.stm" title="Google launches internet browser">Google launches internet browser</a></p>
-<p>Google: <a href="http://www.google.com/chrome" title="Google Chrome - Download a new browser ">Google Chrome - Download a new browser</a></p>
-<p>לינמגזין: <a href="http://linmagazine.co.il/desktop/2008/08/03/google-chrome-review" title="Google Chrome (וידאו)">סקירה: Google Chrome (וידאו).</a> מתוך הבלוג של usharf .</p>
-<p>הארץ, קפטן אינטרנט: <a href="http://www.haaretz.co.il/captain/spages/1017847.html">חוקר ישראלי מצא פירצה בכרום</a></p>
-<p>והנה תמונות:</p>
-<p>לוגו:</p>
-<p>[caption id&#x3D;”attachment_122” align&#x3D;”alignnone” width&#x3D;”196” caption&#x3D;”Google Chrome Logo”][877[&#x2F;caption]</p>
-<p>תצוגה:</p>
-<p>[caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”440” caption&#x3D;”Google Chrome”]1122[&#x2F;caption]</p>
+    <title>Hard Return to Soft Return in MS-Word</title>
+    <url>/2016/03/22/hard-return-soft-return-ms-word/</url>
+    <content><![CDATA[<p><strong>שאלה</strong>: איך להחליף את ה- Return הרגיל, ב- Shift+Return ב- MS-Word?</p>
+<p>מיד התשובה, אבל לפני כן הסיבה: זה שימושי בהעתקת והדבקת שורות קוד אל תוך מסמך Word, ולמנוע מרווחי שורה מיותרים.</p>
+<p><strong>תשובה</strong>:</p>
+<p>1. פותחים את תיבת ה- חפש-החלף, ה- “<strong>Find and Replace</strong>“ (אפשר ע”י הקיצור <strong>Ctrl+H</strong>). </p>
+<p>2. ב- “<strong>Find Wha</strong>t” (מה שמחפשים) לכתוב: “<strong>p^</strong>“. כלומר את התו “^” (מעל הספרה 6, עם Shift) ואחריו האות “p”. </p>
+<p>3. ב- “<strong>Replace with</strong>“ (מה שרוצים לשים במקום) - לכתוב: “<strong>^</strong>“. כלומר את התו “^” (מעל הספרה 6, עם Shift) ואחריו התו “”. </p>
+<p>[caption id&#x3D;”attachment_1108” align&#x3D;”alignright” width&#x3D;”700”][588 Hard Return to Soft Return - in MS-Word[&#x2F;caption]</p>
 ]]></content>
       <categories>
         <category>uncategorized</category>
@@ -629,40 +644,6 @@ https://youtu.be/</div>
         <tag>My picture</tag>
         <tag>Open Source</tag>
         <tag>Web</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hard Return to Soft Return in MS-Word</title>
-    <url>/2016/03/22/hard-return-soft-return-ms-word/</url>
-    <content><![CDATA[<p><strong>שאלה</strong>: איך להחליף את ה- Return הרגיל, ב- Shift+Return ב- MS-Word?</p>
-<p>מיד התשובה, אבל לפני כן הסיבה: זה שימושי בהעתקת והדבקת שורות קוד אל תוך מסמך Word, ולמנוע מרווחי שורה מיותרים.</p>
-<p><strong>תשובה</strong>:</p>
-<p>1. פותחים את תיבת ה- חפש-החלף, ה- “<strong>Find and Replace</strong>“ (אפשר ע”י הקיצור <strong>Ctrl+H</strong>). </p>
-<p>2. ב- “<strong>Find Wha</strong>t” (מה שמחפשים) לכתוב: “<strong>p^</strong>“. כלומר את התו “^” (מעל הספרה 6, עם Shift) ואחריו האות “p”. </p>
-<p>3. ב- “<strong>Replace with</strong>“ (מה שרוצים לשים במקום) - לכתוב: “<strong>^</strong>“. כלומר את התו “^” (מעל הספרה 6, עם Shift) ואחריו התו “”. </p>
-<p>[caption id&#x3D;”attachment_1108” align&#x3D;”alignright” width&#x3D;”700”][588 Hard Return to Soft Return - in MS-Word[&#x2F;caption]</p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Hard to choose: PC-BSD or DesktopBSD</title>
-    <url>/2008/05/17/hard-to-choose-pc-bsd-or-desktopbsd/</url>
-    <content><![CDATA[<p>I have installed FreeBSD many times on various PC’s I used. It is really a great system - it’s strong and quick as any Linux distribution. It has its own fans. It has many packages, but not as much as linux. For this - FreeBSD has developed a compatibility layer to enable installation of Linux packages - such as Flash plugin. I really love FreeBSD, It is great for a server, but it’s sometimes  hard work to do for a a desktop - Flash plugin didn’t always work, so firefox crashed. A whole configuration was needed to enable automatic mount of USB stick. Therefor I decided to try DesktopBSD or PC-BSD. [607.</p>
-<ul>
-<li><p>A good comparison between the two systems can be found at: Gerard: “PC-BSD vs DesktopBSD; similarities &amp; differences”. In: Gerard. FreeBSD - the unknown Giant [blog on the Internet]. [posted: January 19, 2008] - [cited: May 17, 2008]. Available from:  <a href="http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/" title="http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/">http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/</a> (<strong>I am going to post an Hebrew translation of this one</strong>!)</p>
-</li>
-<li><p>Dru Lavign - who is a real BSD guru - has compared PC-BSD to Kubuntu: Dru Lavigne: “Kubuntu v.s. PC-BSD”. In: Dru Lavigne. A Year in the Life of a BSD Guru [blog on the internet]. [posted: August 18, 2007]. Available from:      <a href="http://blogs.ittoolbox.com/unix/bsd/archives/kubuntu-vs-pcbsd-18431">http://blogs.ittoolbox.com/unix/bsd/archives/kubuntu-vs-pcbsd-18431</a></p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>BSD</category>
-      </categories>
-      <tags>
-        <tag>DesktopBSD</tag>
-        <tag>PC-BSD</tag>
       </tags>
   </entry>
   <entry>
@@ -726,6 +707,17 @@ https://youtu.be/</div>
       </tags>
   </entry>
   <entry>
+    <title>הפורום לשימור הזכרון האודיו-ויזואלי בישראל</title>
+    <url>/2008/10/23/israel-audio-visual-memory-preservation/</url>
+    <content><![CDATA[<p>אתר מעניין וחשוב שכדאי להכיר: <a href="http://www.avforum.org.il/" title=" הפורום לשימור הזיכרון האודיו-ויזואלי בישראל">הפורום לשימור הזכרון האודיו-ויזואלי בישראל</a> את הפוסט לקחתי הישר מתוך: <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=1007" title="בלוג ספריית אוניברסיטת חיפה - מידע במידה">בלוג ספריית אוניברסיטת חיפה - מידע במידה</a></p>
+<p>[caption id&#x3D;”” align&#x3D;”aligncenter” width&#x3D;”258” caption&#x3D;”הפורום לשימור הזיכרון האודיו-ויזואלי בישראל - אודות הפורום”][460[&#x2F;caption]</p>
+<p>תיאור, מתוך <a href="http://www.avforum.org.il/" title=" הפורום לשימור הזיכרון האודיו-ויזואלי בישראל">הפורום לשימור הזכרון האודיו-ויזואלי בישראל</a>: בדצמבר 2005 התאגדה חבורה של יוצרים ואנשי מקצוע וייסדה את הפורום לשימור הזיכרון האודיו-ויזואלי בישראל. התגייסות זו נועדה להציל את החומרים הארכיוניים האודיו-ויזואליים מסכנת כליה ומחיקה, מתוך הבנה כי ההיסטוריה לעולם אינה חוזרת, והזיכרון הקולקטיבי והפרטי שלנו – המוטבע בפילם, בווידאו, בתצלומים ובהקלטות קול – הולך ומתכלה כל עוד קיימת בארץ תפיסה מיושנת ואנלוגית של שימור. ..הפורום מקיים דיאלוג מתמשך עם הארכיונים הרלוונטיים בישראל ופועל בשיתוף פעולה הדוק עם גורמים שונים כגון הארכיון הישראלי לסרטים – סינמטק ירושלים, איגוד מפיקי קולנוע וטלוויזיה בישראל, יד ושם ויד בן צבי. פעולותיו נתמכות על-ידי מינהל התרבות במשרד התרבות המדע והספורט, מועצת התרבות והאמנות של מפעל הפיס ותורמים פרטיים. כל חברי הפורום פעילים בו בהתנדבות.</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Is ignorance open source’s biggest enemy?</title>
     <url>/2008/06/29/is-ignorance-open-sources-biggest-enemy/</url>
     <content><![CDATA[<p>Is ignorance open source’s biggest enemy? By Nicole C. Engard on Open Source “Open Sesame” Yes! In fact that’s why I love my job so much. Read further <a href="http://http//blogs.liblime.com/open-sesame/archives/96" title="open-sesame">here</a>.</p>
@@ -736,6 +728,25 @@ https://youtu.be/</div>
       <tags>
         <tag>Free / Open Source</tag>
         <tag>FOSS in Libraries</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hard to choose: PC-BSD or DesktopBSD</title>
+    <url>/2008/05/17/hard-to-choose-pc-bsd-or-desktopbsd/</url>
+    <content><![CDATA[<p>I have installed FreeBSD many times on various PC’s I used. It is really a great system - it’s strong and quick as any Linux distribution. It has its own fans. It has many packages, but not as much as linux. For this - FreeBSD has developed a compatibility layer to enable installation of Linux packages - such as Flash plugin. I really love FreeBSD, It is great for a server, but it’s sometimes  hard work to do for a a desktop - Flash plugin didn’t always work, so firefox crashed. A whole configuration was needed to enable automatic mount of USB stick. Therefor I decided to try DesktopBSD or PC-BSD. [607.</p>
+<ul>
+<li><p>A good comparison between the two systems can be found at: Gerard: “PC-BSD vs DesktopBSD; similarities &amp; differences”. In: Gerard. FreeBSD - the unknown Giant [blog on the Internet]. [posted: January 19, 2008] - [cited: May 17, 2008]. Available from:  <a href="http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/" title="http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/">http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/</a> (<strong>I am going to post an Hebrew translation of this one</strong>!)</p>
+</li>
+<li><p>Dru Lavign - who is a real BSD guru - has compared PC-BSD to Kubuntu: Dru Lavigne: “Kubuntu v.s. PC-BSD”. In: Dru Lavigne. A Year in the Life of a BSD Guru [blog on the internet]. [posted: August 18, 2007]. Available from:      <a href="http://blogs.ittoolbox.com/unix/bsd/archives/kubuntu-vs-pcbsd-18431">http://blogs.ittoolbox.com/unix/bsd/archives/kubuntu-vs-pcbsd-18431</a></p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>BSD</category>
+      </categories>
+      <tags>
+        <tag>DesktopBSD</tag>
+        <tag>PC-BSD</tag>
       </tags>
   </entry>
   <entry>
@@ -758,100 +769,6 @@ https://youtu.be/</div>
       <tags>
         <tag>ממשלת ישראל</tag>
         <tag>קוד פתוח בממשלה</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>הפורום לשימור הזכרון האודיו-ויזואלי בישראל</title>
-    <url>/2008/10/23/israel-audio-visual-memory-preservation/</url>
-    <content><![CDATA[<p>אתר מעניין וחשוב שכדאי להכיר: <a href="http://www.avforum.org.il/" title=" הפורום לשימור הזיכרון האודיו-ויזואלי בישראל">הפורום לשימור הזכרון האודיו-ויזואלי בישראל</a> את הפוסט לקחתי הישר מתוך: <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=1007" title="בלוג ספריית אוניברסיטת חיפה - מידע במידה">בלוג ספריית אוניברסיטת חיפה - מידע במידה</a></p>
-<p>[caption id&#x3D;”” align&#x3D;”aligncenter” width&#x3D;”258” caption&#x3D;”הפורום לשימור הזיכרון האודיו-ויזואלי בישראל - אודות הפורום”][460[&#x2F;caption]</p>
-<p>תיאור, מתוך <a href="http://www.avforum.org.il/" title=" הפורום לשימור הזיכרון האודיו-ויזואלי בישראל">הפורום לשימור הזכרון האודיו-ויזואלי בישראל</a>: בדצמבר 2005 התאגדה חבורה של יוצרים ואנשי מקצוע וייסדה את הפורום לשימור הזיכרון האודיו-ויזואלי בישראל. התגייסות זו נועדה להציל את החומרים הארכיוניים האודיו-ויזואליים מסכנת כליה ומחיקה, מתוך הבנה כי ההיסטוריה לעולם אינה חוזרת, והזיכרון הקולקטיבי והפרטי שלנו – המוטבע בפילם, בווידאו, בתצלומים ובהקלטות קול – הולך ומתכלה כל עוד קיימת בארץ תפיסה מיושנת ואנלוגית של שימור. ..הפורום מקיים דיאלוג מתמשך עם הארכיונים הרלוונטיים בישראל ופועל בשיתוף פעולה הדוק עם גורמים שונים כגון הארכיון הישראלי לסרטים – סינמטק ירושלים, איגוד מפיקי קולנוע וטלוויזיה בישראל, יד ושם ויד בן צבי. פעולותיו נתמכות על-ידי מינהל התרבות במשרד התרבות המדע והספורט, מועצת התרבות והאמנות של מפעל הפיס ותורמים פרטיים. כל חברי הפורום פעילים בו בהתנדבות.</p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>מרתון ירושלים 2011 - חוויה אישית</title>
-    <url>/2011/03/26/jerusalem-marathon-2011-experience/</url>
-    <content><![CDATA[<p>אוקי, עמדתי  באתגר. יותר נכון רצתי אותו.<br>כפי שכתבתי ב<a href="http://meorero.wordpress.com/2011/03/21/jerusalem-marathon-dream/" title="מרתון ירושלים 2011 – הגשמת חלום">פוסט הקודם</a> האתגר היה ריצת 10 ק”מ במסגרת מרתון ירושלים 2011 - וזה היה <a href="http://meorero.wordpress.com/2011/03/21/jerusalem-marathon-dream/" title="מרתון ירושלים 2011 – הגשמת חלום">הגשמת חלום</a> בן כמה שנים.</p>
-<p>זו הייתה חווייה נהדרת שהשאירה לי בהחלט טעם של עוד. אני מכה לשנה הבאה. מי יודע - אולי 21 ק”מ - לא מתחייב!!</p>
-<ul>
-<li><strong>האירגון</strong>, לפחות ממה שאני ראיתי, היה טוב.<br>היה די ברור לאן להגיע - ולא נתקלתי בקשיים עם השילוט.<br>אבל ראיתי גם כאלו שהתבלבלו ושאלו אותי בתוך גן סאקר.</li>
-<li><strong>פרשה מביכה</strong>:<br>אני לא ראיתו שילוט באנגלית.<br>זה אולי מסביר את  הפרשה המביכה שהתפרסמה, כאשר כמה מהרצים שהובילו בריצת המרתון טעו והגיעו לקו הסיום הלא נכון.<br>מביך למדי. אבל אני מאמין ומקווה שילמדו לפעם הבאה.<br><strong><a href="http://news.walla.co.il/?w=/7/1809170" title="מבוכה בסיום מרתון ירושלים: ארבעת הראשונים טעו בדרך">ראו ב- ואללה!</a></strong>: <a href="http://news.walla.co.il/?w=/7/1809170" title="מבוכה בסיום מרתון ירושלים: ארבעת הראשונים טעו בדרך">מבוכה בסיום מרתון ירושלים: ארבעת הראשונים טעו בדרך</a><br>האצנים נפסלו בתחילה, אך הפסילה בוטלה. ריימונד קיפקוץ’ הוכרז כמנצח. למעלה מ-10,000 משתתפים נטלו חלק בחגיגה.<br><a href="http://www.ynet.co.il/articles/1,7340,L-4047671,00.html" title="מרתון י-ם: המובילים נפסלו, המנצח הוכרז פעמיים">ראו גם ב- Ynet</a>: “<a href="http://www.ynet.co.il/articles/1,7340,L-4047671,00.html" title="מרתון י-ם: המובילים נפסלו, המנצח הוכרז פעמיים">מרתון י-ם: המובילים נפסלו, המנצח הוכרז פעמיים</a>“.</li>
-<li><strong>טוב שנתנו לקת את ערכת המרוץ מראש</strong> באמצע השבוע עם מספר החזה, חולצה ואת הצ’יפ לנעל.<br>כך באתי מוכן, עם הצ’יפ בנעל ועם המספר על החולצה.<br>החולצה שלבשתי לא הייתה זו שנתנו - <strong>לבשתי בשמחה את החולצה והכובע שקיבלתי במיוחד לתחרות מ- אקס ליבריס</strong> (מקום העבודה).<br>אכן נפגשנו שם את החבר’ה מהעבודה- מה שהוסיף לכיף.</li>
-</ul>
-<p><em><strong>בקיצור - היה ממש מדהים! אני מחכה לשנה הבאה.</strong></em><br>אני מקווה שלא יחסמו את העיר לתושבים ושיהיה להם יותר קל להבא… בכל זאת - זה יום שישי, יום קצר.<br>צריך לזכור שהמרתון כלל אלפים רבים של משתתפים מהארץ ומחו”ל.</p>
-<p><strong>תמונות זינוק</strong>:</p>
-<p>[caption id&#x3D;”attachment_590” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”מרתון ירושלים 2011 - זינוק”][2167[&#x2F;caption]</p>
-<p>[caption id&#x3D;”attachment_591” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”מרתון ירושלים 2011 - זינוק 02”][2513[&#x2F;caption]</p>
-<p><strong>תחושת ההישג האישי שווה את הקושי</strong>.<br>אכן היה לא קל ואני עדיין “מרגיש את רגליים”.<br>הקושי כלל: יציאה מוקדמת ממודיעין לירושלים בשעה מוקדמת (עם הזריחה, לפני שש בבוקר ועוד ביום שישי!), קור מקפיא, דישדוש בבוץ בגן סאקר שלאחר הגשם, ובעיקר - עלייה קשה ברח’ ז’בוטינסקי בסביבות הקילומטר השביעי.<br>אבל היה שווה. בהחלט שווה.</p>
-<p><strong>ועכשיו - עוד תמונות</strong>.</p>
-<p>התמונות שבפוסט זה מופיעות גם בפייסבוק.<br>כשלקחתי את הערכה למרוץ באמצע השבוע שעבר - בתערוכת ספורט בבניני האומה - נרשמתי לאפליקציית פייסבוק של טוטו ווינר (המארגנים). אז הם העלו את התמונות שלי כנראה לפי זהוי הצ’יפ שלי בנקודות בהן היה שטיחון אלקטרוני.</p>
-<p><strong>תמונה מהאמצע</strong>: ביציאה מהעיר העתיקה, סביבות הקילומטר ה-5.</p>
-<p>[caption id&#x3D;”attachment_592” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”מרתון ירושלים 2011 - ביציאה מן העיר העתיקה, בערך ב- 5 ק”מ”][3542[&#x2F;caption]</p>
-<p>תמונות מהסיום:</p>
-<p>[caption id&#x3D;”attachment_593” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”קו סיום מקצה ה- 10 ק”מ של מרתון ירושלים 2011. אני בחולצה לבנה וכובע - באמצע משמאל. “][3971[&#x2F;caption]</p>
-<p>[caption id&#x3D;”attachment_594” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”קו סיום מקצה ה- 10 ק”מ של מרתון ירושלים 2011. אני מוסתר משום מה… “][4364[&#x2F;caption]</p>
-]]></content>
-      <categories>
-        <category>Running</category>
-        <category>ריצה</category>
-      </categories>
-      <tags>
-        <tag>Jerusalem Marathon</tag>
-        <tag>Running</tag>
-        <tag>מרוץ</tag>
-        <tag>מרתון</tag>
-        <tag>מרתון ירושלים</tag>
-        <tag>מרתון ירושלים 2011</tag>
-        <tag>ריצה</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>מרתון ירושלים 2011 - הגשמת חלום</title>
-    <url>/2011/03/21/jerusalem-marathon-dream-comes-true/</url>
-    <content><![CDATA[<p>ביום שישי הקרוב אני עומד להגשים חלום. ביום שישי הקרוב - 25 במרץ 2011 - עומד להתקיים <a href="http://www.jerusalem-marathon.co.il/" title="מרתון ווינר ירושלים הבינלאומי - 25 במרץ 2011">מרתון ירושלים הבינלאומי</a> לשנת 2011. והשנה יהיה זה אירוע מיוחד. לא רק שהפעם יהיה גם מרתון מלא (כן, 42 ק”מ), אלא ש<strong>גם אני - עומד לקחת חלק בחגיגה!</strong>! חלק קטן אבל חלק. כלומר - לא בכל מקצה ה- 42 קילומטר (עדיין… זה מעל ליכולותי) - <strong>אני מתעתד לרוץ במקצה ה-10 ק”מ</strong>.  זו הולכת להיות חגיגה אמיתית! ובעיקר הגשמת חלום. ההתחלה נדמה לי - ליד מוזיאון ישראל, שם אני מצפה לפגוש גם חברים טובים מהעבודה, כמו ג’ודית, יואל (שמצפה לעשות חצי מרתון, ואוו!!) ויורם. <strong>המון בהצלחה לכולם!!! :-)</strong> [המקצה צפוי לעבור ב](<a href="http://liner.co.il/marathon/index_10km.html">http://liner.co.il/marathon/index_10km.html</a> “מקצה 10 ק”מ”): מוזיאון ישראל, קריית הלאום (ליד בנייני האומה), בית המשפט העליון, עיריית ירושלים, ממילא, שער יפו, העיר העתיקה, הסינמטק, מרכז מורשת מנחם בגין, תיאטרון החאן הירושלמי, ליד משכן הנשיא  ותיאטרון ירושלים. חתיכת אתרים, לא? עולה בראשי זכרון מלפני ארבע או חמש שנים. <strong>הנה הזכרון</strong>: ביום בו קיימו את המירוץ בירושלים (שאז לא כלל מרתון מלא) אני זוכר את עצמי בעבודה (אז - כמו היום - בירושלים), עומד במשרד ומביט מהחלון לכוון תחנת הרכבת של מלחה ומצפה לראות את הרצים. אז, לפני ארבע - חמש שנים, אמרתי לעצמי - <em>הלוואי, הלוואי והייתי יכול להיות עם אלו שרצים שם למטה!</em> התכוונתי ל- 10 ק”מ. עבר זמן… והנה - אני יכול להרשות לעצמי להשתתף ב-ד-י-ו-ק בזה. אני יכול להרשות לעצמי להשתתף בידיעה שאני מתחיל בריצה ומסיים בריצה ובהחלט בכיף! ואני לא סתם יכול להרשות את זה לעצמי - השנה הייתי כבר במרוצים: ב<a href="http://minisites.shvoong.co.il/YEKAVIM2010/index.asp" title="מרוץ היקבים 2010">מרוץ היקבים</a> שהיה באוקטובר 2010 ליד קיבוץ נחשון (מדרום ללטרון) וב<a href="http://www.shvoong.co.il/he-IL/166/6431/" title="מרוץ מודיעין ה- 6">מרוץ מודיעין ה-6</a> (נובמבר 2010) - שהיו כל אחד ל- 5 ק”מ - וב<a href="http://www.shvoong.co.il/he-IL/166/6335/" title="מרוץ פארק המים רעות ה-17">מרוץ פארק המים רעות ה-17</a> (דצמבר 2010) - שהיה 10 ק”מ.</p>
-]]></content>
-      <categories>
-        <category>Running</category>
-        <category>ריצה</category>
-      </categories>
-      <tags>
-        <tag>Jerusalem Marathon</tag>
-        <tag>Running</tag>
-        <tag>מרוץ</tag>
-        <tag>מרתון</tag>
-        <tag>מרתון ירושלים</tag>
-        <tag>מרתון ירושלים 2011</tag>
-        <tag>ריצה</tag>
-        <tag>Marathon</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Koha, Greenstone and Kete</title>
-    <url>/2008/08/19/koha-greenstone-and-kete/</url>
-    <content><![CDATA[<p>I’m just reading a discussion on the Koha mailing list ( <a href="http://lists.katipo.co.nz/public/koha/" title="lists.katipo.co.nz">lists.katipo.co.nz</a> ) about: “[Katipo&#x2F;Koha Relationship With Greenstone Question](<a href="http://lists.katipo.co.nz/public/koha/2008-August/014948.html">http://lists.katipo.co.nz/public/koha/2008-August/014948.html</a> “”Katipo&#x2F;Koha Relationship With Greenstone Question””)”. Greenstone and Kete are both Open Source and dealing with digital library. <strong>For some more background info</strong>:</p>
-<ul>
-<li><p><a href="http://kete.net.nz/" title="About Kete">About Kete</a> - a community built digital library: <a href="http://kete.net.nz/" title="About Kete">http://kete.net.nz/</a></p>
-</li>
-<li><p><a href="http://www.greenstone.org/" title="About Greenstone">Greenstone</a> (digital library software): <a href="http://www.greenstone.org/" title="About Greenstone">http://www.greenstone.org/</a></p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Free /Open Source in Libraries</category>
-        <category>ILS (Integratel Library Systems)</category>
-      </categories>
-      <tags>
-        <tag>FOSS in Libraries</tag>
-        <tag>Digital Libraries</tag>
-        <tag>Digital Library collections</tag>
-        <tag>Greenstone</tag>
-        <tag>ILS</tag>
-        <tag>ILS (Integratel Library Systems)</tag>
-        <tag>Kete</tag>
-        <tag>Koha</tag>
       </tags>
   </entry>
   <entry>
@@ -889,19 +806,79 @@ https://youtu.be/</div>
       </categories>
       <tags>
         <tag>Jerusalem Marathon</tag>
-        <tag>Running</tag>
         <tag>מרתון ירושלים</tag>
+        <tag>Running</tag>
         <tag>מרתון ירושלים 2011</tag>
         <tag>ריצה</tag>
       </tags>
   </entry>
   <entry>
-    <title>Koha Version 3.0 Released</title>
-    <url>/2008/08/14/koha-version-30-released/</url>
-    <content><![CDATA[<p>Release 3 for Koha - an open-source integrated library system. <a href="http://koha.org/about-koha/news/nr1218407616.html" title="More details">More details</a>: <a href="http://koha.org/about-koha/news/nr1218407616.html">http://koha.org/about-koha/news/nr1218407616.html</a> I have just seen it at the <a href="http://www.liblime.com/" title="LibLime">LibLime</a> blog named “<a href="http://blogs.liblime.com/open-sesame/" title="Open Sesame">Open Sesame</a>“. <a href="http://blogs.liblime.com/open-sesame/archives/135" title="the post">The post</a> cites the <a href="http://lists.katipo.co.nz/public/koha/2008-August/014839.html" title="Announcing Koha 3.00.00">Koha mailing list</a> - in the <a href="http://koha.org/about-koha/news/nr1218407616.html">message</a> about “Announcing Koha 3.00.00”:</p>
-<blockquote>
-<p>Hi folks, I’m happy to announce that a packaged release of Koha 3.00.00 is now available. You can download from the usual location: <a href="http://download.koha.org/koha-3.00.00.tar.gz">http://download.koha.org/koha-3.00.00.tar.gz</a> <a href="http://download.koha.org/koha-3.00.00.tar.gz.sig">http://download.koha.org/koha-3.00.00.tar.gz.sig</a></p>
-</blockquote>
+    <title>מרתון ירושלים 2011 - הגשמת חלום</title>
+    <url>/2011/03/21/jerusalem-marathon-dream-comes-true/</url>
+    <content><![CDATA[<p>ביום שישי הקרוב אני עומד להגשים חלום. ביום שישי הקרוב - 25 במרץ 2011 - עומד להתקיים <a href="http://www.jerusalem-marathon.co.il/" title="מרתון ווינר ירושלים הבינלאומי - 25 במרץ 2011">מרתון ירושלים הבינלאומי</a> לשנת 2011. והשנה יהיה זה אירוע מיוחד. לא רק שהפעם יהיה גם מרתון מלא (כן, 42 ק”מ), אלא ש<strong>גם אני - עומד לקחת חלק בחגיגה!</strong>! חלק קטן אבל חלק. כלומר - לא בכל מקצה ה- 42 קילומטר (עדיין… זה מעל ליכולותי) - <strong>אני מתעתד לרוץ במקצה ה-10 ק”מ</strong>.  זו הולכת להיות חגיגה אמיתית! ובעיקר הגשמת חלום. ההתחלה נדמה לי - ליד מוזיאון ישראל, שם אני מצפה לפגוש גם חברים טובים מהעבודה, כמו ג’ודית, יואל (שמצפה לעשות חצי מרתון, ואוו!!) ויורם. <strong>המון בהצלחה לכולם!!! :-)</strong> [המקצה צפוי לעבור ב](<a href="http://liner.co.il/marathon/index_10km.html">http://liner.co.il/marathon/index_10km.html</a> “מקצה 10 ק”מ”): מוזיאון ישראל, קריית הלאום (ליד בנייני האומה), בית המשפט העליון, עיריית ירושלים, ממילא, שער יפו, העיר העתיקה, הסינמטק, מרכז מורשת מנחם בגין, תיאטרון החאן הירושלמי, ליד משכן הנשיא  ותיאטרון ירושלים. חתיכת אתרים, לא? עולה בראשי זכרון מלפני ארבע או חמש שנים. <strong>הנה הזכרון</strong>: ביום בו קיימו את המירוץ בירושלים (שאז לא כלל מרתון מלא) אני זוכר את עצמי בעבודה (אז - כמו היום - בירושלים), עומד במשרד ומביט מהחלון לכוון תחנת הרכבת של מלחה ומצפה לראות את הרצים. אז, לפני ארבע - חמש שנים, אמרתי לעצמי - <em>הלוואי, הלוואי והייתי יכול להיות עם אלו שרצים שם למטה!</em> התכוונתי ל- 10 ק”מ. עבר זמן… והנה - אני יכול להרשות לעצמי להשתתף ב-ד-י-ו-ק בזה. אני יכול להרשות לעצמי להשתתף בידיעה שאני מתחיל בריצה ומסיים בריצה ובהחלט בכיף! ואני לא סתם יכול להרשות את זה לעצמי - השנה הייתי כבר במרוצים: ב<a href="http://minisites.shvoong.co.il/YEKAVIM2010/index.asp" title="מרוץ היקבים 2010">מרוץ היקבים</a> שהיה באוקטובר 2010 ליד קיבוץ נחשון (מדרום ללטרון) וב<a href="http://www.shvoong.co.il/he-IL/166/6431/" title="מרוץ מודיעין ה- 6">מרוץ מודיעין ה-6</a> (נובמבר 2010) - שהיו כל אחד ל- 5 ק”מ - וב<a href="http://www.shvoong.co.il/he-IL/166/6335/" title="מרוץ פארק המים רעות ה-17">מרוץ פארק המים רעות ה-17</a> (דצמבר 2010) - שהיה 10 ק”מ.</p>
+]]></content>
+      <categories>
+        <category>ריצה</category>
+        <category>Running</category>
+      </categories>
+      <tags>
+        <tag>Jerusalem Marathon</tag>
+        <tag>מרתון ירושלים</tag>
+        <tag>Running</tag>
+        <tag>מרתון ירושלים 2011</tag>
+        <tag>ריצה</tag>
+        <tag>Marathon</tag>
+        <tag>מרוץ</tag>
+        <tag>מרתון</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>מרתון ירושלים 2011 - חוויה אישית</title>
+    <url>/2011/03/26/jerusalem-marathon-2011-experience/</url>
+    <content><![CDATA[<p>אוקי, עמדתי  באתגר. יותר נכון רצתי אותו.<br>כפי שכתבתי ב<a href="http://meorero.wordpress.com/2011/03/21/jerusalem-marathon-dream/" title="מרתון ירושלים 2011 – הגשמת חלום">פוסט הקודם</a> האתגר היה ריצת 10 ק”מ במסגרת מרתון ירושלים 2011 - וזה היה <a href="http://meorero.wordpress.com/2011/03/21/jerusalem-marathon-dream/" title="מרתון ירושלים 2011 – הגשמת חלום">הגשמת חלום</a> בן כמה שנים.</p>
+<p>זו הייתה חווייה נהדרת שהשאירה לי בהחלט טעם של עוד. אני מכה לשנה הבאה. מי יודע - אולי 21 ק”מ - לא מתחייב!!</p>
+<ul>
+<li><strong>האירגון</strong>, לפחות ממה שאני ראיתי, היה טוב.<br>היה די ברור לאן להגיע - ולא נתקלתי בקשיים עם השילוט.<br>אבל ראיתי גם כאלו שהתבלבלו ושאלו אותי בתוך גן סאקר.</li>
+<li><strong>פרשה מביכה</strong>:<br>אני לא ראיתו שילוט באנגלית.<br>זה אולי מסביר את  הפרשה המביכה שהתפרסמה, כאשר כמה מהרצים שהובילו בריצת המרתון טעו והגיעו לקו הסיום הלא נכון.<br>מביך למדי. אבל אני מאמין ומקווה שילמדו לפעם הבאה.<br><strong><a href="http://news.walla.co.il/?w=/7/1809170" title="מבוכה בסיום מרתון ירושלים: ארבעת הראשונים טעו בדרך">ראו ב- ואללה!</a></strong>: <a href="http://news.walla.co.il/?w=/7/1809170" title="מבוכה בסיום מרתון ירושלים: ארבעת הראשונים טעו בדרך">מבוכה בסיום מרתון ירושלים: ארבעת הראשונים טעו בדרך</a><br>האצנים נפסלו בתחילה, אך הפסילה בוטלה. ריימונד קיפקוץ’ הוכרז כמנצח. למעלה מ-10,000 משתתפים נטלו חלק בחגיגה.<br><a href="http://www.ynet.co.il/articles/1,7340,L-4047671,00.html" title="מרתון י-ם: המובילים נפסלו, המנצח הוכרז פעמיים">ראו גם ב- Ynet</a>: “<a href="http://www.ynet.co.il/articles/1,7340,L-4047671,00.html" title="מרתון י-ם: המובילים נפסלו, המנצח הוכרז פעמיים">מרתון י-ם: המובילים נפסלו, המנצח הוכרז פעמיים</a>“.</li>
+<li><strong>טוב שנתנו לקת את ערכת המרוץ מראש</strong> באמצע השבוע עם מספר החזה, חולצה ואת הצ’יפ לנעל.<br>כך באתי מוכן, עם הצ’יפ בנעל ועם המספר על החולצה.<br>החולצה שלבשתי לא הייתה זו שנתנו - <strong>לבשתי בשמחה את החולצה והכובע שקיבלתי במיוחד לתחרות מ- אקס ליבריס</strong> (מקום העבודה).<br>אכן נפגשנו שם את החבר’ה מהעבודה- מה שהוסיף לכיף.</li>
+</ul>
+<p><em><strong>בקיצור - היה ממש מדהים! אני מחכה לשנה הבאה.</strong></em><br>אני מקווה שלא יחסמו את העיר לתושבים ושיהיה להם יותר קל להבא… בכל זאת - זה יום שישי, יום קצר.<br>צריך לזכור שהמרתון כלל אלפים רבים של משתתפים מהארץ ומחו”ל.</p>
+<p><strong>תמונות זינוק</strong>:</p>
+<p>[caption id&#x3D;”attachment_590” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”מרתון ירושלים 2011 - זינוק”][2167[&#x2F;caption]</p>
+<p>[caption id&#x3D;”attachment_591” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”מרתון ירושלים 2011 - זינוק 02”][2513[&#x2F;caption]</p>
+<p><strong>תחושת ההישג האישי שווה את הקושי</strong>.<br>אכן היה לא קל ואני עדיין “מרגיש את רגליים”.<br>הקושי כלל: יציאה מוקדמת ממודיעין לירושלים בשעה מוקדמת (עם הזריחה, לפני שש בבוקר ועוד ביום שישי!), קור מקפיא, דישדוש בבוץ בגן סאקר שלאחר הגשם, ובעיקר - עלייה קשה ברח’ ז’בוטינסקי בסביבות הקילומטר השביעי.<br>אבל היה שווה. בהחלט שווה.</p>
+<p><strong>ועכשיו - עוד תמונות</strong>.</p>
+<p>התמונות שבפוסט זה מופיעות גם בפייסבוק.<br>כשלקחתי את הערכה למרוץ באמצע השבוע שעבר - בתערוכת ספורט בבניני האומה - נרשמתי לאפליקציית פייסבוק של טוטו ווינר (המארגנים). אז הם העלו את התמונות שלי כנראה לפי זהוי הצ’יפ שלי בנקודות בהן היה שטיחון אלקטרוני.</p>
+<p><strong>תמונה מהאמצע</strong>: ביציאה מהעיר העתיקה, סביבות הקילומטר ה-5.</p>
+<p>[caption id&#x3D;”attachment_592” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”מרתון ירושלים 2011 - ביציאה מן העיר העתיקה, בערך ב- 5 ק”מ”][3542[&#x2F;caption]</p>
+<p>תמונות מהסיום:</p>
+<p>[caption id&#x3D;”attachment_593” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”קו סיום מקצה ה- 10 ק”מ של מרתון ירושלים 2011. אני בחולצה לבנה וכובע - באמצע משמאל. “][3971[&#x2F;caption]</p>
+<p>[caption id&#x3D;”attachment_594” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”קו סיום מקצה ה- 10 ק”מ של מרתון ירושלים 2011. אני מוסתר משום מה… “][4364[&#x2F;caption]</p>
+]]></content>
+      <categories>
+        <category>ריצה</category>
+        <category>Running</category>
+      </categories>
+      <tags>
+        <tag>Jerusalem Marathon</tag>
+        <tag>מרתון ירושלים</tag>
+        <tag>Running</tag>
+        <tag>מרתון ירושלים 2011</tag>
+        <tag>ריצה</tag>
+        <tag>מרוץ</tag>
+        <tag>מרתון</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Koha, Greenstone and Kete</title>
+    <url>/2008/08/19/koha-greenstone-and-kete/</url>
+    <content><![CDATA[<p>I’m just reading a discussion on the Koha mailing list ( <a href="http://lists.katipo.co.nz/public/koha/" title="lists.katipo.co.nz">lists.katipo.co.nz</a> ) about: “[Katipo&#x2F;Koha Relationship With Greenstone Question](<a href="http://lists.katipo.co.nz/public/koha/2008-August/014948.html">http://lists.katipo.co.nz/public/koha/2008-August/014948.html</a> “”Katipo&#x2F;Koha Relationship With Greenstone Question””)”. Greenstone and Kete are both Open Source and dealing with digital library. <strong>For some more background info</strong>:</p>
+<ul>
+<li><p><a href="http://kete.net.nz/" title="About Kete">About Kete</a> - a community built digital library: <a href="http://kete.net.nz/" title="About Kete">http://kete.net.nz/</a></p>
+</li>
+<li><p><a href="http://www.greenstone.org/" title="About Greenstone">Greenstone</a> (digital library software): <a href="http://www.greenstone.org/" title="About Greenstone">http://www.greenstone.org/</a></p>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>Free /Open Source in Libraries</category>
@@ -909,9 +886,13 @@ https://youtu.be/</div>
       </categories>
       <tags>
         <tag>FOSS in Libraries</tag>
+        <tag>Digital Libraries</tag>
+        <tag>Digital Library collections</tag>
+        <tag>Greenstone</tag>
         <tag>ILS</tag>
+        <tag>ILS (Integratel Library Systems)</tag>
+        <tag>Kete</tag>
         <tag>Koha</tag>
-        <tag>Release</tag>
       </tags>
   </entry>
   <entry>
@@ -933,6 +914,41 @@ https://youtu.be/</div>
         <tag>Free /Open Source in Libraries</tag>
         <tag>Open Source</tag>
         <tag>Library of Congress</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Linux Distribution Chooser</title>
+    <url>/2008/06/09/linux-distribution-chooser/</url>
+    <content><![CDATA[<p>I have just made the <a href="http://www.zegeniestudios.net/ldc/index.php">Linux Distribution Chooser</a> <a href="http://www.zegeniestudios.net/ldc/" title="Linux Distribution Chooser">here</a>. Results for me: <strong>We found these matches, sorted by how well they match:</strong></p>
+<p>245</p>
+<h2 id="Debian"><a href="#Debian" class="headerlink" title="Debian"></a>Debian</h2><p>( <a href="http://www.debian.org/">http://www.debian.org/</a> )</p>
+<p><strong>Ubuntu</strong> and <strong>Kubuntu</strong> as last option. For each choice there’s an explanation, and also an exception “May not be suitable because”. <strong><em>Now … what do I really use</em></strong>? <strong>Debian</strong> is really what I use on my home PC. <strong>Ubuntu</strong> - on the home laptop.</p>
+]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Linux Disrributions</tag>
+        <tag>Linux Red Hat Mandrake</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Koha Version 3.0 Released</title>
+    <url>/2008/08/14/koha-version-30-released/</url>
+    <content><![CDATA[<p>Release 3 for Koha - an open-source integrated library system. <a href="http://koha.org/about-koha/news/nr1218407616.html" title="More details">More details</a>: <a href="http://koha.org/about-koha/news/nr1218407616.html">http://koha.org/about-koha/news/nr1218407616.html</a> I have just seen it at the <a href="http://www.liblime.com/" title="LibLime">LibLime</a> blog named “<a href="http://blogs.liblime.com/open-sesame/" title="Open Sesame">Open Sesame</a>“. <a href="http://blogs.liblime.com/open-sesame/archives/135" title="the post">The post</a> cites the <a href="http://lists.katipo.co.nz/public/koha/2008-August/014839.html" title="Announcing Koha 3.00.00">Koha mailing list</a> - in the <a href="http://koha.org/about-koha/news/nr1218407616.html">message</a> about “Announcing Koha 3.00.00”:</p>
+<blockquote>
+<p>Hi folks, I’m happy to announce that a packaged release of Koha 3.00.00 is now available. You can download from the usual location: <a href="http://download.koha.org/koha-3.00.00.tar.gz">http://download.koha.org/koha-3.00.00.tar.gz</a> <a href="http://download.koha.org/koha-3.00.00.tar.gz.sig">http://download.koha.org/koha-3.00.00.tar.gz.sig</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Free /Open Source in Libraries</category>
+        <category>ILS (Integratel Library Systems)</category>
+      </categories>
+      <tags>
+        <tag>FOSS in Libraries</tag>
+        <tag>ILS</tag>
+        <tag>Koha</tag>
+        <tag>Release</tag>
       </tags>
   </entry>
   <entry>
@@ -1101,45 +1117,21 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>עוד על \&quot;גישה חופשית\&quot; - בלוג ספריית אונ&#39; תל-אביב</title>
-    <url>/2009/05/06/more-on-open-access/</url>
-    <content><![CDATA[<p>רחל שיאון, מ<a href="http://www.tau.ac.il/libraries-heb.html" title="ספריות אוניברסיטת ת”א">הספרייה המרכזית באוניברסיטת תל-אביב</a>, כותבת ב<a href="http://blog.tau.ac.il/libraries/" title="בלוג הספריות אוניברסיטת תל-אביב">בלוג של ספריות אוניברסיטת תל-אביב</a> אודות: “<a href="http://blog.tau.ac.il/libraries/?p=1523" title="גישה חופשית לספרים וחומרי לימוד מקוונים">גישה חופשית לספרים וחומרי לימוד מקוונים</a>‬”.</p>
-<p>מתוארת הרצאתה של בהרצאתה של עדנה טל-אלחסיד, מ<a href="http://telem.openu.ac.il/" title="המרכז לשילוב טכנולוגיות בהוראה מרחוק - האוניברסיטה הפתוחה">המרכז לשילוב טכנולוגיות בלמידה מרחוק</a>, באוניברסיטה הפתוחה, על הנושא: גישה חופשית לספרים וחומרי לימוד מקוונים.</p>
-<p>מסתבר - אחרי חיפוש קצר - ש<a href="http://www.shoham-at-ou.blogspot.com/" title="המרכז לשילוב טכנולוגיות בלמידה מרחוק, באוניברסיטה הפתוחה - בלוג">יש להם בלוג</a>. יפה.</p>
-<p>ההרצאה ניתנה במסגרת סמינר מחקר של <a href="http://www.niis.tau.ac.il/" title="מכון נטוויז&#39;ן לחקר האינטרנט באוניברסיטת תל אביב">מכון נטוויז’ן לחקר האינטרנט באוניברסיטת תל אביב</a>.</p>
+    <title>Multics - 40 שנה</title>
+    <url>/2009/11/13/multics-40-year/</url>
+    <content><![CDATA[<p>[caption id&#x3D;”” align&#x3D;”alignleft” width&#x3D;”400” caption&#x3D;”40 Years of Multics”][79[&#x2F;caption]</p>
+<p>משהו מ-OSNews: 40 שנה למערכת ה- “מולטיקס” (<a href="http://en.wikipedia.org/wiki/Multics" title="Multics">Multics</a>) הראשונה שנכנסה לשימוש. הכוונה כמובן למערכת המחשב. זה קרה לפני 40 שנה וחודש, באוקטובר 1969, אז הוכנסה מערכת לשימוש במכון הטכנולוגי של מסצ’וסטס - הלא הוא ה- MIT . שמה של המערכת: <a href="http://en.wikipedia.org/wiki/Multics" title="Multics">Multics</a> (Multiplexed Information and Computing Service) - והיא נחשבת למערכת ה- Time Sharing הראשונה.מערכת מחשב זו הייתה הזרז בפיתוח יוניקס (Unix) בפרט - ובכלל כהשראה ומודל בפיתוח מערכות ההפעלה שבאו מאז. גלריית תמונות מההיסטוריה של Multics. השם יוניקס (Unix) הוא פאראפרזה על השם Multics.</p>
+<p>המקור - ידיעה בכותרת:   OSnews: <a href="http://www.osnews.com/story/22481/40_Years_of_Multics_1969-2009" title="40 Years of Multics, 1969-2009">40 Years of Multics, 1969-2009</a></p>
+<p>על הקשר בין יוניקס ל “השרא, שלה- מולטיקס - ראו כאן:  <a href="http://www.multicians.org/unix.html" title="Unix and Multics">Unix and Multics</a></p>
 ]]></content>
       <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Linux Distribution Chooser</title>
-    <url>/2008/06/09/linux-distribution-chooser/</url>
-    <content><![CDATA[<p>I have just made the <a href="http://www.zegeniestudios.net/ldc/index.php">Linux Distribution Chooser</a> <a href="http://www.zegeniestudios.net/ldc/" title="Linux Distribution Chooser">here</a>. Results for me: <strong>We found these matches, sorted by how well they match:</strong></p>
-<p>245</p>
-<h2 id="Debian"><a href="#Debian" class="headerlink" title="Debian"></a>Debian</h2><p>( <a href="http://www.debian.org/">http://www.debian.org/</a> )</p>
-<p><strong>Ubuntu</strong> and <strong>Kubuntu</strong> as last option. For each choice there’s an explanation, and also an exception “May not be suitable because”. <strong><em>Now … what do I really use</em></strong>? <strong>Debian</strong> is really what I use on my home PC. <strong>Ubuntu</strong> - on the home laptop.</p>
-]]></content>
-      <categories>
-        <category>Linux</category>
+        <category>Unix</category>
+        <category>FOSS</category>
+        <category>History</category>
       </categories>
       <tags>
-        <tag>Linux Disrributions</tag>
-        <tag>Linux Red Hat Mandrake</tag>
+        <tag>Unix History</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Me and my first Ruby book</title>
-    <url>/2013/08/22/me-and-my-first-ruby-book/</url>
-    <content><![CDATA[<p>Well, it’s finally here. I am curious enough to get the book. So I purchased one. I mean the Ruby book: The Ruby programming language &#x2F; David Flanagan and Yukihiro Matsumoto. –    Beijing : O’Reilly, c2008.</p>
-<p>See me…</p>
-<span id="more"></span>
-<p>231</p>
-<p>Source: meorero_octopress</p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
   </entry>
   <entry>
     <title>מוזילה בלחץ: ממהרת לפיירפוקס 4</title>
@@ -1161,48 +1153,29 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Multics - 40 שנה</title>
-    <url>/2009/11/13/multics-40-year/</url>
-    <content><![CDATA[<p>[caption id&#x3D;”” align&#x3D;”alignleft” width&#x3D;”400” caption&#x3D;”40 Years of Multics”][79[&#x2F;caption]</p>
-<p>משהו מ-OSNews: 40 שנה למערכת ה- “מולטיקס” (<a href="http://en.wikipedia.org/wiki/Multics" title="Multics">Multics</a>) הראשונה שנכנסה לשימוש. הכוונה כמובן למערכת המחשב. זה קרה לפני 40 שנה וחודש, באוקטובר 1969, אז הוכנסה מערכת לשימוש במכון הטכנולוגי של מסצ’וסטס - הלא הוא ה- MIT . שמה של המערכת: <a href="http://en.wikipedia.org/wiki/Multics" title="Multics">Multics</a> (Multiplexed Information and Computing Service) - והיא נחשבת למערכת ה- Time Sharing הראשונה.מערכת מחשב זו הייתה הזרז בפיתוח יוניקס (Unix) בפרט - ובכלל כהשראה ומודל בפיתוח מערכות ההפעלה שבאו מאז. גלריית תמונות מההיסטוריה של Multics. השם יוניקס (Unix) הוא פאראפרזה על השם Multics.</p>
-<p>המקור - ידיעה בכותרת:   OSnews: <a href="http://www.osnews.com/story/22481/40_Years_of_Multics_1969-2009" title="40 Years of Multics, 1969-2009">40 Years of Multics, 1969-2009</a></p>
-<p>על הקשר בין יוניקס ל “השרא, שלה- מולטיקס - ראו כאן:  <a href="http://www.multicians.org/unix.html" title="Unix and Multics">Unix and Multics</a></p>
+    <title>עוד על \&quot;גישה חופשית\&quot; - בלוג ספריית אונ&#39; תל-אביב</title>
+    <url>/2009/05/06/more-on-open-access/</url>
+    <content><![CDATA[<p>רחל שיאון, מ<a href="http://www.tau.ac.il/libraries-heb.html" title="ספריות אוניברסיטת ת”א">הספרייה המרכזית באוניברסיטת תל-אביב</a>, כותבת ב<a href="http://blog.tau.ac.il/libraries/" title="בלוג הספריות אוניברסיטת תל-אביב">בלוג של ספריות אוניברסיטת תל-אביב</a> אודות: “<a href="http://blog.tau.ac.il/libraries/?p=1523" title="גישה חופשית לספרים וחומרי לימוד מקוונים">גישה חופשית לספרים וחומרי לימוד מקוונים</a>‬”.</p>
+<p>מתוארת הרצאתה של בהרצאתה של עדנה טל-אלחסיד, מ<a href="http://telem.openu.ac.il/" title="המרכז לשילוב טכנולוגיות בהוראה מרחוק - האוניברסיטה הפתוחה">המרכז לשילוב טכנולוגיות בלמידה מרחוק</a>, באוניברסיטה הפתוחה, על הנושא: גישה חופשית לספרים וחומרי לימוד מקוונים.</p>
+<p>מסתבר - אחרי חיפוש קצר - ש<a href="http://www.shoham-at-ou.blogspot.com/" title="המרכז לשילוב טכנולוגיות בלמידה מרחוק, באוניברסיטה הפתוחה - בלוג">יש להם בלוג</a>. יפה.</p>
+<p>ההרצאה ניתנה במסגרת סמינר מחקר של <a href="http://www.niis.tau.ac.il/" title="מכון נטוויז&#39;ן לחקר האינטרנט באוניברסיטת תל אביב">מכון נטוויז’ן לחקר האינטרנט באוניברסיטת תל אביב</a>.</p>
 ]]></content>
       <categories>
-        <category>Unix</category>
-        <category>FOSS</category>
-        <category>History</category>
+        <category>uncategorized</category>
       </categories>
-      <tags>
-        <tag>Unix History</tag>
-      </tags>
   </entry>
   <entry>
-    <title>My beginning with Linux (2000-2004)</title>
-    <url>/2008/04/12/my-beginning-with-linux-2000-2004/</url>
-    <content><![CDATA[<p>The first Linux I tried was Red Hat.</p>
-<p>This was around 2000 - 2001, just before the end of my M.A. studies.</p>
-<p>It was Red Hat 6.1 or 6.2, which I got on a CD-ROM with a Linux book. I think I stil have this CD with the book.</p>
-<p>It is Peter Norton Linux book translated to Hebrew:</p>
-<p>‫ נורטון, פיטר</p>
-<p>LINUX : המדריך השלם &#x2F; של פיטר נורטון ; (תרגום ועריכה: ענת קדם [בן-צבי] ; עריכה מקצועית: אייל אייזנשטיין).</p>
-<p>‫ (ר”ג) : פוקוס מחשבים, 2000. רמת גן</p>
-<p>Around 2002-2003 I played furthermore with later RedHat distributions and got used to work with the Gnome desktop.</p>
-<p>I do think that KDE is nice and easy desktop, and it’s very rich and flexible - but for me Gnome was the first so I still keep it as my favorite.</p>
-<p>The last Red Hat I tried was Red Hat 8, in 2003 or 2004. I think I tried to have a dual-boot PC and it ruined the Windows partition.</p>
-<p>So I had to recover it. It was also my mother’s PC …</p>
-<p>Than I used Mandrake which was close enough to Red Hat (using RPM) but also had nice GUI for editing partitions.</p>
+    <title>Me and my first Ruby book</title>
+    <url>/2013/08/22/me-and-my-first-ruby-book/</url>
+    <content><![CDATA[<p>Well, it’s finally here. I am curious enough to get the book. So I purchased one. I mean the Ruby book: The Ruby programming language &#x2F; David Flanagan and Yukihiro Matsumoto. –    Beijing : O’Reilly, c2008.</p>
+<p>See me…</p>
+<span id="more"></span>
+<p>231</p>
+<p>Source: meorero_octopress</p>
 ]]></content>
       <categories>
-        <category>Linux</category>
-        <category>Mandriva</category>
-        <category>Red Hat</category>
+        <category>uncategorized</category>
       </categories>
-      <tags>
-        <tag>Gnome</tag>
-        <tag>Linux Red Hat Mandrake</tag>
-        <tag>KDE</tag>
-      </tags>
   </entry>
   <entry>
     <title>Multi Yeda 2015 - סיכום מולטי-ידע 2015</title>
@@ -1237,6 +1210,58 @@ Tel Aviv
         <tag>מידענות</tag>
         <tag>ספרנות</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>My beginning with Linux (2000-2004)</title>
+    <url>/2008/04/12/my-beginning-with-linux-2000-2004/</url>
+    <content><![CDATA[<p>The first Linux I tried was Red Hat.</p>
+<p>This was around 2000 - 2001, just before the end of my M.A. studies.</p>
+<p>It was Red Hat 6.1 or 6.2, which I got on a CD-ROM with a Linux book. I think I stil have this CD with the book.</p>
+<p>It is Peter Norton Linux book translated to Hebrew:</p>
+<p>‫ נורטון, פיטר</p>
+<p>LINUX : המדריך השלם &#x2F; של פיטר נורטון ; (תרגום ועריכה: ענת קדם [בן-צבי] ; עריכה מקצועית: אייל אייזנשטיין).</p>
+<p>‫ (ר”ג) : פוקוס מחשבים, 2000. רמת גן</p>
+<p>Around 2002-2003 I played furthermore with later RedHat distributions and got used to work with the Gnome desktop.</p>
+<p>I do think that KDE is nice and easy desktop, and it’s very rich and flexible - but for me Gnome was the first so I still keep it as my favorite.</p>
+<p>The last Red Hat I tried was Red Hat 8, in 2003 or 2004. I think I tried to have a dual-boot PC and it ruined the Windows partition.</p>
+<p>So I had to recover it. It was also my mother’s PC …</p>
+<p>Than I used Mandrake which was close enough to Red Hat (using RPM) but also had nice GUI for editing partitions.</p>
+]]></content>
+      <categories>
+        <category>Linux</category>
+        <category>Mandriva</category>
+        <category>Red Hat</category>
+      </categories>
+      <tags>
+        <tag>Gnome</tag>
+        <tag>Linux Red Hat Mandrake</tag>
+        <tag>KDE</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>בית חדש - meorero.org.il</title>
+    <url>/2009/06/06/new-home-meorero-org-il/</url>
+    <content><![CDATA[<p><strong>אקטקום מתה לפני שנתיים פלוס. עכשיו ניתקו את הזרם</strong>…</p>
+<p>אחרי זמן ארוך, נכנסתי לאתר שלי <a href="http://www.meorero.org.il/">meorero.org.il</a> , שאותו מזמן לא עדכנתי.</p>
+<p>ומה ראיתי? האתר נ-מ-ו-ג, התפוגג.</p>
+<p>בגלישה ל- י <a href="http://www.meorero.org.il/">meorero.org.il</a> ,  הייתה מוצגת הודעה כזו:</p>
+<p>The domain is pointed to this server, but not configured here yet.<br>If your site should be configured, please contact: <a href="mailto:&#100;&#111;&#109;&#97;&#x69;&#110;&#64;&#97;&#x63;&#116;&#99;&#111;&#109;&#x2e;&#110;&#x65;&#x74;&#46;&#105;&#x6c;">&#100;&#111;&#109;&#97;&#x69;&#110;&#64;&#97;&#x63;&#116;&#99;&#111;&#109;&#x2e;&#110;&#x65;&#x74;&#46;&#105;&#x6c;</a>.<br>שם המתחם אותו ניסית, מופנה לשרת זה, אך אינו מוגדר בו עדיין.<br>במידה ושם המתחם אמור להתאחסן בשרת זה, אנא פנה ל: <a href="mailto:&#100;&#111;&#109;&#97;&#105;&#x6e;&#64;&#x61;&#x63;&#x74;&#x63;&#x6f;&#x6d;&#x2e;&#x6e;&#101;&#x74;&#x2e;&#105;&#x6c;">&#100;&#111;&#109;&#97;&#105;&#x6e;&#64;&#x61;&#x63;&#x74;&#x63;&#x6f;&#x6d;&#x2e;&#x6e;&#101;&#x74;&#x2e;&#105;&#x6c;</a> .</p>
+<p>עם תמונה כזו :        [572</p>
+<p>טוב… זה ברור, התארחתי אצל אקטקום, ו<a href="http://blog.shemesh.biz/?p=472" title="אקטקום הפסיקה להתקיים">אקטקום הפסיקה להתקיים</a> לפני שנתיים, עם רכישתה ע”י בזק בינלאומי. עכשיו החליטו שם - בבזק בינ”ל כנראה “לנתק את הזרם”…</p>
+<p>ממילא לא עדכנתי את האתר כבר שנים - ומגיע לו עיצוב חדש יותר. אז שיהיה בית (שרת) חדש.</p>
+<p>בבזק בינ”ל זה מוקפא ואני ממילא לא משלם…</p>
+<p><strong>אני מחפש בית חדש …</strong></p>
+<p>אהה.. וזול. לא חינם, אלא זול. החשוב ביותר - שיהיה אמין. לא חייב להיות בארץ.</p>
+<p>ונדמה היה לי שמצאתי. נכנסתי בויקיפדיה העברית לערך “<a href="http://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%A8%D7%95%D7%AA_%D7%90%D7%99%D7%A8%D7%95%D7%97_%D7%90%D7%AA%D7%A8%D7%99%D7%9D" title="ויקיפדיה - שירותי אירוח אתרים">שירות אירוח אתרים</a>“, משם עברתי לערך האנגלי “[Web hosting](<a href="http://en.wikipedia.org/wiki/Web_hosting_service">http://en.wikipedia.org/wiki/Web_hosting_service</a> “”Web hosting service” From Wikipedia, the free encyclopedia”)” . משם ל- <a href="http://en.wikipedia.org/wiki/List_of_Domain_Registrars" title="List of Domain Registrars - From Wikipedia, the free encyclopedia">רשימה של רשמים</a> (כלומר לערך האנגלי  <a href="http://en.wikipedia.org/wiki/List_of_Domain_Registrars" title="List of Domain Registrars - From Wikipedia, the free encyclopedia">Domain Registrars</a>) וגם ערך שמתאר את - “<a href="http://en.wikipedia.org/wiki/Go_Daddy" title="Go Daddy- From Wikipedia, the free encyclopedia">Go Daddy</a>“. אחר השוואה קצרה עם <a href="http://www.enom.com/">eNom</a> החלטתי על <a href="http://www.godaddy.com/" title="Go Daddy">GO DADDY</a>. וזהו.</p>
+<p>אה … הנה משהו מעניין שמצאתי תוך כדי: נתח השוק של רשמים - “<a href="http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx" title="Registrar Market Share">Registrar Market Share</a>“ שמצאתי כאן : <a href="http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx" title="Registrar Market Share">http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx</a></p>
+<p><strong>האם הם בסדר שם, ב- Go Daddy ??</strong></p>
+<p>הרי לפי ה- “<a href="http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx" title="Registrar Market Share">Registrar Market Share</a>“ הם מובילים. א-ב-ל כנראה שיש <strong>לא מעט מאוכזבים</strong> מ- <a href="http://www.godaddy.com/" title="Go Daddy">Go Daddy</a>.</p>
+<p>אחרי שנרשמתי ל- Go Daddy, ואפילו שילמתי שלושה חודשים מראש ( $4.99 לחודש), גיליתי את <a href="http://nodaddy.com/" title="NoDaddy.com">אתר מאוכזבי Go Daddy</a>.</p>
+<p>אתר <a href="http://nodaddy.com/#horror" title="NoDaddy.com">No Daddy</a> מספר <a href="http://nodaddy.com/#horror" title="GoDaddy Horror Stories, Issues, Problems and General Complaints ">סיפורי אימה על Go Daddy</a> … ימים יגידו. שילמתי כבר לשלושה חודשים. נראה אז.</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
   </entry>
   <entry>
     <title>My Octopress site on IE8 - does not look good</title>
@@ -1277,31 +1302,6 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>בית חדש - meorero.org.il</title>
-    <url>/2009/06/06/new-home-meorero-org-il/</url>
-    <content><![CDATA[<p><strong>אקטקום מתה לפני שנתיים פלוס. עכשיו ניתקו את הזרם</strong>…</p>
-<p>אחרי זמן ארוך, נכנסתי לאתר שלי <a href="http://www.meorero.org.il/">meorero.org.il</a> , שאותו מזמן לא עדכנתי.</p>
-<p>ומה ראיתי? האתר נ-מ-ו-ג, התפוגג.</p>
-<p>בגלישה ל- י <a href="http://www.meorero.org.il/">meorero.org.il</a> ,  הייתה מוצגת הודעה כזו:</p>
-<p>The domain is pointed to this server, but not configured here yet.<br>If your site should be configured, please contact: <a href="mailto:&#x64;&#x6f;&#109;&#97;&#x69;&#110;&#64;&#97;&#x63;&#116;&#99;&#111;&#109;&#x2e;&#x6e;&#x65;&#x74;&#x2e;&#x69;&#x6c;">&#x64;&#x6f;&#109;&#97;&#x69;&#110;&#64;&#97;&#x63;&#116;&#99;&#111;&#109;&#x2e;&#x6e;&#x65;&#x74;&#x2e;&#x69;&#x6c;</a>.<br>שם המתחם אותו ניסית, מופנה לשרת זה, אך אינו מוגדר בו עדיין.<br>במידה ושם המתחם אמור להתאחסן בשרת זה, אנא פנה ל: <a href="mailto:&#100;&#x6f;&#109;&#97;&#105;&#x6e;&#64;&#x61;&#x63;&#116;&#x63;&#111;&#x6d;&#x2e;&#110;&#x65;&#116;&#x2e;&#x69;&#x6c;">&#100;&#x6f;&#109;&#97;&#105;&#x6e;&#64;&#x61;&#x63;&#116;&#x63;&#111;&#x6d;&#x2e;&#110;&#x65;&#116;&#x2e;&#x69;&#x6c;</a> .</p>
-<p>עם תמונה כזו :        [572</p>
-<p>טוב… זה ברור, התארחתי אצל אקטקום, ו<a href="http://blog.shemesh.biz/?p=472" title="אקטקום הפסיקה להתקיים">אקטקום הפסיקה להתקיים</a> לפני שנתיים, עם רכישתה ע”י בזק בינלאומי. עכשיו החליטו שם - בבזק בינ”ל כנראה “לנתק את הזרם”…</p>
-<p>ממילא לא עדכנתי את האתר כבר שנים - ומגיע לו עיצוב חדש יותר. אז שיהיה בית (שרת) חדש.</p>
-<p>בבזק בינ”ל זה מוקפא ואני ממילא לא משלם…</p>
-<p><strong>אני מחפש בית חדש …</strong></p>
-<p>אהה.. וזול. לא חינם, אלא זול. החשוב ביותר - שיהיה אמין. לא חייב להיות בארץ.</p>
-<p>ונדמה היה לי שמצאתי. נכנסתי בויקיפדיה העברית לערך “<a href="http://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%A8%D7%95%D7%AA_%D7%90%D7%99%D7%A8%D7%95%D7%97_%D7%90%D7%AA%D7%A8%D7%99%D7%9D" title="ויקיפדיה - שירותי אירוח אתרים">שירות אירוח אתרים</a>“, משם עברתי לערך האנגלי “[Web hosting](<a href="http://en.wikipedia.org/wiki/Web_hosting_service">http://en.wikipedia.org/wiki/Web_hosting_service</a> “”Web hosting service” From Wikipedia, the free encyclopedia”)” . משם ל- <a href="http://en.wikipedia.org/wiki/List_of_Domain_Registrars" title="List of Domain Registrars - From Wikipedia, the free encyclopedia">רשימה של רשמים</a> (כלומר לערך האנגלי  <a href="http://en.wikipedia.org/wiki/List_of_Domain_Registrars" title="List of Domain Registrars - From Wikipedia, the free encyclopedia">Domain Registrars</a>) וגם ערך שמתאר את - “<a href="http://en.wikipedia.org/wiki/Go_Daddy" title="Go Daddy- From Wikipedia, the free encyclopedia">Go Daddy</a>“. אחר השוואה קצרה עם <a href="http://www.enom.com/">eNom</a> החלטתי על <a href="http://www.godaddy.com/" title="Go Daddy">GO DADDY</a>. וזהו.</p>
-<p>אה … הנה משהו מעניין שמצאתי תוך כדי: נתח השוק של רשמים - “<a href="http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx" title="Registrar Market Share">Registrar Market Share</a>“ שמצאתי כאן : <a href="http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx" title="Registrar Market Share">http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx</a></p>
-<p><strong>האם הם בסדר שם, ב- Go Daddy ??</strong></p>
-<p>הרי לפי ה- “<a href="http://www.registrarstats.com/Public/RegistrarMarketShareMain.aspx" title="Registrar Market Share">Registrar Market Share</a>“ הם מובילים. א-ב-ל כנראה שיש <strong>לא מעט מאוכזבים</strong> מ- <a href="http://www.godaddy.com/" title="Go Daddy">Go Daddy</a>.</p>
-<p>אחרי שנרשמתי ל- Go Daddy, ואפילו שילמתי שלושה חודשים מראש ( $4.99 לחודש), גיליתי את <a href="http://nodaddy.com/" title="NoDaddy.com">אתר מאוכזבי Go Daddy</a>.</p>
-<p>אתר <a href="http://nodaddy.com/#horror" title="NoDaddy.com">No Daddy</a> מספר <a href="http://nodaddy.com/#horror" title="GoDaddy Horror Stories, Issues, Problems and General Complaints ">סיפורי אימה על Go Daddy</a> … ימים יגידו. שילמתי כבר לשלושה חודשים. נראה אז.</p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Noam 3 years birthday movie</title>
     <url>/2017/02/27/noam-3-years-birthday-movie/</url>
     <content><![CDATA[<p>מעלה כאן בבלוג - באיחור - סרטון שהעלתי מזמן ביוטיוב.</p>
@@ -1330,43 +1330,9 @@ Tel Aviv
         <category>Noam</category>
       </categories>
       <tags>
-        <tag>Noam</tag>
         <tag>Birthday</tag>
         <tag>Movie</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>סרטון לכבוד יום הולדתו של נועם - גיל שנתיים</title>
-    <url>/2015/12/28/noam-2-years-movie/</url>
-    <content><![CDATA[<p>לקח קצת זמן, אבל הנה הסרטון… הסרטון ביוטיוב:</p>
-<p><a href="https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b">https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b</a></p>
-  <style>.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe, .embed-container object, .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  </style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/Munb1hrWkHA" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
-
-<p>הסרטון ב- Tumblr: </p>
-<p><a href="http://meorero.tumblr.com/post/136103753903/%D7%A1%D7%A8%D7%98%D7%95%D7%9F-%D7%9C%D7%99%D7%95%D7%9D-%D7%94%D7%95%D7%9C%D7%93%D7%AA-%D7%A9%D7%A0%D7%AA%D7%99%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A0%D7%95%D7%A2%D7%9D">http://meorero.tumblr.com/post/136103753903/סרטון-ליום-הולדת-שנתיים-של-נועם</a></p>
-]]></content>
-      <categories>
-        <category>Noam Maurer</category>
-      </categories>
-      <tags>
         <tag>Noam</tag>
-        <tag>Birthday</tag>
       </tags>
   </entry>
   <entry>
@@ -1401,20 +1367,37 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>OCLC - לא מטיל מגבלות... לפחות בינתיים</title>
-    <url>/2009/07/04/oclc-formally-withdraws-proposed-worldcat-policy/</url>
-    <content><![CDATA[<p>ארגון ה- OCLC חוזר בו מהכוונה להטיל מגבלות על שימוש ברשומות הביבליוגרפיות שנתרמות ע”י הארגונים החברים, והופכות לנגישות דרך שירות ה- WorldCat. חדשות טובות לכל התומכים במידע חופשי . אולם עדיין יש לעקוב ולראות מה בסוף כן יוחלט ע”י ה- OCLC , במיוחד אחרי ההכרזה של OCLC על פתיחת שירות ה- WorldCat Local לפני כמה חודשים.הנה ציטוט רשמי של ה- <a href="http://www.oclc.org/news/releases/200939.htm" title="Review Board on Principles of Shared Data Creation and Stewardship releases final report">OCLC</a>:</p>
-<p>After review of the recommendations, OCLC has formally withdrawn the proposed<br>policy.<br>A new group will soon be assembled to begin work to draft a new policy<br>with more input and participation from the OCLC membership.</p>
-<p>בקשר ל- <a href="http://www.oclc.org/worldcatlocal/" title="WorldCat Local [OCLC - Reference and Discovery]">WorldCat Local</a> - כתבתי על כך פוסט: “<a href="http://meorero.wordpress.com/2009/04/24/oclc-rules/" title="OCLC שולטת?">OCLC שולטת?</a> “. עוד בנושא זה - כדאי לפנות לפודקאסט (ומי שלא יודע מה זה - שיחפש ב- <a href="http://en.wikipedia.org/wiki/Podcast">ויקיפדיה</a> ) של ה- <a href="http://librarygang.talis.com/" title="Library 2.0 Gang">Library 2.0 Gang</a> שכותרתו: “<a href="http://librarygang.talis.com/2009/06/09/library-20-gang-0609-library-system-suppliers-view-of-oclc-web-scale/" title="Library System Suppliers view of OCLC Web-scale">Library System Suppliers view of OCLC Web-scale</a>“. עוד הפנייה אחת לפוסט זה - אל הפוסט שבו ראיתי את המידע: <a href="http://blog.ecorrado.us/2009/07/03/oclc-formally-withdraws-proposed-worldcat-policy/" title="Corrado, Ed: OCLC formally withdraws proposed WorldCat policy">Corrado, Ed: OCLC formally withdraws proposed WorldCat policy</a></p>
+    <title>סרטון לכבוד יום הולדתו של נועם - גיל שנתיים</title>
+    <url>/2015/12/28/noam-2-years-movie/</url>
+    <content><![CDATA[<p>לקח קצת זמן, אבל הנה הסרטון… הסרטון ביוטיוב:</p>
+<p><a href="https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b">https://youtu.be/Munb1hrWkHA?list=PLC4Pzj2XN8A4phEF0Q6EbdUdKJlhEtH3b</a></p>
+  <style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Munb1hrWkHA" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+
+<p>הסרטון ב- Tumblr: </p>
+<p><a href="http://meorero.tumblr.com/post/136103753903/%D7%A1%D7%A8%D7%98%D7%95%D7%9F-%D7%9C%D7%99%D7%95%D7%9D-%D7%94%D7%95%D7%9C%D7%93%D7%AA-%D7%A9%D7%A0%D7%AA%D7%99%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A0%D7%95%D7%A2%D7%9D">http://meorero.tumblr.com/post/136103753903/סרטון-ליום-הולדת-שנתיים-של-נועם</a></p>
 ]]></content>
       <categories>
-        <category>FOSS</category>
-        <category>ILS (Integratel Library Systems)</category>
-        <category>OCLC</category>
+        <category>Noam Maurer</category>
       </categories>
       <tags>
-        <tag>OCLC</tag>
-        <tag>WorldCat</tag>
+        <tag>Birthday</tag>
+        <tag>Noam</tag>
       </tags>
   </entry>
   <entry>
@@ -1462,8 +1445,41 @@ Tel Aviv
         <category>Noam</category>
       </categories>
       <tags>
-        <tag>Noam</tag>
         <tag>Birthday</tag>
+        <tag>Noam</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OCLC - לא מטיל מגבלות... לפחות בינתיים</title>
+    <url>/2009/07/04/oclc-formally-withdraws-proposed-worldcat-policy/</url>
+    <content><![CDATA[<p>ארגון ה- OCLC חוזר בו מהכוונה להטיל מגבלות על שימוש ברשומות הביבליוגרפיות שנתרמות ע”י הארגונים החברים, והופכות לנגישות דרך שירות ה- WorldCat. חדשות טובות לכל התומכים במידע חופשי . אולם עדיין יש לעקוב ולראות מה בסוף כן יוחלט ע”י ה- OCLC , במיוחד אחרי ההכרזה של OCLC על פתיחת שירות ה- WorldCat Local לפני כמה חודשים.הנה ציטוט רשמי של ה- <a href="http://www.oclc.org/news/releases/200939.htm" title="Review Board on Principles of Shared Data Creation and Stewardship releases final report">OCLC</a>:</p>
+<p>After review of the recommendations, OCLC has formally withdrawn the proposed<br>policy.<br>A new group will soon be assembled to begin work to draft a new policy<br>with more input and participation from the OCLC membership.</p>
+<p>בקשר ל- <a href="http://www.oclc.org/worldcatlocal/" title="WorldCat Local [OCLC - Reference and Discovery]">WorldCat Local</a> - כתבתי על כך פוסט: “<a href="http://meorero.wordpress.com/2009/04/24/oclc-rules/" title="OCLC שולטת?">OCLC שולטת?</a> “. עוד בנושא זה - כדאי לפנות לפודקאסט (ומי שלא יודע מה זה - שיחפש ב- <a href="http://en.wikipedia.org/wiki/Podcast">ויקיפדיה</a> ) של ה- <a href="http://librarygang.talis.com/" title="Library 2.0 Gang">Library 2.0 Gang</a> שכותרתו: “<a href="http://librarygang.talis.com/2009/06/09/library-20-gang-0609-library-system-suppliers-view-of-oclc-web-scale/" title="Library System Suppliers view of OCLC Web-scale">Library System Suppliers view of OCLC Web-scale</a>“. עוד הפנייה אחת לפוסט זה - אל הפוסט שבו ראיתי את המידע: <a href="http://blog.ecorrado.us/2009/07/03/oclc-formally-withdraws-proposed-worldcat-policy/" title="Corrado, Ed: OCLC formally withdraws proposed WorldCat policy">Corrado, Ed: OCLC formally withdraws proposed WorldCat policy</a></p>
+]]></content>
+      <categories>
+        <category>FOSS</category>
+        <category>ILS (Integratel Library Systems)</category>
+        <category>OCLC</category>
+      </categories>
+      <tags>
+        <tag>OCLC</tag>
+        <tag>WorldCat</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Open Access - גישה חופשית למידע ופרסום אלקטרוני [presentation from Haifa Univ. Library]</title>
+    <url>/2008/05/27/open-access-presentatiob-haifa-univ/</url>
+    <content><![CDATA[<p>I have just read on the <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=814" title="Blog - Haifa Univ. Library">blog</a> of the <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=814" title="Blof - Haifa university Library">Haifa university Library</a> about “ Open Access - גישה חופשית למידע ופרסום אלקטרוני.” The presentation was a part of meetings held at the library about information in the library and on the World Wide Web. The open publication possibilities were introduced, as well as economic models. Among other issues - the presentation cites a <a href="http://www.fas.harvard.edu/home/news_and_events/releases/scholarly_02122008.html" title="decision of Harvard university">decision of Harvard university faculty</a> to collect and disseminate scholarly articles. Some of the new Israeli projects are discussed and also copyrights matters and the solutions offered by “<a href="http://creativecommons.org/" title="Creative Commons">Creative Commons</a>“.</p>
+<p>לפוסט - בלוג ספריית אוניברסיטת חיפה - To the <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=814" title="POST">POST</a>.</p>
+<p>למצגת בעברית - “Open Access” : <a href="http://lib.haifa.ac.il/liblog/images/stories/pdf/mazagot2/oa.pdf" title="To the Presentation">Presentation</a>. (ב- PDF)</p>
+<p><strong>BTW</strong> There is “<a href="http://creativecommons.org.il/" title="Hebrew Creative Commons">Hebrew Creative Commons</a>“ - <a href="http://creativecommons.org.il/" title="קריאייטיב קומונז בעברית">קריאייטיב קומונז <strong>בעברית</strong></a>. Cool!</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+      <tags>
+        <tag>Open Access</tag>
+        <tag>Creative Commons</tag>
       </tags>
   </entry>
   <entry>
@@ -1524,6 +1540,32 @@ Tel Aviv
       </categories>
   </entry>
   <entry>
+    <title>Open Access רשמים מכנס טלדן 2009</title>
+    <url>/2009/05/05/open-access-teldan-2009/</url>
+    <content><![CDATA[<p>הכנס מאורגן ע”י חברת <a href="http://www.teldan.co.il/">Teldan</a> ומתקיים זו השנה ה-24 ברציפות. הכנס עוסק כל התחומים הנוגעים למידע, ניהול תוכן, מאגרי מידע, פרוייקטים דיגיטליים מודיעין עסקי, ארכיונים ועוד. שמו של הכנס השנה: <a href="http://www.teldan.co.il/Templates/showpage.asp?DBID=1&LNGID=1&TMID=84&FID=616" title="INFO Annual Conference &amp; Exhibition">Info 2009</a> . ל <a href="http://www.teldan.co.il/Templates/showpage.asp?DBID=1&LNGID=1&TMID=84&FID=624">תוכנית הכנס</a> (קבצי PDF). העלתי את התוכנית לכאן:<a href="http://meorero.files.wordpress.com/2009/05/conference_program_2009_heb.pdf">conference_program_2009_heb</a></p>
+<p>אני השתתפתי ביום עיון שכותרתו: “Open Access - גישה פתוחה: מדיניות, טכנולוגיה ופרוייקטים”. יושבת הראש של יום העיון הייתה ד”ר רות הנדזל מ<a href="http://www.haifa.ac.il/" title="אוניברסיטת חיפה">אוניברסיטת חיפה</a> - ה<a href="http://lib-stu.haifa.ac.il/staff.htm" title="החוג ללימודי ספרנות - אוניברסיטת חיפה">חוג ללימודי מידענות וספרנות</a>.</p>
+<p>איחרתי להרצאתו של ד”ר עפר דרורי מ[שע”ם](<a href="http://www.shaam.gov.il/">http://www.shaam.gov.il/</a> “אתר האינטרנט של שע”ם”) אודות שימוש בטכנולוגיות מתקדמות למימוש Open Access. (פעם ראשונה שאני נתקל בגוף הזה - [שע”ם](<a href="http://www.shaam.gov.il/">http://www.shaam.gov.il/</a> “אתר האינטרנט של שע”ם”) … מעניין - האתר שלהם נראה לא משהו בפיירפוקס).</p>
+<p>שמואל ורד דיבר על הקמת מערך מאגרי המידע הדיגיטליים באוניברסיטה העברית בירושלים - והראה את ההצלחה, למרות המורכבות וההתנגדויות וה “פוליטיקה” של גורמים פנימיים.</p>
+<p><a href="http://law.haifa.ac.il/faculty/eng/elkin.htm" title="Prof. Niva Elkin-Koren, Vice Dean">פרופ’ ניבה אלקין-קורן</a> - מן הפקולטה למשפטים באוניברסיטת חיפה הרצאה בצורה מרתקת על על חסמים משפטיים למידע פתוח ואיך ניתן להסיר אותם. היא הזכירה את  <a href="http://www.creativecommons.org.il/" title="Creative Commons Israel">Creative Commons</a> לסוגיו ועוד סוגיות מרתקות, לדוגמא - מה הדין של יצירה קבוצתית משותפת שנעשית בהתנדבות כמו ויקיפדיה? ראוי להזכיר כאן את <a href="http://law.haifa.ac.il/techlaw/" title="המרכז למשפט וטכנולוגיה, הפקולטה למשפטים, אוניברסיטת חיפה. ">המרכז למשפט וטכנולוגיה</a> באוניברסיטת חיפה ואת ה<a href="http://infosoc.haifa.ac.il/" title="המרכז לחקר האדם בחברת המידע">מרכז לחקר חברת המידע</a> שנותן חסות ל<a href="http://creativecommons.org.il/" title="ארגון קריאטיב קומונס ישראל">ארגון קריאטיב קומונס ישראל</a>.</p>
+<p>אורלי סימון מ<a href="http://jnul.huji.ac.il/" title="בית הספרים הלאומי">הספרייה הלאומית</a> בירושלים דיברה על ספריות לאומיות בעולם שמובילות תהליכי הטמעה ו”שיווק” של Open Access. למשל <a href="http://www.natlib.govt.nz/" title="National Library of New Zealand Te Puna Mātauranga o Aotearoa">הספרייה הלאומית של ניו-זילנד</a>. אנחנו בישראל עדיין לא שם - יש לאן להתקדם.</p>
+<p>ד”ר <a href="http://www.is.biu.ac.il/he/node/1017" title="דר מרים פרבר">מרים פרבר</a> מ<a href="http://www.is.biu.ac.il/" title="המחלקה ללימודי מידע - אוניברסיטת בר-אילן">המחלקה ללימודי מידע באוניברסיטת בר-אילן</a> (שאצלה למדתי לפני כעשר שנים) הציגה גישה חדשנית שבאה להדגיש את חשיבות הספריות במוסדות אקדמיים כמרכז הפקדה. כלומר - הספריות צריכות להיות המקום בו יופקדו ויישמרו מקורות המידע הדיגיטליים כנגישים. ציטוט של חומר והפנייה לחומר מחקרי רציני הולכת לרוב  לאתר המו”ל - לכןהיא התייחסה גם למו”לים המסחריים - שלהם כמובן רווח משמירת והנגשת המידע. חשיבות המו”לים היא עדיין ב “קיבוע” החומר המחקרי.</p>
+<p>פרופ’ יואב יאיר דיבר על: <a href="http://ocw.openu.ac.il/" title="פאר - חומרים וספרי לימוד פתוחים לציבור">פא”ר חומרים וספרי לימוד פתוחים לציבור</a>. פא”ר - ‘פתיחת אוצרות רוח’ - מאפשר גישה חפשית לספרי לימוד ולחומרי הוראה שפותחו באוניברסיטה הפתוחה, במגוון קורסים ובמגוון תחומי  דעת.</p>
+<p>אורן ויינרברג מ<a href="http://lib.haifa.ac.il/" title="ספריית אוניברסיטת חיפה - Haifa university Library">ספריית אוניברסיטת חיפה</a> הציג את המאמצים שעושים בספרייה בה הוא עובד להוביל את ה- Open Access.  הוא - כמו ד”ר פרבר - הציג את האבסורד שקיים בכך שחוקרים מהאקדמיה שנתמכת מכספי ציבור תלויים במו”לים מסחריים שמתפרנסים מפרסום פרות המחקר.</p>
+<p>שמעתי את מר דייויד אלק (David Elek) - מנהל מכירות מחברת המו”לים שפרינגר (כן, הוא מבטא את “Springer” עם ש’ בהתחלה) - שדיבר באנגלית על: Springer and Biomed Central, Open Access all the way?</p>
+<p>שפרינגר רכשו את “<a href="http://www.biomedcentral.com/" title="BioMed Central  The Open Access Publisher">Biomed Central</a>“ -<a href="http://www.biomedcentral.com/" title="BioMed Central  The Open Access Publisher">The Open Access Publisher</a> שהנו כלי Open Access שכשמו כן הוא - מכיל מאמרים מכתבי עת בתחום ה- BioMed. (BioMed Central ) עוד הוא הציג כלי חיפוש פתוח מאוד נחמד בשם: <a href="http://www.authormapper.com/" title="AuthorMapper">AuthorMapper</a> שממפה מחברים אקדמיים במחינה גיאוגרפית על גבי מפות של <a href="http://maps.google.com/" title="Google Maps">Google Maps</a>. הוא בעצם היה נציג המו”לים המסחריים ש”הותקפו” ע”י כל שאר הדוברים במשך היום. אולי למזלו - הוא היחיד שהרצה ודיבר אנגלית, כל המרצים דברו והתקיפו את המו”לים והספקים בעברית …</p>
+<p>תמר שדה מאקס ליבריס דיברה על גישת ה- Open Platform שהחברה מקדמת מאוד בשנה האחרונה. מכיוון שאני עצמי עובד אקס ליבריס ידעתי את רוב הדברים, אך למדתי על יישום יפה של Metalib שפותח באופן עצמאי לגמרי ע”י לקוחות.</p>
+<p>דיבר משה עפרון מחברת <a href="http://www.tdnet.com/" title="TDNet e-Resource Manager, Integrated solution for information ... ">TDNet</a> (שזה בעצם בת של טלדן). הוא הציג מאגר עזר למידענים שהם בונים.</p>
+<p>בסוף יום העיון דיברה <a href="http://gsb.haifa.ac.il/~draban/home/" title="Daphne R. Raban, PhD">ד”ר דפנה רבן</a> מאוניברסיטת חיפה -<a href="http://infosoc.haifa.ac.il/" title="המרכז לחקר חברת המידע - Center for the Study of the Information Society ">המרכז לחקר חברת המידע</a> ונתנה הרצאת סיכום שבה הובעה תקווה להובלה של Open Access ע”י הספריות.</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+      <tags>
+        <tag>Open Access</tag>
+        <tag>Teldan Conference</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>OCLC שולטת?</title>
     <url>/2009/04/24/oclc-rules/</url>
     <content><![CDATA[<p>OCLC שולטת?</p>
@@ -1559,45 +1601,19 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Open Access - גישה חופשית למידע ופרסום אלקטרוני [presentation from Haifa Univ. Library]</title>
-    <url>/2008/05/27/open-access-presentatiob-haifa-univ/</url>
-    <content><![CDATA[<p>I have just read on the <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=814" title="Blog - Haifa Univ. Library">blog</a> of the <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=814" title="Blof - Haifa university Library">Haifa university Library</a> about “ Open Access - גישה חופשית למידע ופרסום אלקטרוני.” The presentation was a part of meetings held at the library about information in the library and on the World Wide Web. The open publication possibilities were introduced, as well as economic models. Among other issues - the presentation cites a <a href="http://www.fas.harvard.edu/home/news_and_events/releases/scholarly_02122008.html" title="decision of Harvard university">decision of Harvard university faculty</a> to collect and disseminate scholarly articles. Some of the new Israeli projects are discussed and also copyrights matters and the solutions offered by “<a href="http://creativecommons.org/" title="Creative Commons">Creative Commons</a>“.</p>
-<p>לפוסט - בלוג ספריית אוניברסיטת חיפה - To the <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=814" title="POST">POST</a>.</p>
-<p>למצגת בעברית - “Open Access” : <a href="http://lib.haifa.ac.il/liblog/images/stories/pdf/mazagot2/oa.pdf" title="To the Presentation">Presentation</a>. (ב- PDF)</p>
-<p><strong>BTW</strong> There is “<a href="http://creativecommons.org.il/" title="Hebrew Creative Commons">Hebrew Creative Commons</a>“ - <a href="http://creativecommons.org.il/" title="קריאייטיב קומונז בעברית">קריאייטיב קומונז <strong>בעברית</strong></a>. Cool!</p>
+    <title>Open Source Software For Libraries (Library Technology Report)</title>
+    <url>/2008/08/27/open-source-software-for-libraries/</url>
+    <content><![CDATA[<p><a href="http://maisonbisson.com/oss4lib/" title="Open Source Software For Libraries -  (a CC-licensed version of the Library Technology Report of the same name)">Open Source Software For Libraries</a> - a CC-licensed version of the May&#x2F;June 2007 Library Technology Report of the same name “<a href="http://maisonbisson.com/oss4lib/" title="Open Source Software for Libraries">Library Technology Report: Open Source Software for Libraries</a>“, from ALA TechSource. [caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”231” caption&#x3D;”Open Source Software For Libraries (a CC-licensed version of the Library Technology Report of the same name)”][600_ ]</p>
 ]]></content>
       <categories>
-        <category>uncategorized</category>
+        <category>Free / Open Source</category>
+        <category>Free /Open Source in Libraries</category>
+        <category>ILS (Integratel Library Systems)</category>
       </categories>
       <tags>
-        <tag>Open Access</tag>
-        <tag>Creative Commons</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Open Access רשמים מכנס טלדן 2009</title>
-    <url>/2009/05/05/open-access-teldan-2009/</url>
-    <content><![CDATA[<p>הכנס מאורגן ע”י חברת <a href="http://www.teldan.co.il/">Teldan</a> ומתקיים זו השנה ה-24 ברציפות. הכנס עוסק כל התחומים הנוגעים למידע, ניהול תוכן, מאגרי מידע, פרוייקטים דיגיטליים מודיעין עסקי, ארכיונים ועוד. שמו של הכנס השנה: <a href="http://www.teldan.co.il/Templates/showpage.asp?DBID=1&LNGID=1&TMID=84&FID=616" title="INFO Annual Conference &amp; Exhibition">Info 2009</a> . ל <a href="http://www.teldan.co.il/Templates/showpage.asp?DBID=1&LNGID=1&TMID=84&FID=624">תוכנית הכנס</a> (קבצי PDF). העלתי את התוכנית לכאן:<a href="http://meorero.files.wordpress.com/2009/05/conference_program_2009_heb.pdf">conference_program_2009_heb</a></p>
-<p>אני השתתפתי ביום עיון שכותרתו: “Open Access - גישה פתוחה: מדיניות, טכנולוגיה ופרוייקטים”. יושבת הראש של יום העיון הייתה ד”ר רות הנדזל מ<a href="http://www.haifa.ac.il/" title="אוניברסיטת חיפה">אוניברסיטת חיפה</a> - ה<a href="http://lib-stu.haifa.ac.il/staff.htm" title="החוג ללימודי ספרנות - אוניברסיטת חיפה">חוג ללימודי מידענות וספרנות</a>.</p>
-<p>איחרתי להרצאתו של ד”ר עפר דרורי מ[שע”ם](<a href="http://www.shaam.gov.il/">http://www.shaam.gov.il/</a> “אתר האינטרנט של שע”ם”) אודות שימוש בטכנולוגיות מתקדמות למימוש Open Access. (פעם ראשונה שאני נתקל בגוף הזה - [שע”ם](<a href="http://www.shaam.gov.il/">http://www.shaam.gov.il/</a> “אתר האינטרנט של שע”ם”) … מעניין - האתר שלהם נראה לא משהו בפיירפוקס).</p>
-<p>שמואל ורד דיבר על הקמת מערך מאגרי המידע הדיגיטליים באוניברסיטה העברית בירושלים - והראה את ההצלחה, למרות המורכבות וההתנגדויות וה “פוליטיקה” של גורמים פנימיים.</p>
-<p><a href="http://law.haifa.ac.il/faculty/eng/elkin.htm" title="Prof. Niva Elkin-Koren, Vice Dean">פרופ’ ניבה אלקין-קורן</a> - מן הפקולטה למשפטים באוניברסיטת חיפה הרצאה בצורה מרתקת על על חסמים משפטיים למידע פתוח ואיך ניתן להסיר אותם. היא הזכירה את  <a href="http://www.creativecommons.org.il/" title="Creative Commons Israel">Creative Commons</a> לסוגיו ועוד סוגיות מרתקות, לדוגמא - מה הדין של יצירה קבוצתית משותפת שנעשית בהתנדבות כמו ויקיפדיה? ראוי להזכיר כאן את <a href="http://law.haifa.ac.il/techlaw/" title="המרכז למשפט וטכנולוגיה, הפקולטה למשפטים, אוניברסיטת חיפה. ">המרכז למשפט וטכנולוגיה</a> באוניברסיטת חיפה ואת ה<a href="http://infosoc.haifa.ac.il/" title="המרכז לחקר האדם בחברת המידע">מרכז לחקר חברת המידע</a> שנותן חסות ל<a href="http://creativecommons.org.il/" title="ארגון קריאטיב קומונס ישראל">ארגון קריאטיב קומונס ישראל</a>.</p>
-<p>אורלי סימון מ<a href="http://jnul.huji.ac.il/" title="בית הספרים הלאומי">הספרייה הלאומית</a> בירושלים דיברה על ספריות לאומיות בעולם שמובילות תהליכי הטמעה ו”שיווק” של Open Access. למשל <a href="http://www.natlib.govt.nz/" title="National Library of New Zealand Te Puna Mātauranga o Aotearoa">הספרייה הלאומית של ניו-זילנד</a>. אנחנו בישראל עדיין לא שם - יש לאן להתקדם.</p>
-<p>ד”ר <a href="http://www.is.biu.ac.il/he/node/1017" title="דר מרים פרבר">מרים פרבר</a> מ<a href="http://www.is.biu.ac.il/" title="המחלקה ללימודי מידע - אוניברסיטת בר-אילן">המחלקה ללימודי מידע באוניברסיטת בר-אילן</a> (שאצלה למדתי לפני כעשר שנים) הציגה גישה חדשנית שבאה להדגיש את חשיבות הספריות במוסדות אקדמיים כמרכז הפקדה. כלומר - הספריות צריכות להיות המקום בו יופקדו ויישמרו מקורות המידע הדיגיטליים כנגישים. ציטוט של חומר והפנייה לחומר מחקרי רציני הולכת לרוב  לאתר המו”ל - לכןהיא התייחסה גם למו”לים המסחריים - שלהם כמובן רווח משמירת והנגשת המידע. חשיבות המו”לים היא עדיין ב “קיבוע” החומר המחקרי.</p>
-<p>פרופ’ יואב יאיר דיבר על: <a href="http://ocw.openu.ac.il/" title="פאר - חומרים וספרי לימוד פתוחים לציבור">פא”ר חומרים וספרי לימוד פתוחים לציבור</a>. פא”ר - ‘פתיחת אוצרות רוח’ - מאפשר גישה חפשית לספרי לימוד ולחומרי הוראה שפותחו באוניברסיטה הפתוחה, במגוון קורסים ובמגוון תחומי  דעת.</p>
-<p>אורן ויינרברג מ<a href="http://lib.haifa.ac.il/" title="ספריית אוניברסיטת חיפה - Haifa university Library">ספריית אוניברסיטת חיפה</a> הציג את המאמצים שעושים בספרייה בה הוא עובד להוביל את ה- Open Access.  הוא - כמו ד”ר פרבר - הציג את האבסורד שקיים בכך שחוקרים מהאקדמיה שנתמכת מכספי ציבור תלויים במו”לים מסחריים שמתפרנסים מפרסום פרות המחקר.</p>
-<p>שמעתי את מר דייויד אלק (David Elek) - מנהל מכירות מחברת המו”לים שפרינגר (כן, הוא מבטא את “Springer” עם ש’ בהתחלה) - שדיבר באנגלית על: Springer and Biomed Central, Open Access all the way?</p>
-<p>שפרינגר רכשו את “<a href="http://www.biomedcentral.com/" title="BioMed Central  The Open Access Publisher">Biomed Central</a>“ -<a href="http://www.biomedcentral.com/" title="BioMed Central  The Open Access Publisher">The Open Access Publisher</a> שהנו כלי Open Access שכשמו כן הוא - מכיל מאמרים מכתבי עת בתחום ה- BioMed. (BioMed Central ) עוד הוא הציג כלי חיפוש פתוח מאוד נחמד בשם: <a href="http://www.authormapper.com/" title="AuthorMapper">AuthorMapper</a> שממפה מחברים אקדמיים במחינה גיאוגרפית על גבי מפות של <a href="http://maps.google.com/" title="Google Maps">Google Maps</a>. הוא בעצם היה נציג המו”לים המסחריים ש”הותקפו” ע”י כל שאר הדוברים במשך היום. אולי למזלו - הוא היחיד שהרצה ודיבר אנגלית, כל המרצים דברו והתקיפו את המו”לים והספקים בעברית …</p>
-<p>תמר שדה מאקס ליבריס דיברה על גישת ה- Open Platform שהחברה מקדמת מאוד בשנה האחרונה. מכיוון שאני עצמי עובד אקס ליבריס ידעתי את רוב הדברים, אך למדתי על יישום יפה של Metalib שפותח באופן עצמאי לגמרי ע”י לקוחות.</p>
-<p>דיבר משה עפרון מחברת <a href="http://www.tdnet.com/" title="TDNet e-Resource Manager, Integrated solution for information ... ">TDNet</a> (שזה בעצם בת של טלדן). הוא הציג מאגר עזר למידענים שהם בונים.</p>
-<p>בסוף יום העיון דיברה <a href="http://gsb.haifa.ac.il/~draban/home/" title="Daphne R. Raban, PhD">ד”ר דפנה רבן</a> מאוניברסיטת חיפה -<a href="http://infosoc.haifa.ac.il/" title="המרכז לחקר חברת המידע - Center for the Study of the Information Society ">המרכז לחקר חברת המידע</a> ונתנה הרצאת סיכום שבה הובעה תקווה להובלה של Open Access ע”י הספריות.</p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-      <tags>
-        <tag>Open Access</tag>
-        <tag>Teldan Conference</tag>
+        <tag>Free / Open Source</tag>
+        <tag>Free Open Source software</tag>
+        <tag>Free /Open Source in Libraries</tag>
       </tags>
   </entry>
   <entry>
@@ -1621,22 +1637,6 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Open Source Software For Libraries (Library Technology Report)</title>
-    <url>/2008/08/27/open-source-software-for-libraries/</url>
-    <content><![CDATA[<p><a href="http://maisonbisson.com/oss4lib/" title="Open Source Software For Libraries -  (a CC-licensed version of the Library Technology Report of the same name)">Open Source Software For Libraries</a> - a CC-licensed version of the May&#x2F;June 2007 Library Technology Report of the same name “<a href="http://maisonbisson.com/oss4lib/" title="Open Source Software for Libraries">Library Technology Report: Open Source Software for Libraries</a>“, from ALA TechSource. [caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”231” caption&#x3D;”Open Source Software For Libraries (a CC-licensed version of the Library Technology Report of the same name)”][600_ ]</p>
-]]></content>
-      <categories>
-        <category>Free / Open Source</category>
-        <category>Free /Open Source in Libraries</category>
-        <category>ILS (Integratel Library Systems)</category>
-      </categories>
-      <tags>
-        <tag>Free / Open Source</tag>
-        <tag>Free Open Source software</tag>
-        <tag>Free /Open Source in Libraries</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>OpenETD - קוד פתוח בספריות אוניברסיטת רוטג&#39;רס - תוכנת ניהול תזות ודיסרטציות</title>
     <url>/2010/05/19/openetd-opensource/</url>
     <content><![CDATA[<p>ספריות  <a href="http://en.wikipedia.org/wiki/Rutgers_University" title="Rutgers University">אוניברסיטת רוטג’רס</a> בניו ג’רסי, הודיעו על שחרור “<a href="http://rucore.libraries.rutgers.edu/open/projects/openetd/" title="OpenETD">OpenETD</a>“ - תוכנה מבוססת רשת (Web based) לניהול תהליכי ההגשה, האישור וההפצה של עבודות תזה ודיסרטציות. זה מה שמוכר אצלנו כעבודות MA ודוקטורט. אפשר להשתמש במערכת באופן עצמאי - או בשילוב עם מערכות אחרות ע”י יצוא - בפורמטים  <a href="http://en.wikipedia.org/wiki/METS" title="METS">METS&#x2F;XML</a> המקובלים בתחום. (למי ששואל - <a href="http://en.wikipedia.org/wiki/METS" title="METS">METS</a> זה ראשי תבות של: <a href="http://www.loc.gov/standards/mets" title="METS: Metadata Encoding and Transmission Standard">Metadata Encoding and Transmission Standard</a> - - תקן שמובילה <a href="http://www.loc.gov/standards/mets" title="METS - ספריית הקונגרס">ספריית הקונגרס</a>, יחד עם ה- W3C). בין השאר - המערכת כוללת תמכה ב- UTF-8, אפשרות להפרדת הניהול בין פקולטות שונות, אפשרות למודול הזדהות מרכזי או מבוזר (כולל תמיכה ב- LDAP), משלוח הודעות דואל, ייצור דוחות, יצוא ל- ProQuest&#x2F;UMI ועוד.  המערכת מופצת ברשיון GNU GPL 3.0 . קישורים: ראיתי את המידע כאן: <a href="http://www.librarytechnology.org/" title="Library Technology Guides">Library Technology Guides</a> : <a href="http://www.librarytechnology.org/ltg-displaytext.pl?RC=14744" title="OpenETD, web-based ETD Management Utility now available">OpenETD, web-based ETD Management Utility now available</a> <a href="http://www.librarytechnology.org/ltg-displaytext.pl?RC=14744" title="OpenETD, web-based ETD Management Utility now available">http://www.librarytechnology.org/ltg-displaytext.pl?RC=14744</a> פרטים על המערכת באתר הספריות של אוניברסיטת רוטג’רס: <a href="http://rucore.libraries.rutgers.edu/open/projects/openetd/" title="      * RUcore     * Open Source Development     * OpenETD Overview">http://rucore.libraries.rutgers.edu/open/projects/openetd/</a></p>
@@ -1650,6 +1650,47 @@ Tel Aviv
         <tag>Free /Open Source in Libraries</tag>
         <tag>Open Source</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Yes! At last - Padre on Ms-Windows with ActivePerl 5.10.0 Build 1004</title>
+    <url>/2009/02/02/padre-on-ms-windows-with-activeperl-5100-build-1004/</url>
+    <content><![CDATA[<p>I’ve just succeeded to install Padre 0.25 on the Ms-Windows PC I have at work. It wasn’t easy at all… This PC is Windows XP with ActivePerl 5.10.0 Build 1004. All the times that I tried in the past - I had many problems, including complicated needs to do compilation. Now I have on it Microsoft Visual C++ 6.0 - maybe it helped solving dependency on modules that need local compilation. Other things that I have just made and helped:</p>
+<ol>
+<li>upgrading last version of Encode - using ppm ,</li>
+<li>upgrade of Wx - also by using ppm ,</li>
+<li>installing Alien-wxWidgets (the same way),</li>
+<li>And now - again with ppm:</li>
+</ol>
+<blockquote>
+<p>ppm install  –force Alien-wxWidgets-dev</p>
+</blockquote>
+<p>(I use the PPM from DOS “command line” :-&#x2F;) And now - here are a few pictures of my Padre 0.25: [caption id&#x3D;”attachment_234” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”Padre 0.25 main Window”]842[&#x2F;caption]</p>
+]]></content>
+      <categories>
+        <category>Perl</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Parade - an IDE in Perl for Perl</title>
+    <url>/2008/08/21/parade-an-ide-in-perl-for-perl/</url>
+    <content><![CDATA[<p><a href="http://www.szabgab.com/" title="Gabor Szabo">Gabor Szabo</a> writes on <a href="http://www.szabgab.com/blog/" title="Gabor Szabo blog">his blog</a> about  <a href="http://padre.perlide.org/" title="Padre, the Perl IDE">Padre, the Perl IDE</a> Gabor asks in the title  [Who needs and IDE for Perl anyway?](<a href="http://www.szabgab.com/blog/2008/08/1219321463.html">http://www.szabgab.com/blog/2008/08/1219321463.html</a> “”Who needs and IDE for Perl anyway?””) <strong>Who needs it?</strong> Well … me! But …<strong>Isn’t there a package for Mandriva</strong>? I’m going to try to at least install it, on my new home PC - that has now Mandriva that I have just installed. (<em>My use of Mandriva now is quite new. I mean - I started with Mandrake but it was a long time ago. I’m used to Debian , but this is for another post</em>)</p>
+]]></content>
+      <categories>
+        <category>Perl</category>
+      </categories>
+      <tags>
+        <tag>Perl</tag>
+        <tag>IDE</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Padre 0.20 on Mandriva 2009.0</title>
+    <url>/2008/12/14/padre-020-on-mandriva-20090/</url>
+    <content><![CDATA[<p>Just after my recent post (“<a href="http://meorero.wordpress.com/2008/12/10/my-shameless-expectations-from-padre-for-the-future/" title="My (shameless) expectations from Padre for the future">My (shameless) expectations from Padre for the future</a>“) - I’ve succeeded to get Padre 0.20 on my home PC using Mandriva 2009.0. I posted <a href="http://perl.org.il/pipermail/perl/2008-December/009940.html">my question</a> at the Israel.pm mailing list <a href="http://perl.org.il/pipermail/perl/2008-December/009940.html">[Israel.pm] Class::XSAccessor 0.13 module from CPAN on Mandriva - “make test” failure</a> - and I got <a href="http://perl.org.il/pipermail/perl/2008-December/009941.html">answer from Gabor Szabo</a> and <a href="http://perl.org.il/pipermail/perl/2008-December/009943.html">from Shlomi Fish</a> that were helpful. So here is a screen shot of Padre 0.20 on Mandriva 2009.0. I am just reading a message at the Padre-dev mailing list <a href="http://mail.perlide.org/pipermail/padre-dev/2008-December/000291.html">about Padre 0.21</a> - but I’ll try it later. 1008</p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
   </entry>
   <entry>
     <title>Padre 0.84 - for \&quot;Purim\&quot; in Hebrew and Arabic</title>
@@ -1682,32 +1723,55 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Padre 0.20 on Mandriva 2009.0</title>
-    <url>/2008/12/14/padre-020-on-mandriva-20090/</url>
-    <content><![CDATA[<p>Just after my recent post (“<a href="http://meorero.wordpress.com/2008/12/10/my-shameless-expectations-from-padre-for-the-future/" title="My (shameless) expectations from Padre for the future">My (shameless) expectations from Padre for the future</a>“) - I’ve succeeded to get Padre 0.20 on my home PC using Mandriva 2009.0. I posted <a href="http://perl.org.il/pipermail/perl/2008-December/009940.html">my question</a> at the Israel.pm mailing list <a href="http://perl.org.il/pipermail/perl/2008-December/009940.html">[Israel.pm] Class::XSAccessor 0.13 module from CPAN on Mandriva - “make test” failure</a> - and I got <a href="http://perl.org.il/pipermail/perl/2008-December/009941.html">answer from Gabor Szabo</a> and <a href="http://perl.org.il/pipermail/perl/2008-December/009943.html">from Shlomi Fish</a> that were helpful. So here is a screen shot of Padre 0.20 on Mandriva 2009.0. I am just reading a message at the Padre-dev mailing list <a href="http://mail.perlide.org/pipermail/padre-dev/2008-December/000291.html">about Padre 0.21</a> - but I’ll try it later. 1008</p>
+    <title>Padre 0.27 - on Mandriva 2009.0</title>
+    <url>/2009/02/10/padre-027-on-mandriva-2009/</url>
+    <content><![CDATA[<p>Today I’m at home. Elections in Israel. So I found a time to install <a href="http://padre.perlide.org/" title="Padre">Padre</a> - the <a href="http://padre.perlide.org/" title="Padre - The perl ide">Perl IDE</a> - which was just <a href="http://mail.perlide.org/pipermail/padre-dev/2009-February/000621.html" title="[Padre-dev] Padre 0.27 released">released yesterday with version 0.27</a>. Here is a screen shot of it from my home PC that uses Mandriva 2009.0 [caption id&#x3D;”attachment_266” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”Padre 0.27”]495[&#x2F;caption]</p>
 ]]></content>
       <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Yes! At last - Padre on Ms-Windows with ActivePerl 5.10.0 Build 1004</title>
-    <url>/2009/02/02/padre-on-ms-windows-with-activeperl-5100-build-1004/</url>
-    <content><![CDATA[<p>I’ve just succeeded to install Padre 0.25 on the Ms-Windows PC I have at work. It wasn’t easy at all… This PC is Windows XP with ActivePerl 5.10.0 Build 1004. All the times that I tried in the past - I had many problems, including complicated needs to do compilation. Now I have on it Microsoft Visual C++ 6.0 - maybe it helped solving dependency on modules that need local compilation. Other things that I have just made and helped:</p>
-<ol>
-<li>upgrading last version of Encode - using ppm ,</li>
-<li>upgrade of Wx - also by using ppm ,</li>
-<li>installing Alien-wxWidgets (the same way),</li>
-<li>And now - again with ppm:</li>
-</ol>
-<blockquote>
-<p>ppm install  –force Alien-wxWidgets-dev</p>
-</blockquote>
-<p>(I use the PPM from DOS “command line” :-&#x2F;) And now - here are a few pictures of my Padre 0.25: [caption id&#x3D;”attachment_234” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”Padre 0.25 main Window”]842[&#x2F;caption]</p>
-]]></content>
-      <categories>
+        <category>Padre - the Perl IDE</category>
+        <category>Mandriva</category>
         <category>Perl</category>
       </categories>
+      <tags>
+        <tag>Mandriva</tag>
+        <tag>Padre</tag>
+        <tag>Perl</tag>
+        <tag>Perl IDE</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PC-BSD vs DesktopBSD המשותף והשונה</title>
+    <url>/2008/05/17/pc-bsd-vs-desktopbsd/</url>
+    <content><![CDATA[<p>This post is based on: Gerard: “<em>PC-BSD vs DesktopBSD; similarities &amp; differences</em>“. In: Gerard. <strong>FreeBSD - the unknown Giant</strong> [blog on the Internet]. [posted: January 19, 2008] - [cited: May 17, 2008]. Available from: <a href="http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/">http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/</a> I agree with all what Gerard wrote - and here I write the same in Hebrew</p>
+<p>=&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
+<p><strong>המשותף</strong>: * אלו הם שני פרויקטים עצמאיים לא קשורים זה לזה ולא שואפים דווקא להתחרות זה בזה. * שניהם מבוססים על הגרסא היציבה האחרונה של FreeBSD. נכון להיום (מאי  2008 ) שניהם עדיין מתבססים על FreeBSD 6.3 למרות ש- FreeBSD 7.0 כבר יצאה. * שני הפרוייקטים אינם מתכוונים להתפצל מ- FreeBSD אלא ממשיכים להתבסס על מערכת זו ועל חבילות התוכנה שלה. * שני הפרוייקטים באים עם KDE כסביבת שולחן העבודה. * שניהם מכוונים לשימוש כשולחן עבודה (Desktop) במחשב האישי, ופחות כמערכת לשימוש בשרת. * לשני הפרוייקטים ממשק התקנה וגראפי קל. * שני הפרוייקטים באים עם דרייברים ל-Nvidia (כרטיסי מסך), וכוללים זיהוי וקונפיגורציה אוטומטית לכרטיסים נתמכים (automated detection and configuration).</p>
+<p>=&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
+<p><strong>שוני</strong>: [1258 <strong>PC-BSD</strong>:</p>
+<p>* מגובה ע”י תמיכה מקצועית של חברת <a href="http://www.ixsystems.com/" title="iXsystems">iXsy stems</a> . * מציעה מערכת ניהול חבילות נוספת &#x2F; אופציונלית להתקנת חבילות תוכנה בינריות - בשם “PBI” - שבאה עם ממשק גראפי וידידותי של “הבא” “הבא” “אשר” וזהו. זאת בנוסף למערכת ניהול החבילות הסטנדרטית של FreeBSD (ports ו- pkg). * כוללת תמיכה ב- Adobe Flash7 &amp; 9. —————————————————————————————————- [1847<strong>DesktopBSD</strong> : * פרוייקט המנוהל ע”י מתנדבים בלבד, ללא גיבוי של חברה מסחרית. בעל מחזור שחרור גרסאות איטי. * נראה כתואם לקו של FreeBSD מבחינת התקנה וקונפיגורציה, בתוספת של ממשק גראפי קל לשימוש. * כולל מנהל חבילות גראפי, להתקנה, עדכון וניהול של חבילות התוכנה ומערכת ה- ports של FreeBSD. * תשתית בניית החבילות הנה עצמאית, כך שניתן למצוא חבילות בינריות מעודכנות של הרבה תוכנות לשולחן העבודה. * זמין גם עבור פלטפורמת AMD64. &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; יתרון שמצאתי ל- DesktopBSD על פני PC-BSD הוא היותו של הדיסק של DesktopBSD גם Live CD. מה זאת אומרת? שניתן להפעיל את המערכת כ- Live CD, מתוך כונן התקליטורים ללא התקנה לדיסק הקשיח וכך להתרשם מן המערכת לפני שמתקינים. אםנם מן הדיסק הקשיח מהירות הפעולה גדולה יותר, אך זה מאפשר “לטעום” מהמערכת. ב- PC-BSD זה עדיין חסר, צריך להתקין לדיסק הקשיח. ל- PC-BSD, לעות זאת, יש אולי יתרון בממשק הקל לניהול חבילות, אך מצד שני הןאלא מסונכרן עם ה- Ports וזה יכול להיות חסרון.</p>
+]]></content>
+      <categories>
+        <category>BSD</category>
+      </categories>
+      <tags>
+        <tag>DesktopBSD</tag>
+        <tag>PC-BSD</tag>
+        <tag>BSD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>מקבץ תמונות של נועם מהשבועות הראשונים בפעוטון</title>
+    <url>/2015/09/23/peoton-hagit-sept-2015/</url>
+    <content><![CDATA[<p>נתן לומר - <strong><em>בזהירות</em></strong> - שנועם משתלב ממש יפה בפעוטון.  נכון… היום הראשון בלעדינו היה קצת קשה לנועם, אפילו משברי. ופה ושם התעוררות קצרה בלילה לחיבוק…</p>
+<p>אבל הההשתלבות עוברת טוב.</p>
+<p>נועם מתחיל <strong>לצייר</strong> ולעשות עבודות יצירה עם <strong>מדבקות</strong>. <strong>אוכל טוב</strong> בפעוטון.  אפילו <strong>ישן טוב</strong> שם! - וזה ממש משמח אותנו.</p>
+<p>[caption id&#x3D;”attachment_1050” align&#x3D;”alignleft” width&#x3D;”150”][372 נועם יושב מרוכז כל כך בציור. ממש מקסים[&#x2F;caption]</p>
+]]></content>
+      <categories>
+        <category>Noam Maurer</category>
+      </categories>
+      <tags>
+        <tag>Noam</tag>
+      </tags>
   </entry>
   <entry>
     <title>ערב פסח תשע\&quot;ז - אפריל 2017</title>
@@ -1765,70 +1829,6 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Parade - an IDE in Perl for Perl</title>
-    <url>/2008/08/21/parade-an-ide-in-perl-for-perl/</url>
-    <content><![CDATA[<p><a href="http://www.szabgab.com/" title="Gabor Szabo">Gabor Szabo</a> writes on <a href="http://www.szabgab.com/blog/" title="Gabor Szabo blog">his blog</a> about  <a href="http://padre.perlide.org/" title="Padre, the Perl IDE">Padre, the Perl IDE</a> Gabor asks in the title  [Who needs and IDE for Perl anyway?](<a href="http://www.szabgab.com/blog/2008/08/1219321463.html">http://www.szabgab.com/blog/2008/08/1219321463.html</a> “”Who needs and IDE for Perl anyway?””) <strong>Who needs it?</strong> Well … me! But …<strong>Isn’t there a package for Mandriva</strong>? I’m going to try to at least install it, on my new home PC - that has now Mandriva that I have just installed. (<em>My use of Mandriva now is quite new. I mean - I started with Mandrake but it was a long time ago. I’m used to Debian , but this is for another post</em>)</p>
-]]></content>
-      <categories>
-        <category>Perl</category>
-      </categories>
-      <tags>
-        <tag>Perl</tag>
-        <tag>IDE</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Padre 0.27 - on Mandriva 2009.0</title>
-    <url>/2009/02/10/padre-027-on-mandriva-2009/</url>
-    <content><![CDATA[<p>Today I’m at home. Elections in Israel. So I found a time to install <a href="http://padre.perlide.org/" title="Padre">Padre</a> - the <a href="http://padre.perlide.org/" title="Padre - The perl ide">Perl IDE</a> - which was just <a href="http://mail.perlide.org/pipermail/padre-dev/2009-February/000621.html" title="[Padre-dev] Padre 0.27 released">released yesterday with version 0.27</a>. Here is a screen shot of it from my home PC that uses Mandriva 2009.0 [caption id&#x3D;”attachment_266” align&#x3D;”alignnone” width&#x3D;”450” caption&#x3D;”Padre 0.27”]495[&#x2F;caption]</p>
-]]></content>
-      <categories>
-        <category>Padre - the Perl IDE</category>
-        <category>Mandriva</category>
-        <category>Perl</category>
-      </categories>
-      <tags>
-        <tag>Mandriva</tag>
-        <tag>Padre</tag>
-        <tag>Perl</tag>
-        <tag>Perl IDE</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PC-BSD vs DesktopBSD המשותף והשונה</title>
-    <url>/2008/05/17/pc-bsd-vs-desktopbsd/</url>
-    <content><![CDATA[<p>This post is based on: Gerard: “<em>PC-BSD vs DesktopBSD; similarities &amp; differences</em>“. In: Gerard. <strong>FreeBSD - the unknown Giant</strong> [blog on the Internet]. [posted: January 19, 2008] - [cited: May 17, 2008]. Available from: <a href="http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/">http://www.freebsdos.com/news/2008/01/19/pc-bsd-vs-desktopbsd-similarities-differences/</a> I agree with all what Gerard wrote - and here I write the same in Hebrew</p>
-<p>=&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
-<p><strong>המשותף</strong>: * אלו הם שני פרויקטים עצמאיים לא קשורים זה לזה ולא שואפים דווקא להתחרות זה בזה. * שניהם מבוססים על הגרסא היציבה האחרונה של FreeBSD. נכון להיום (מאי  2008 ) שניהם עדיין מתבססים על FreeBSD 6.3 למרות ש- FreeBSD 7.0 כבר יצאה. * שני הפרוייקטים אינם מתכוונים להתפצל מ- FreeBSD אלא ממשיכים להתבסס על מערכת זו ועל חבילות התוכנה שלה. * שני הפרוייקטים באים עם KDE כסביבת שולחן העבודה. * שניהם מכוונים לשימוש כשולחן עבודה (Desktop) במחשב האישי, ופחות כמערכת לשימוש בשרת. * לשני הפרוייקטים ממשק התקנה וגראפי קל. * שני הפרוייקטים באים עם דרייברים ל-Nvidia (כרטיסי מסך), וכוללים זיהוי וקונפיגורציה אוטומטית לכרטיסים נתמכים (automated detection and configuration).</p>
-<p>=&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
-<p><strong>שוני</strong>: [1258 <strong>PC-BSD</strong>:</p>
-<p>* מגובה ע”י תמיכה מקצועית של חברת <a href="http://www.ixsystems.com/" title="iXsystems">iXsy stems</a> . * מציעה מערכת ניהול חבילות נוספת &#x2F; אופציונלית להתקנת חבילות תוכנה בינריות - בשם “PBI” - שבאה עם ממשק גראפי וידידותי של “הבא” “הבא” “אשר” וזהו. זאת בנוסף למערכת ניהול החבילות הסטנדרטית של FreeBSD (ports ו- pkg). * כוללת תמיכה ב- Adobe Flash7 &amp; 9. —————————————————————————————————- [1847<strong>DesktopBSD</strong> : * פרוייקט המנוהל ע”י מתנדבים בלבד, ללא גיבוי של חברה מסחרית. בעל מחזור שחרור גרסאות איטי. * נראה כתואם לקו של FreeBSD מבחינת התקנה וקונפיגורציה, בתוספת של ממשק גראפי קל לשימוש. * כולל מנהל חבילות גראפי, להתקנה, עדכון וניהול של חבילות התוכנה ומערכת ה- ports של FreeBSD. * תשתית בניית החבילות הנה עצמאית, כך שניתן למצוא חבילות בינריות מעודכנות של הרבה תוכנות לשולחן העבודה. * זמין גם עבור פלטפורמת AMD64. &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; יתרון שמצאתי ל- DesktopBSD על פני PC-BSD הוא היותו של הדיסק של DesktopBSD גם Live CD. מה זאת אומרת? שניתן להפעיל את המערכת כ- Live CD, מתוך כונן התקליטורים ללא התקנה לדיסק הקשיח וכך להתרשם מן המערכת לפני שמתקינים. אםנם מן הדיסק הקשיח מהירות הפעולה גדולה יותר, אך זה מאפשר “לטעום” מהמערכת. ב- PC-BSD זה עדיין חסר, צריך להתקין לדיסק הקשיח. ל- PC-BSD, לעות זאת, יש אולי יתרון בממשק הקל לניהול חבילות, אך מצד שני הןאלא מסונכרן עם ה- Ports וזה יכול להיות חסרון.</p>
-]]></content>
-      <categories>
-        <category>BSD</category>
-      </categories>
-      <tags>
-        <tag>DesktopBSD</tag>
-        <tag>PC-BSD</tag>
-        <tag>BSD</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>מקבץ תמונות של נועם מהשבועות הראשונים בפעוטון</title>
-    <url>/2015/09/23/peoton-hagit-sept-2015/</url>
-    <content><![CDATA[<p>נתן לומר - <strong><em>בזהירות</em></strong> - שנועם משתלב ממש יפה בפעוטון.  נכון… היום הראשון בלעדינו היה קצת קשה לנועם, אפילו משברי. ופה ושם התעוררות קצרה בלילה לחיבוק…</p>
-<p>אבל הההשתלבות עוברת טוב.</p>
-<p>נועם מתחיל <strong>לצייר</strong> ולעשות עבודות יצירה עם <strong>מדבקות</strong>. <strong>אוכל טוב</strong> בפעוטון.  אפילו <strong>ישן טוב</strong> שם! - וזה ממש משמח אותנו.</p>
-<p>[caption id&#x3D;”attachment_1050” align&#x3D;”alignleft” width&#x3D;”150”][372 נועם יושב מרוכז כל כך בציור. ממש מקסים[&#x2F;caption]</p>
-]]></content>
-      <categories>
-        <category>Noam Maurer</category>
-      </categories>
-      <tags>
-        <tag>Noam</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>פלאנט ספרנוספירה?</title>
     <url>/2009/05/20/planet-safrano-sphera/</url>
     <content><![CDATA[<p>אולי להקים “פלאנט ספרנוספירה”?</p>
@@ -1854,20 +1854,6 @@ Tel Aviv
         <category>Blog</category>
         <category>Bloggers</category>
       </categories>
-  </entry>
-  <entry>
-    <title>ארגון ספריות המחקר האמריקאיות על אסטרטגיות להגדלת כמות התכנים החופשיים</title>
-    <url>/2010/05/21/research-library-issues/</url>
-    <content><![CDATA[<p>יפה אהרוני, מ<a href="http://medlib.tau.ac.il/hebrew/" title="הספרייה למדעי החיים ולרפואה">הספרייה למדעי החיים ולרפואה - אונ’ תל-אביב</a>, כותבת ב<a href="http://blog.tau.ac.il/" title="בלוג הספריות של אוניברסיטת תל-אביב">בלוג הספריות של אוניברסיטת תל-אביב</a> פוסט בכותרת: “<a href="http://blog.tau.ac.il/libraries/?p=4670" title="ארגון ספריות המחקר האמריקאיות על אסטרטגיות להגדלת כמות התכנים החופשיים">ארגון ספריות המחקר האמריקאיות על אסטרטגיות להגדלת כמות התכנים החופשיים</a>“.ארגון ספריות המחקר האמריקאיות מקדיש את  <a href="http://publications.arl.org/view/rli/s68n7/default" title="Research Library Issues">גיליון אפריל 2010</a> של כתב העת “<a href="http://publications.arl.org/view/rli/s68n7/default" title="Research Library Issues">Research Library Issues</a>“ לנושא אסטרטגיות לעידוד הפרסום ב”גישה הפתוחה”.</p>
-]]></content>
-      <categories>
-        <category>FOSS</category>
-        <category>Free /Open Source in Libraries</category>
-        <category>Open Access</category>
-      </categories>
-      <tags>
-        <tag>Open Access</tag>
-      </tags>
   </entry>
   <entry>
     <title>Search many PPM&#39;s (ActivePerl packages) and printing multi line results into a file</title>
@@ -1913,35 +1899,17 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>reunion</title>
-    <url>/2015/03/17/reunion/</url>
-    <content><![CDATA[<p>אחרי ש - (<strong>א</strong>) העברתי את הפוסטים מ- <a href="https://meorero.wordpress.com/" title="meorero.wordpress.com">meorero.wordpress.com</a> לאתר ה- Wordpress ב- OrenM.NET (מתארח זמנית ב- HostGator) ו - (<strong>ב</strong>) איחדתי לתוכם - עם תוסף  RSS IMPORTER - את הפוסטים שהיו באתר ה- Octopress (הבלוג הסטאטי) - מה שנשאר לי זה: לאחד את *כל* האתרים והכתובות שלי לאתר אחד ויחיד שיפעל כרגע על פלטפורמת וורדפרס.</p>
-<p>ההחלטה של כרגע היא להישאר עם המארח ה- “ראשי” שלי, כלומר ב- Clook.net , להתקין שם את וורדפרס (Wordpress) ולהביא הכל לשם.</p>
-<p>וב- HostGator -  להשאיר כרגע את ה<a href="http://www.michal.org.il/" title="האתר של מיכל">אתר של מיכל</a>. <a href="http://www.michal.org.il/" title="האתר של מיכל">Michal.org.il</a>.</p>
+    <title>ארגון ספריות המחקר האמריקאיות על אסטרטגיות להגדלת כמות התכנים החופשיים</title>
+    <url>/2010/05/21/research-library-issues/</url>
+    <content><![CDATA[<p>יפה אהרוני, מ<a href="http://medlib.tau.ac.il/hebrew/" title="הספרייה למדעי החיים ולרפואה">הספרייה למדעי החיים ולרפואה - אונ’ תל-אביב</a>, כותבת ב<a href="http://blog.tau.ac.il/" title="בלוג הספריות של אוניברסיטת תל-אביב">בלוג הספריות של אוניברסיטת תל-אביב</a> פוסט בכותרת: “<a href="http://blog.tau.ac.il/libraries/?p=4670" title="ארגון ספריות המחקר האמריקאיות על אסטרטגיות להגדלת כמות התכנים החופשיים">ארגון ספריות המחקר האמריקאיות על אסטרטגיות להגדלת כמות התכנים החופשיים</a>“.ארגון ספריות המחקר האמריקאיות מקדיש את  <a href="http://publications.arl.org/view/rli/s68n7/default" title="Research Library Issues">גיליון אפריל 2010</a> של כתב העת “<a href="http://publications.arl.org/view/rli/s68n7/default" title="Research Library Issues">Research Library Issues</a>“ לנושא אסטרטגיות לעידוד הפרסום ב”גישה הפתוחה”.</p>
 ]]></content>
       <categories>
-        <category>Blog</category>
+        <category>FOSS</category>
+        <category>Free /Open Source in Libraries</category>
+        <category>Open Access</category>
       </categories>
       <tags>
-        <tag>Blog</tag>
-        <tag>Hosting</tag>
-        <tag>Wordpress</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ריצ&#39;רד מ. סטלמן נגד מיחשוב הענן</title>
-    <url>/2010/06/20/rms-vs-cloude/</url>
-    <content><![CDATA[<p>אתר TheMarker IT מביא ראיון מצולם עם ריצ’רד מ. סטלמן - מ “אבות” התוכנה החופשית.</p>
-<p>ציטוט מ TheMarker IT : בהתייחסות חריפה למודל התוכנה כשירות מגדיר אותה מקים תנועת התוכנה החופשית כ”גרועות יותר מהתוכנות הסגורות” ומסביר כי הן “גוזלות את החופש מידי המשתמש”. הכתבה באתר TheMarker IT:  [“תחשוב כמו פראייר”: ריצ’ארד סטולמן נגד הענן](<a href="http://it.themarker.com/article/11211">http://it.themarker.com/article/11211</a> “”תחשוב כמו פראייר”: ריצ’ארד סטולמן נגד הענן”) הראיון המצולם - אתר Mashable:</p>
-<p><a href="http://mashable.com/2010/06/09/stallman-on-saas/">Are We Too Complacent About Cloud Computing? [VIDEO]</a></p>
-]]></content>
-      <categories>
-        <category>Free / Open Source</category>
-        <category>Cloud Computing</category>
-      </categories>
-      <tags>
-        <tag>Free Open Source software</tag>
-        <tag>Cloud Computing</tag>
+        <tag>Open Access</tag>
       </tags>
   </entry>
   <entry>
@@ -1986,6 +1954,56 @@ Tel Aviv
         <tag>ספרנו-ספרה</tag>
         <tag>ספרנים</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>ריצ&#39;רד מ. סטלמן נגד מיחשוב הענן</title>
+    <url>/2010/06/20/rms-vs-cloude/</url>
+    <content><![CDATA[<p>אתר TheMarker IT מביא ראיון מצולם עם ריצ’רד מ. סטלמן - מ “אבות” התוכנה החופשית.</p>
+<p>ציטוט מ TheMarker IT : בהתייחסות חריפה למודל התוכנה כשירות מגדיר אותה מקים תנועת התוכנה החופשית כ”גרועות יותר מהתוכנות הסגורות” ומסביר כי הן “גוזלות את החופש מידי המשתמש”. הכתבה באתר TheMarker IT:  [“תחשוב כמו פראייר”: ריצ’ארד סטולמן נגד הענן](<a href="http://it.themarker.com/article/11211">http://it.themarker.com/article/11211</a> “”תחשוב כמו פראייר”: ריצ’ארד סטולמן נגד הענן”) הראיון המצולם - אתר Mashable:</p>
+<p><a href="http://mashable.com/2010/06/09/stallman-on-saas/">Are We Too Complacent About Cloud Computing? [VIDEO]</a></p>
+]]></content>
+      <categories>
+        <category>Free / Open Source</category>
+        <category>Cloud Computing</category>
+      </categories>
+      <tags>
+        <tag>Free Open Source software</tag>
+        <tag>Cloud Computing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>reunion</title>
+    <url>/2015/03/17/reunion/</url>
+    <content><![CDATA[<p>אחרי ש - (<strong>א</strong>) העברתי את הפוסטים מ- <a href="https://meorero.wordpress.com/" title="meorero.wordpress.com">meorero.wordpress.com</a> לאתר ה- Wordpress ב- OrenM.NET (מתארח זמנית ב- HostGator) ו - (<strong>ב</strong>) איחדתי לתוכם - עם תוסף  RSS IMPORTER - את הפוסטים שהיו באתר ה- Octopress (הבלוג הסטאטי) - מה שנשאר לי זה: לאחד את *כל* האתרים והכתובות שלי לאתר אחד ויחיד שיפעל כרגע על פלטפורמת וורדפרס.</p>
+<p>ההחלטה של כרגע היא להישאר עם המארח ה- “ראשי” שלי, כלומר ב- Clook.net , להתקין שם את וורדפרס (Wordpress) ולהביא הכל לשם.</p>
+<p>וב- HostGator -  להשאיר כרגע את ה<a href="http://www.michal.org.il/" title="האתר של מיכל">אתר של מיכל</a>. <a href="http://www.michal.org.il/" title="האתר של מיכל">Michal.org.il</a>.</p>
+]]></content>
+      <categories>
+        <category>Blog</category>
+      </categories>
+      <tags>
+        <tag>Blog</tag>
+        <tag>Hosting</tag>
+        <tag>Wordpress</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>First Israeli Librarian Blogers Meeting: סַפְרַנוֹ-סְפֵירַה</title>
+    <url>/2009/04/17/safrano-sphera-meeting-20019/</url>
+    <content><![CDATA[<p>סַפְרַנוֹ-סְפֵירַה: מפגש הספרנים הבלוגרים הראשון בישראל</p>
+<p>.”<a href="http://www.notes.co.il/yigal/index.asp" title="מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע">מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע</a>“.</p>
+<p>כך אני קורא ב<a href="http://www.notes.co.il/yigal/54562.asp" title="מפגש הספרנים הבלוגרים הראשון בישראל">פוסט הזה</a> ב<a href="http://www.notes.co.il/yigal/index.asp" title="מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע">בלוג של יגאל חמיש</a>.</p>
+<p>למה המפגש? למה לא…</p>
+<p>איני נמנה עם עם תלמידיו של יגאל חמיש. בעצם - אפילו לא פגשתי אותו מימי פנים אל פנים.</p>
+<p>אבל כל השאר - דוקא מתאים לי: למדתי מידענות ספרנות (איך שהם קוראים לזה היום…), עסקתי בזה כמה וכמה שנים בעבר (בספריה אקדמית) - ובעצם גם היום (עבודה בחברה שמייצרת תוכנה לספריות), יש לי בלוג שעוסק במה שלמדתי ובמה שאני אוהב (ספרנות &#x2F; מידע &#x2F; מידענות ותוכנות קוד פתוח).</p>
+<p>האם אבוא?</p>
+<p>טוב… עדין איני יודע, בהלט שוקל זאת.</p>
+]]></content>
+      <categories>
+        <category>Blog</category>
+        <category>Bloggers</category>
+        <category>Librarians</category>
+      </categories>
   </entry>
   <entry>
     <title>Seeting c shell prompt - system-wide - in FreeBSD 7.2</title>
@@ -2034,51 +2052,6 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>First Israeli Librarian Blogers Meeting: סַפְרַנוֹ-סְפֵירַה</title>
-    <url>/2009/04/17/safrano-sphera-meeting-20019/</url>
-    <content><![CDATA[<p>סַפְרַנוֹ-סְפֵירַה: מפגש הספרנים הבלוגרים הראשון בישראל</p>
-<p>.”<a href="http://www.notes.co.il/yigal/index.asp" title="מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע">מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע</a>“.</p>
-<p>כך אני קורא ב<a href="http://www.notes.co.il/yigal/54562.asp" title="מפגש הספרנים הבלוגרים הראשון בישראל">פוסט הזה</a> ב<a href="http://www.notes.co.il/yigal/index.asp" title="מסע, מסה ומשא - תצפית על ארגונים, ניהול וידע">בלוג של יגאל חמיש</a>.</p>
-<p>למה המפגש? למה לא…</p>
-<p>איני נמנה עם עם תלמידיו של יגאל חמיש. בעצם - אפילו לא פגשתי אותו מימי פנים אל פנים.</p>
-<p>אבל כל השאר - דוקא מתאים לי: למדתי מידענות ספרנות (איך שהם קוראים לזה היום…), עסקתי בזה כמה וכמה שנים בעבר (בספריה אקדמית) - ובעצם גם היום (עבודה בחברה שמייצרת תוכנה לספריות), יש לי בלוג שעוסק במה שלמדתי ובמה שאני אוהב (ספרנות &#x2F; מידע &#x2F; מידענות ותוכנות קוד פתוח).</p>
-<p>האם אבוא?</p>
-<p>טוב… עדין איני יודע, בהלט שוקל זאת.</p>
-]]></content>
-      <categories>
-        <category>Blog</category>
-        <category>Bloggers</category>
-        <category>Librarians</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>שלו - בן 4 - סרטון</title>
-    <url>/2020/09/27/shalev-birthday-4/</url>
-    <content><![CDATA[<p>סרטון יום הולדת 4 - שלו <a href="https://youtu.be/gl1NuACn03Y">https://youtu.be/gl1NuACn03Y</a></p>
-<style>.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe, .embed-container object, .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  </style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/gl1NuACn03Y" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>  
-<p>.  </p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Short Linux / F.O.S.S. activity in Israel</title>
     <url>/2008/04/13/short-linux-foss-activity-in-israel/</url>
     <content><![CDATA[<p>This post is mostly in Hebrew since it deals with my short Linux &#x2F; F.O.S.S. activity in Israel.</p>
@@ -2108,22 +2081,53 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>The alternate Ubuntu 8.04 CD - it seems to work! (pics)</title>
-    <url>/2008/04/25/the-alternate-ubuntu-804-cd-it-seems-to-work-pics/</url>
-    <content><![CDATA[<p>After I downloaded the Alternate install CD of Ubuntu 8.0.4, I run this:</p>
-<p>gksu “sh &#x2F;cdrom&#x2F;cdromupgrade”</p>
-<p>[107</p>
+    <title>שלו - בן 4 - סרטון</title>
+    <url>/2020/09/27/shalev-birthday-4/</url>
+    <content><![CDATA[<p>סרטון יום הולדת 4 - שלו <a href="https://youtu.be/gl1NuACn03Y">https://youtu.be/gl1NuACn03Y</a></p>
+<style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/gl1NuACn03Y" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>  
+<p>.  </p>
 ]]></content>
       <categories>
-        <category>Linux</category>
-        <category>Ubuntu</category>
-        <category>Mandriva</category>
+        <category>uncategorized</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Teldan \&quot;Info 2008\&quot; Conference -  My presentation</title>
+    <url>/2008/04/22/teldan-info-2008-conference-my-presentation/</url>
+    <content><![CDATA[<p>I wrote a post in <a href="http://www.i-zm.info/data/article.phtml?id=1518&b=26">Hebrew - פוסט בעברית</a> about it.<br>On Wednesday - 2 April 2008 - I participated in Teldan “Info 2008” Conference.<br>The day I had the title: “לקוח או לקוח שבוי? הספריה וצרכי המשתמש - בעידן web 2.0” (“Customer or captive? The library and users needs at the Web 2.0 era”).<br>The presentation I gave was titled: “חופשי זה יותר מחינם” ספריות וקוד חופשי פתוח &#x2F; “קתדרלה” או “בזאר” (Free in more than gratis - Libraries and Free Open Source software - “Cathedral” or “Bazaar”).  </p>
+<p>The specific day was organized by Haifa University library, so many of the speakers were from Haifa.<br>Therefore also the presentations can be found at the <a href="http://liblog.haifa.ac.il/index.php?option=com_content&task=view&id=746#mazagot1">Blog</a> of Haifa University library.  </p>
+<p>A PDF can be also found on my <a href="http://meorero.org.il/teldan-info2008/info2008_presentation.html#download">home site</a> in compressed (zipped) format.</p>
+]]></content>
+      <categories>
+        <category>Free / Open Source</category>
+        <category>Conferences</category>
+        <category>קוד חופשי פתוח ישראל</category>
       </categories>
       <tags>
-        <tag>Ubuntu</tag>
-        <tag>Mandriva</tag>
-        <tag>Ubuntu 8.04</tag>
-        <tag>Upgrade Ubuntu</tag>
+        <tag>Free Open Source software</tag>
+        <tag>FOSS</tag>
+        <tag>FOSS in Libraries</tag>
+        <tag>Teldan Conference</tag>
+        <tag>Info 2008</tag>
+        <tag>presentation</tag>
+        <tag>Teldan</tag>
+        <tag>Teldan &quot;Info 2008&quot; Conference</tag>
       </tags>
   </entry>
   <entry>
@@ -2154,44 +2158,22 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Teldan \&quot;Info 2008\&quot; Conference -  My presentation</title>
-    <url>/2008/04/22/teldan-info-2008-conference-my-presentation/</url>
-    <content><![CDATA[<p>I wrote a post in <a href="http://www.i-zm.info/data/article.phtml?id=1518&b=26">Hebrew - פוסט בעברית</a> about it.<br>On Wednesday - 2 April 2008 - I participated in Teldan “Info 2008” Conference.<br>The day I had the title: “לקוח או לקוח שבוי? הספריה וצרכי המשתמש - בעידן web 2.0” (“Customer or captive? The library and users needs at the Web 2.0 era”).<br>The presentation I gave was titled: “חופשי זה יותר מחינם” ספריות וקוד חופשי פתוח &#x2F; “קתדרלה” או “בזאר” (Free in more than gratis - Libraries and Free Open Source software - “Cathedral” or “Bazaar”).  </p>
-<p>The specific day was organized by Haifa University library, so many of the speakers were from Haifa.<br>Therefore also the presentations can be found at the <a href="http://liblog.haifa.ac.il/index.php?option=com_content&task=view&id=746#mazagot1">Blog</a> of Haifa University library.  </p>
-<p>A PDF can be also found on my <a href="http://meorero.org.il/teldan-info2008/info2008_presentation.html#download">home site</a> in compressed (zipped) format.</p>
+    <title>The alternate Ubuntu 8.04 CD - it seems to work! (pics)</title>
+    <url>/2008/04/25/the-alternate-ubuntu-804-cd-it-seems-to-work-pics/</url>
+    <content><![CDATA[<p>After I downloaded the Alternate install CD of Ubuntu 8.0.4, I run this:</p>
+<p>gksu “sh &#x2F;cdrom&#x2F;cdromupgrade”</p>
+<p>[107</p>
 ]]></content>
       <categories>
-        <category>Free / Open Source</category>
-        <category>Conferences</category>
-        <category>קוד חופשי פתוח ישראל</category>
+        <category>Linux</category>
+        <category>Ubuntu</category>
+        <category>Mandriva</category>
       </categories>
       <tags>
-        <tag>Free Open Source software</tag>
-        <tag>FOSS</tag>
-        <tag>FOSS in Libraries</tag>
-        <tag>Teldan Conference</tag>
-        <tag>Info 2008</tag>
-        <tag>presentation</tag>
-        <tag>Teldan</tag>
-        <tag>Teldan &quot;Info 2008&quot; Conference</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>The move. Done.</title>
-    <url>/2015/03/16/the-move-done/</url>
-    <content><![CDATA[<p>Done.</p>
-<p>הפוסטים הועברו מ- <a href="https://meorero.wordpress.com/" title="meorero.wordpress.com">meorero.wordpress.com</a> לאתר הנוכחי.</p>
-<p>כעת נשאר לי לאחד את כל הכתובות שלי לחברה מארחת אחת. לבחור בין Clook ל- Host Gator.</p>
-<p>כעת orenm.net - הבלוג המעודכן - מתארח ב- Host Gator, במקביל לאתר של מיכל. וכל השאר ב- Clook.net.</p>
-]]></content>
-      <categories>
-        <category>Blog</category>
-        <category>Wordpress</category>
-      </categories>
-      <tags>
-        <tag>Wordpress</tag>
-        <tag>Blogging</tag>
-        <tag>Octopress</tag>
+        <tag>Ubuntu</tag>
+        <tag>Mandriva</tag>
+        <tag>Ubuntu 8.04</tag>
+        <tag>Upgrade Ubuntu</tag>
       </tags>
   </entry>
   <entry>
@@ -2215,6 +2197,24 @@ Tel Aviv
         <tag>Free /Open Source in Libraries</tag>
         <tag>Open Access</tag>
         <tag>The Open Library</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The move. Done.</title>
+    <url>/2015/03/16/the-move-done/</url>
+    <content><![CDATA[<p>Done.</p>
+<p>הפוסטים הועברו מ- <a href="https://meorero.wordpress.com/" title="meorero.wordpress.com">meorero.wordpress.com</a> לאתר הנוכחי.</p>
+<p>כעת נשאר לי לאחד את כל הכתובות שלי לחברה מארחת אחת. לבחור בין Clook ל- Host Gator.</p>
+<p>כעת orenm.net - הבלוג המעודכן - מתארח ב- Host Gator, במקביל לאתר של מיכל. וכל השאר ב- Clook.net.</p>
+]]></content>
+      <categories>
+        <category>Blog</category>
+        <category>Wordpress</category>
+      </categories>
+      <tags>
+        <tag>Wordpress</tag>
+        <tag>Blogging</tag>
+        <tag>Octopress</tag>
       </tags>
   </entry>
   <entry>
@@ -2265,48 +2265,14 @@ Tel Aviv
       <categories>
         <category>FOSS</category>
         <category>Free /Open Source in Libraries</category>
-        <category>קוד חופשי פתוח ישראל</category>
         <category>ILS (Integratel Library Systems)</category>
+        <category>קוד חופשי פתוח ישראל</category>
       </categories>
       <tags>
         <tag>FOSS</tag>
         <tag>FOSS in Libraries</tag>
         <tag>ULI</tag>
         <tag>VuFind</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Ubuntu 8.04 has just been released!</title>
-    <url>/2008/04/24/ubuntu-804-has-just-been-released/</url>
-    <content><![CDATA[<p>Ubuntu - this is what I currently use as my “mmain” desktop ditribution. Now I have just read <a href="http://www.whatsup.org.il/modules.php?op=modload&name=News&file=article&sid=6037">here</a> (<a href="http://www.whatsup.org.il/modules.php?op=modload&name=News&file=article&sid=6037">Whatsup.org.il</a>), <a href="http://linmagazine.co.il/ubuntu/2008/04/24/ubuntu-8-04-lts">here</a> (<a href="http://linmagazine.co.il/ubuntu/2008/04/24/ubuntu-8-04-lts">Linmagazine.co.il</a>), and <a href="http://www.ubuntu.com/products/whatisubuntu/804features/">here</a> (<a href="http://www.ubuntu.com/products/whatisubuntu/804features/">Ubuntu</a> site) that Ubuntu 8.04 has just been released. I hope this upgrade ill be successful and easy…</p>
-]]></content>
-      <categories>
-        <category>Ubuntu</category>
-      </categories>
-      <tags>
-        <tag>Ubuntu</tag>
-        <tag>Ubuntu 8.04</tag>
-        <tag>Ubuntu 7.10</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Unix History - visual image</title>
-    <url>/2008/07/20/unix-history-visual-image/</url>
-    <content><![CDATA[<p>I love history. I also love Unix. I mean Linux … and *BSD of course. So - here it is together: <a href="http://www.levenez.com/unix/history.html" title="Unix History">Unix History</a>, in an Image, made by <a href="http://www.levenez.com/" title="Éric Lévénez">Éric Lévénez</a>. <a href="http://www.levenez.com/unix/history.html">http://www.levenez.com/unix/history.html</a></p>
-]]></content>
-      <categories>
-        <category>Unix</category>
-        <category>Free / Open Source</category>
-        <category>Linux</category>
-        <category>BSD</category>
-        <category>History</category>
-      </categories>
-      <tags>
-        <tag>Unix</tag>
-        <tag>Unix History</tag>
-        <tag>Free Open Source software</tag>
-        <tag>History</tag>
-        <tag>Timetable</tag>
       </tags>
   </entry>
   <entry>
@@ -2332,6 +2298,20 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
+    <title>Ubuntu 8.04 has just been released!</title>
+    <url>/2008/04/24/ubuntu-804-has-just-been-released/</url>
+    <content><![CDATA[<p>Ubuntu - this is what I currently use as my “mmain” desktop ditribution. Now I have just read <a href="http://www.whatsup.org.il/modules.php?op=modload&name=News&file=article&sid=6037">here</a> (<a href="http://www.whatsup.org.il/modules.php?op=modload&name=News&file=article&sid=6037">Whatsup.org.il</a>), <a href="http://linmagazine.co.il/ubuntu/2008/04/24/ubuntu-8-04-lts">here</a> (<a href="http://linmagazine.co.il/ubuntu/2008/04/24/ubuntu-8-04-lts">Linmagazine.co.il</a>), and <a href="http://www.ubuntu.com/products/whatisubuntu/804features/">here</a> (<a href="http://www.ubuntu.com/products/whatisubuntu/804features/">Ubuntu</a> site) that Ubuntu 8.04 has just been released. I hope this upgrade ill be successful and easy…</p>
+]]></content>
+      <categories>
+        <category>Ubuntu</category>
+      </categories>
+      <tags>
+        <tag>Ubuntu</tag>
+        <tag>Ubuntu 8.04</tag>
+        <tag>Ubuntu 7.10</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>I&#39;m using Bootstrap theme</title>
     <url>/2013/06/22/using-bootstrap-theme/</url>
     <content><![CDATA[<p>After trying to “hack” my site to look more or less the same in older IE - I finally decided to look for a new different theme that will do the work for me.</p>
@@ -2350,21 +2330,23 @@ Tel Aviv
       </categories>
   </entry>
   <entry>
-    <title>When I discovered *BSD</title>
-    <url>/2008/04/18/when-i-discovered-bsd/</url>
-    <content><![CDATA[<p>My first experiences were in late 2003 and the beginning of 2004. I received from my father an old PC - really old one - from the early 1990’s. It had a 486 processor of AMD, and a tiny hard disk of 325Mb. I thought it will be cool to have it as a home-made firewall. In the end - I did have a working FreeBSD, but didn’t build any firewall. I had no power to go into all th security staff , and mainly - I had troubles setting the ADSL connection from it. I found my messages at “Whatsup” that describe it.</p>
-<p>בעייה בהתקנת FreeBSD גרסאות 5.0 ומעלה</p>
-<p><a href="http://www.whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&t=10061&highlight=">מה ההבדל בין IPsec לבין IPFW</a></p>
-<p>and about OpenBSD:</p>
-<p><a href="http://www.whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&t=10124&highlight=">הכנת ISO של OpenBSD (לצריבה והתקנה מ- CD)</a></p>
+    <title>Unix History - visual image</title>
+    <url>/2008/07/20/unix-history-visual-image/</url>
+    <content><![CDATA[<p>I love history. I also love Unix. I mean Linux … and *BSD of course. So - here it is together: <a href="http://www.levenez.com/unix/history.html" title="Unix History">Unix History</a>, in an Image, made by <a href="http://www.levenez.com/" title="Éric Lévénez">Éric Lévénez</a>. <a href="http://www.levenez.com/unix/history.html">http://www.levenez.com/unix/history.html</a></p>
 ]]></content>
       <categories>
+        <category>Unix</category>
+        <category>Free / Open Source</category>
+        <category>Linux</category>
         <category>BSD</category>
+        <category>History</category>
       </categories>
       <tags>
-        <tag>BSD</tag>
-        <tag>FreeBSD</tag>
-        <tag>OpenBSD</tag>
+        <tag>Unix</tag>
+        <tag>Unix History</tag>
+        <tag>Free Open Source software</tag>
+        <tag>History</tag>
+        <tag>Timetable</tag>
       </tags>
   </entry>
   <entry>
@@ -2382,6 +2364,24 @@ Tel Aviv
       <tags>
         <tag>Berlin</tag>
         <tag>ברלין</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>When I discovered *BSD</title>
+    <url>/2008/04/18/when-i-discovered-bsd/</url>
+    <content><![CDATA[<p>My first experiences were in late 2003 and the beginning of 2004. I received from my father an old PC - really old one - from the early 1990’s. It had a 486 processor of AMD, and a tiny hard disk of 325Mb. I thought it will be cool to have it as a home-made firewall. In the end - I did have a working FreeBSD, but didn’t build any firewall. I had no power to go into all th security staff , and mainly - I had troubles setting the ADSL connection from it. I found my messages at “Whatsup” that describe it.</p>
+<p>בעייה בהתקנת FreeBSD גרסאות 5.0 ומעלה</p>
+<p><a href="http://www.whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&t=10061&highlight=">מה ההבדל בין IPsec לבין IPFW</a></p>
+<p>and about OpenBSD:</p>
+<p><a href="http://www.whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&t=10124&highlight=">הכנת ISO של OpenBSD (לצריבה והתקנה מ- CD)</a></p>
+]]></content>
+      <categories>
+        <category>BSD</category>
+      </categories>
+      <tags>
+        <tag>BSD</tag>
+        <tag>FreeBSD</tag>
+        <tag>OpenBSD</tag>
       </tags>
   </entry>
   <entry>
@@ -2406,22 +2406,6 @@ Tel Aviv
       </tags>
   </entry>
   <entry>
-    <title>Which Unix version is installed?</title>
-    <url>/2008/11/09/which-unix-version-is-installed/</url>
-    <content><![CDATA[<p>I wanted to check the version in different Unices ( &#x3D;&#x3D; UNIX’es). <strong>Linux</strong>: &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
-<p>&gt;&gt;cat &#x2F;etc&#x2F;issue Red Hat Enterprise Linux ES release 4 (Nahant Update 6) Kernel r on an m &gt;&gt;cat &#x2F;etc&#x2F;*release Red Hat Enterprise Linux ES release 4 (Nahant Update 6) ————————————————————- Or (Red Hat):</p>
-<p>&gt;&gt;cat &#x2F;etc&#x2F;redhat-release Red Hat Enterprise Linux ES release 4 (Nahant Update 6) <strong>Solaris</strong>: &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; Like Linux:</p>
-<p>&gt;&gt;cat &#x2F;etc&#x2F;*release Solaris 10 5&#x2F;08 s10s_u5wos_10 SPARC Copyright 2008 Sun Microsystems, Inc.  All Rights Reserved. Use is subject to license terms. Assembled 24 March 2008 <strong>AIX</strong>: &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; <a href="http://www.unix.com/aix/64647-aix-version.html">http://www.unix.com/aix/64647-aix-version.html</a> ——————————————————————————</p>
-<p>&gt;&gt;oslevel -g Fileset                                 Actual Level        Maintenance Level —————————————————————————– bos.rte                                 5.3.0.50            5.3.0.0 &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; <strong>References</strong>: The forums on <a href="http://whatsup.org.il/modules.php?op=modload&name=PNphpBB2&file=index">Whatsup.org.il</a> :</p>
-<p>“<a href="http://www.whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&t=48012">מערכת ההפעלה המותקנת בשרת</a>“ <a href="http://whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&p=300257">איזה גרסאת AIX מותקנת?</a></p>
-<p>Blogged with the <a href="http://www.flock.com/blogged-with-flock" title="Flock Browser">Flock Browser</a></p>
-]]></content>
-      <categories>
-        <category>Unix</category>
-        <category>Linux</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Why do I want an IDE for Perl</title>
     <url>/2008/08/22/why-do-i-want-a-perl-ide/</url>
     <content><![CDATA[<p>I was asked (Gabor - thanks) to <strong>explain why do I actually need an IDE for Perl</strong>. <strong>The short answer</strong> is - To run my little Perl&#x2F;TK program from inside the editor, and Debugging. <strong>Details</strong>:</p>
@@ -2444,6 +2428,32 @@ Tel Aviv
         <tag>ActivePerl</tag>
         <tag>VIM</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Which Unix version is installed?</title>
+    <url>/2008/11/09/which-unix-version-is-installed/</url>
+    <content><![CDATA[<p>I wanted to check the version in different Unices ( &#x3D;&#x3D; UNIX’es). <strong>Linux</strong>: &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;</p>
+<p>&gt;&gt;cat &#x2F;etc&#x2F;issue Red Hat Enterprise Linux ES release 4 (Nahant Update 6) Kernel r on an m &gt;&gt;cat &#x2F;etc&#x2F;*release Red Hat Enterprise Linux ES release 4 (Nahant Update 6) ————————————————————- Or (Red Hat):</p>
+<p>&gt;&gt;cat &#x2F;etc&#x2F;redhat-release Red Hat Enterprise Linux ES release 4 (Nahant Update 6) <strong>Solaris</strong>: &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; Like Linux:</p>
+<p>&gt;&gt;cat &#x2F;etc&#x2F;*release Solaris 10 5&#x2F;08 s10s_u5wos_10 SPARC Copyright 2008 Sun Microsystems, Inc.  All Rights Reserved. Use is subject to license terms. Assembled 24 March 2008 <strong>AIX</strong>: &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; <a href="http://www.unix.com/aix/64647-aix-version.html">http://www.unix.com/aix/64647-aix-version.html</a> ——————————————————————————</p>
+<p>&gt;&gt;oslevel -g Fileset                                 Actual Level        Maintenance Level —————————————————————————– bos.rte                                 5.3.0.50            5.3.0.0 &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; <strong>References</strong>: The forums on <a href="http://whatsup.org.il/modules.php?op=modload&name=PNphpBB2&file=index">Whatsup.org.il</a> :</p>
+<p>“<a href="http://www.whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&t=48012">מערכת ההפעלה המותקנת בשרת</a>“ <a href="http://whatsup.org.il/index.php?name=PNphpBB2&file=viewtopic&p=300257">איזה גרסאת AIX מותקנת?</a></p>
+<p>Blogged with the <a href="http://www.flock.com/blogged-with-flock" title="Flock Browser">Flock Browser</a></p>
+]]></content>
+      <categories>
+        <category>Unix</category>
+        <category>Linux</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>תביעה כנגד יוצרי תוכנת Zotero</title>
+    <url>/2008/10/07/zotero/</url>
+    <content><![CDATA[<p>סערה גדולה באקדמיה בארה”ב כנגד החלטת <a href="http://www.thomsonreuters.com/">Thomson Reuters Inc</a> לתבוע את <a href="http://www.gmu.edu/">George Mason University</a> שפתחה את תוכנת ניהול הציטוטים <a href="http://www.zotero.org/">Zotero</a> ( קוד פתוח ). [caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”254” caption&#x3D;”Zotero (zoh-TAIR-oh) - a free, easy-to-use Firefox extension to help you collect, manage, and cite your research sources.”][<img src="http://www.zotero.org/wp-content/themes/working/images/zotero-sm.gif" alt="Zotero [zoh-TAIR-oh] - a free, easy-to-use Firefox extension to help you collect, manage, and cite your research sources." title="Zotero"><span class="image-caption">Zotero [zoh-TAIR-oh] - a free, easy-to-use Firefox extension to help you collect, manage, and cite your research sources.</span>](<a href="http://www.zotero.org/)/[/caption/]%D7%A4%D7%A8%D7%98%D7%99%D7%9D">http://www.zotero.org/)\[/caption\]פרטים</a> - <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=1003">הפוסט המלא</a> מתוך בלוג ספריית אוניברסיטת חיפה - <a href="http://lib.haifa.ac.il/liblog/index.php">“מידע במידה”</a>. לעיונכם <a href="http://chronicle.com/wiredcampus/article/3363/companys-lawsuit-over-free-scholarly-organization-tool-generates-buzz"><strong>הידיעה המלאה</strong></a> (דרך: The Chronicle of Higher Education )</p>
+<p>Blogged with the <a href="http://www.flock.com/blogged-with-flock" title="Flock Browser">Flock Browser</a></p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
   </entry>
   <entry>
     <title>Windows 7 BSOD?</title>
@@ -2514,43 +2524,6 @@ Tel Aviv
       </categories>
   </entry>
   <entry>
-    <title>תביעה כנגד יוצרי תוכנת Zotero</title>
-    <url>/2008/10/07/zotero/</url>
-    <content><![CDATA[<p>סערה גדולה באקדמיה בארה”ב כנגד החלטת <a href="http://www.thomsonreuters.com/">Thomson Reuters Inc</a> לתבוע את <a href="http://www.gmu.edu/">George Mason University</a> שפתחה את תוכנת ניהול הציטוטים <a href="http://www.zotero.org/">Zotero</a> ( קוד פתוח ). [caption id&#x3D;”” align&#x3D;”alignnone” width&#x3D;”254” caption&#x3D;”Zotero (zoh-TAIR-oh) - a free, easy-to-use Firefox extension to help you collect, manage, and cite your research sources.”][<img src="http://www.zotero.org/wp-content/themes/working/images/zotero-sm.gif" alt="Zotero [zoh-TAIR-oh] - a free, easy-to-use Firefox extension to help you collect, manage, and cite your research sources." title="Zotero"><span class="image-caption">Zotero [zoh-TAIR-oh] - a free, easy-to-use Firefox extension to help you collect, manage, and cite your research sources.</span>](<a href="http://www.zotero.org/)/[/caption/]%D7%A4%D7%A8%D7%98%D7%99%D7%9D">http://www.zotero.org/)\[/caption\]פרטים</a> - <a href="http://lib.haifa.ac.il/liblog/index.php?option=com_content&task=view&id=1003">הפוסט המלא</a> מתוך בלוג ספריית אוניברסיטת חיפה - <a href="http://lib.haifa.ac.il/liblog/index.php">“מידע במידה”</a>. לעיונכם <a href="http://chronicle.com/wiredcampus/article/3363/companys-lawsuit-over-free-scholarly-organization-tool-generates-buzz"><strong>הידיעה המלאה</strong></a> (דרך: The Chronicle of Higher Education )</p>
-<p>Blogged with the <a href="http://www.flock.com/blogged-with-flock" title="Flock Browser">Flock Browser</a></p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>עינב בת 4 - סרטון</title>
-    <url>/2020/09/27/%D7%A2%D7%99%D7%A0%D7%91-%D7%91%D7%AA-4-%D7%A1%D7%A8%D7%98%D7%95%D7%9F/</url>
-    <content><![CDATA[<p>עינב בת 4 - סרטון יום הולדת. <a href="https://youtu.be/GprreQoGxR4">https://youtu.be/GprreQoGxR4</a></p>
-<style>.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  .embed-container iframe, .embed-container object, .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-  </style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/GprreQoGxR4" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
-<p>.</p>
-]]></content>
-      <categories>
-        <category>uncategorized</category>
-      </categories>
-  </entry>
-  <entry>
     <title>עינב - סרטון לכבוד יום הולדת 3</title>
     <url>/2019/07/04/%D7%A2%D7%99%D7%A0%D7%91-%D7%A1%D7%A8%D7%98%D7%95%D7%9F-%D7%9C%D7%9B%D7%91%D7%95%D7%93-%D7%99%D7%95%D7%9D-%D7%94%D7%95%D7%9C%D7%93%D7%AA-3/</url>
     <content><![CDATA[<p>עינב - סרטון לכבוד יום הולדת 3. </p>
@@ -2604,6 +2577,33 @@ Tel Aviv
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/MpYcHeJFwwE" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 <p>. </p>
+]]></content>
+      <categories>
+        <category>uncategorized</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>עינב בת 4 - סרטון</title>
+    <url>/2020/09/27/%D7%A2%D7%99%D7%A0%D7%91-%D7%91%D7%AA-4-%D7%A1%D7%A8%D7%98%D7%95%D7%9F/</url>
+    <content><![CDATA[<p>עינב בת 4 - סרטון יום הולדת. <a href="https://youtu.be/GprreQoGxR4">https://youtu.be/GprreQoGxR4</a></p>
+<style>.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/GprreQoGxR4" allowfullscreen frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+<p>.</p>
 ]]></content>
       <categories>
         <category>uncategorized</category>
